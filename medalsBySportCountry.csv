@@ -1,0 +1,3260 @@
+Event,Sport,Rank,Country,NPC,Gold,Silver,Bronze,Total
+rome-1960,archery,1,United States,USA,2,0,1,3
+rome-1960,archery,2,Rhodesia,RHO,2,0,0,2
+rome-1960,archery,3,Great Britain,GBR,1,4,5,10
+rome-1960,archery,4,France,FRA,1,2,0,3
+rome-1960,archery,5,Australia,AUS,1,1,0,2
+rome-1960,archery,6,Ireland,IRL,1,0,0,1
+rome-1960,archery,7,Belgium,BEL,0,1,1,2
+rome-1960,archery,8,Germany,GER,0,0,1,1
+rome-1960,athletics,1,Italy,ITA,12,12,8,32
+rome-1960,athletics,2,Germany,GER,5,3,5,13
+rome-1960,athletics,3,Great Britain,GBR,4,0,4,8
+rome-1960,athletics,4,United States,USA,3,0,1,4
+rome-1960,athletics,5,France,FRA,1,0,0,1
+rome-1960,athletics,6,Australia,AUS,0,4,1,5
+rome-1960,athletics,7,Netherlands,NED,0,2,0,2
+rome-1960,athletics,7,Switzerland,SUI,0,2,0,2
+rome-1960,athletics,8,Austria,AUT,0,1,5,6
+rome-1960,athletics,9,Malta,MLT,0,1,1,2
+rome-1960,dartchery,1,United States,USA,1,1,0,2
+rome-1960,dartchery,2,France,FRA,0,0,1,1
+rome-1960,snooker,1,Great Britain,GBR,1,1,0,2
+rome-1960,snooker,2,Italy,ITA,0,0,1,1
+rome-1960,snooker,2,Malta,MLT,0,0,1,1
+rome-1960,swimming,1,Italy,ITA,11,9,8,28
+rome-1960,swimming,2,Great Britain,GBR,11,8,5,24
+rome-1960,swimming,3,Norway,NOR,9,3,3,15
+rome-1960,swimming,4,Germany,GER,9,3,2,14
+rome-1960,swimming,5,Austria,AUT,8,5,5,18
+rome-1960,swimming,6,United States,USA,3,6,5,14
+rome-1960,swimming,7,Netherlands,NED,3,2,0,5
+rome-1960,swimming,8,Argentina,ARG,2,3,1,6
+rome-1960,swimming,9,Australia,AUS,2,0,0,2
+rome-1960,swimming,10,France,FRA,1,1,0,2
+rome-1960,swimming,10,Switzerland,SUI,1,1,0,2
+rome-1960,swimming,11,Finland,FIN,1,0,0,1
+rome-1960,swimming,11,Ireland,IRL,1,0,0,1
+rome-1960,swimming,12,Rhodesia,RHO,0,1,2,3
+rome-1960,swimming,13,Israel,ISR,0,1,1,2
+rome-1960,table-tennis,1,Italy,ITA,3,4,3,10
+rome-1960,table-tennis,2,Austria,AUT,3,2,1,6
+rome-1960,table-tennis,3,Great Britain,GBR,3,1,5,9
+rome-1960,table-tennis,4,Germany,GER,1,0,1,2
+rome-1960,table-tennis,5,Belgium,BEL,1,0,0,1
+rome-1960,table-tennis,6,Australia,AUS,0,1,0,1
+rome-1960,table-tennis,6,Israel,ISR,0,1,0,1
+rome-1960,table-tennis,6,Malta,MLT,0,1,0,1
+rome-1960,table-tennis,6,Netherlands,NED,0,1,0,1
+rome-1960,table-tennis,7,Norway,NOR,0,0,1,1
+rome-1960,wheelchair-basketball,1,United States,USA,2,0,0,2
+rome-1960,wheelchair-basketball,2,Great Britain,GBR,0,1,1,2
+rome-1960,wheelchair-basketball,3,Netherlands,NED,0,1,0,1
+rome-1960,wheelchair-basketball,4,Israel,ISR,0,0,1,1
+rome-1960,wheelchair-fencing,1,Italy,ITA,3,3,3,9
+tokyo-1964,archery,1,United States,USA,7,0,2,9
+tokyo-1964,archery,2,South Africa,RSA,2,1,0,3
+tokyo-1964,archery,3,Rhodesia,RHO,2,0,0,2
+tokyo-1964,archery,4,France,FRA,1,1,1,3
+tokyo-1964,archery,5,Great Britain,GBR,0,2,2,4
+tokyo-1964,archery,6,Australia,AUS,0,2,1,3
+tokyo-1964,archery,7,Japan,JPN,0,2,0,2
+tokyo-1964,archery,7,Netherlands,NED,0,2,0,2
+tokyo-1964,archery,8,Italy,ITA,0,1,0,1
+tokyo-1964,archery,8,Switzerland,SUI,0,1,0,1
+tokyo-1964,archery,9,Belgium,BEL,0,0,1,1
+tokyo-1964,archery,9,Sweden,SWE,0,0,1,1
+tokyo-1964,athletics,1,United States,USA,18,18,12,48
+tokyo-1964,athletics,2,Italy,ITA,6,4,2,12
+tokyo-1964,athletics,3,South Africa,RSA,4,4,2,10
+tokyo-1964,athletics,4,Great Britain,GBR,4,2,6,12
+tokyo-1964,athletics,5,Germany,GER,3,0,2,5
+tokyo-1964,athletics,6,Rhodesia,RHO,2,3,2,7
+tokyo-1964,athletics,7,Australia,AUS,2,3,0,5
+tokyo-1964,athletics,8,Israel,ISR,2,0,3,5
+tokyo-1964,athletics,9,Argentina,ARG,1,6,9,16
+tokyo-1964,athletics,10,Netherlands,NED,0,1,1,2
+tokyo-1964,athletics,11,Austria,AUT,0,1,0,1
+tokyo-1964,athletics,12,France,FRA,0,0,1,1
+tokyo-1964,dartchery,1,Rhodesia,RHO,1,0,0,1
+tokyo-1964,dartchery,2,United States,USA,0,1,0,1
+tokyo-1964,dartchery,3,Belgium,BEL,0,0,1,1
+tokyo-1964,dartchery,3,France,FRA,0,0,1,1
+tokyo-1964,dartchery,3,Japan,JPN,0,0,1,1
+tokyo-1964,snooker,1,Great Britain,GBR,1,0,0,1
+tokyo-1964,snooker,2,United States,USA,0,1,0,1
+tokyo-1964,snooker,3,Malta,MLT,0,0,2,2
+tokyo-1964,swimming,1,United States,USA,22,18,14,54
+tokyo-1964,swimming,2,Australia,AUS,9,2,2,13
+tokyo-1964,swimming,3,Great Britain,GBR,7,12,6,25
+tokyo-1964,swimming,4,Rhodesia,RHO,5,2,0,7
+tokyo-1964,swimming,5,Italy,ITA,4,7,11,22
+tokyo-1964,swimming,6,Argentina,ARG,4,6,6,16
+tokyo-1964,swimming,7,Israel,ISR,3,2,2,7
+tokyo-1964,swimming,7,Netherlands,NED,3,2,2,7
+tokyo-1964,swimming,8,Austria,AUT,3,0,3,6
+tokyo-1964,swimming,9,Germany,GER,2,2,1,5
+tokyo-1964,swimming,10,South Africa,RSA,1,3,1,5
+tokyo-1964,swimming,11,Japan,JPN,0,1,1,2
+tokyo-1964,swimming,12,France,FRA,0,0,1,1
+tokyo-1964,table-tennis,1,Great Britain,GBR,4,4,3,11
+tokyo-1964,table-tennis,2,United States,USA,1,2,2,5
+tokyo-1964,table-tennis,3,Israel,ISR,1,1,4,6
+tokyo-1964,table-tennis,4,Japan,JPN,1,1,2,4
+tokyo-1964,table-tennis,5,Netherlands,NED,1,1,1,3
+tokyo-1964,table-tennis,6,Italy,ITA,1,1,0,2
+tokyo-1964,table-tennis,7,Austria,AUT,1,0,4,5
+tokyo-1964,table-tennis,8,Australia,AUS,1,0,3,4
+tokyo-1964,table-tennis,9,Belgium,BEL,1,0,0,1
+tokyo-1964,table-tennis,10,Argentina,ARG,0,2,0,2
+tokyo-1964,table-tennis,11,Germany,GER,0,0,2,2
+tokyo-1964,wheelchair-basketball,1,United States,USA,2,0,0,2
+tokyo-1964,wheelchair-basketball,2,Argentina,ARG,0,1,0,1
+tokyo-1964,wheelchair-basketball,2,Great Britain,GBR,0,1,0,1
+tokyo-1964,wheelchair-basketball,3,Israel,ISR,0,0,2,2
+tokyo-1964,wheelchair-fencing,1,Italy,ITA,3,2,3,8
+tokyo-1964,wheelchair-fencing,2,France,FRA,3,1,1,5
+tokyo-1964,wheelchair-fencing,3,Great Britain,GBR,1,1,1,3
+tokyo-1964,wheelchair-fencing,4,Australia,AUS,0,1,1,2
+tokyo-1964,wheelchair-fencing,4,United States,USA,0,1,1,2
+tokyo-1964,wheelchair-fencing,5,Japan,JPN,0,1,0,1
+tokyo-1964,weightlifting,1,Great Britain,GBR,1,1,2,4
+tokyo-1964,weightlifting,2,Argentina,ARG,1,0,1,2
+tokyo-1964,weightlifting,3,Israel,ISR,1,0,0,1
+tokyo-1964,weightlifting,3,South Africa,RSA,1,0,0,1
+tokyo-1964,weightlifting,4,Australia,AUS,0,3,0,3
+tokyo-1964,weightlifting,5,United States,USA,0,0,1,1
+tel-aviv-1968,archery,1,United States,USA,3,3,5,11
+tel-aviv-1968,archery,2,Great Britain,GBR,2,2,1,5
+tel-aviv-1968,archery,3,Australia,AUS,2,2,0,4
+tel-aviv-1968,archery,4,France,FRA,2,1,2,5
+tel-aviv-1968,archery,5,South Africa,RSA,2,0,0,2
+tel-aviv-1968,archery,6,West Germany,FRG,1,1,1,3
+tel-aviv-1968,archery,7,Netherlands,NED,1,1,0,2
+tel-aviv-1968,archery,8,Sweden,SWE,0,2,0,2
+tel-aviv-1968,archery,9,Ireland,IRL,0,1,0,1
+tel-aviv-1968,archery,10,Switzerland,SUI,0,0,2,2
+tel-aviv-1968,archery,11,Italy,ITA,0,0,1,1
+tel-aviv-1968,athletics,1,United States,USA,16,11,16,43
+tel-aviv-1968,athletics,2,Israel,ISR,9,11,12,32
+tel-aviv-1968,athletics,3,Argentina,ARG,9,8,8,25
+tel-aviv-1968,athletics,4,Australia,AUS,7,7,5,19
+tel-aviv-1968,athletics,5,South Africa,RSA,5,7,4,16
+tel-aviv-1968,athletics,6,Great Britain,GBR,5,5,4,14
+tel-aviv-1968,athletics,7,Italy,ITA,5,4,5,14
+tel-aviv-1968,athletics,8,Canada,CAN,5,4,3,12
+tel-aviv-1968,athletics,9,West Germany,FRG,3,5,2,10
+tel-aviv-1968,athletics,10,Jamaica,JAM,2,0,0,2
+tel-aviv-1968,athletics,11,Japan,JPN,1,2,5,8
+tel-aviv-1968,athletics,12,Rhodesia,RHO,1,1,2,4
+tel-aviv-1968,athletics,13,New Zealand,NZL,1,1,1,3
+tel-aviv-1968,athletics,14,France,FRA,1,0,0,1
+tel-aviv-1968,athletics,15,Austria,AUT,0,4,2,6
+tel-aviv-1968,athletics,16,Ireland,IRL,0,0,1,1
+tel-aviv-1968,dartchery,1,United States,USA,1,0,0,1
+tel-aviv-1968,dartchery,2,Australia,AUS,0,1,0,1
+tel-aviv-1968,dartchery,3,Italy,ITA,0,0,1,1
+tel-aviv-1968,dartchery,3,Japan,JPN,0,0,1,1
+tel-aviv-1968,lawn-bowls,1,Great Britain,GBR,3,1,0,4
+tel-aviv-1968,lawn-bowls,2,South Africa,RSA,1,1,0,2
+tel-aviv-1968,lawn-bowls,3,United States,USA,0,2,3,5
+tel-aviv-1968,lawn-bowls,4,France,FRA,0,0,2,2
+tel-aviv-1968,lawn-bowls,5,Canada,CAN,0,0,1,1
+tel-aviv-1968,lawn-bowls,5,Italy,ITA,0,0,1,1
+tel-aviv-1968,snooker,1,Great Britain,GBR,1,0,0,1
+tel-aviv-1968,snooker,2,Ireland,IRL,0,1,0,1
+tel-aviv-1968,snooker,3,Australia,AUS,0,0,1,1
+tel-aviv-1968,snooker,3,Italy,ITA,0,0,1,1
+tel-aviv-1968,swimming,1,Great Britain,GBR,13,7,8,28
+tel-aviv-1968,swimming,2,United States,USA,12,10,8,30
+tel-aviv-1968,swimming,3,Netherlands,NED,9,2,4,15
+tel-aviv-1968,swimming,4,France,FRA,6,4,4,14
+tel-aviv-1968,swimming,5,Rhodesia,RHO,5,6,4,15
+tel-aviv-1968,swimming,6,Australia,AUS,5,5,1,11
+tel-aviv-1968,swimming,7,West Germany,FRG,5,4,6,15
+tel-aviv-1968,swimming,8,Norway,NOR,3,1,1,5
+tel-aviv-1968,swimming,9,Italy,ITA,3,1,0,4
+tel-aviv-1968,swimming,10,Israel,ISR,2,8,5,15
+tel-aviv-1968,swimming,11,Canada,CAN,1,2,3,6
+tel-aviv-1968,swimming,12,South Africa,RSA,1,2,2,5
+tel-aviv-1968,swimming,13,Argentina,ARG,1,1,2,4
+tel-aviv-1968,swimming,14,Jamaica,JAM,1,1,0,2
+tel-aviv-1968,swimming,15,Japan,JPN,1,0,1,2
+tel-aviv-1968,swimming,16,Austria,AUT,0,3,6,9
+tel-aviv-1968,swimming,17,Spain,ESP,0,3,1,4
+tel-aviv-1968,swimming,18,Sweden,SWE,0,2,4,6
+tel-aviv-1968,swimming,19,Switzerland,SUI,0,1,2,3
+tel-aviv-1968,swimming,20,Ireland,IRL,0,1,1,2
+tel-aviv-1968,swimming,21,Belgium,BEL,0,1,0,1
+tel-aviv-1968,swimming,21,New Zealand,NZL,0,1,0,1
+tel-aviv-1968,table-tennis,1,Israel,ISR,4,1,4,9
+tel-aviv-1968,table-tennis,2,Great Britain,GBR,3,4,3,10
+tel-aviv-1968,table-tennis,3,West Germany,FRG,2,2,1,5
+tel-aviv-1968,table-tennis,4,Netherlands,NED,2,1,0,3
+tel-aviv-1968,table-tennis,5,Austria,AUT,2,0,2,4
+tel-aviv-1968,table-tennis,6,Norway,NOR,1,2,0,3
+tel-aviv-1968,table-tennis,7,Sweden,SWE,1,1,0,2
+tel-aviv-1968,table-tennis,8,United States,USA,1,0,4,5
+tel-aviv-1968,table-tennis,9,Belgium,BEL,0,2,2,4
+tel-aviv-1968,table-tennis,10,Ireland,IRL,0,1,3,4
+tel-aviv-1968,table-tennis,11,Australia,AUS,0,1,0,1
+tel-aviv-1968,table-tennis,12,Italy,ITA,0,0,6,6
+tel-aviv-1968,table-tennis,13,Switzerland,SUI,0,0,2,2
+tel-aviv-1968,table-tennis,14,Rhodesia,RHO,0,0,1,1
+tel-aviv-1968,table-tennis,14,South Africa,RSA,0,0,1,1
+tel-aviv-1968,wheelchair-basketball,1,Israel,ISR,2,0,0,2
+tel-aviv-1968,wheelchair-basketball,2,United States,USA,0,1,1,2
+tel-aviv-1968,wheelchair-basketball,3,Argentina,ARG,0,1,0,1
+tel-aviv-1968,wheelchair-basketball,4,Great Britain,GBR,0,0,1,1
+tel-aviv-1968,wheelchair-fencing,1,Italy,ITA,4,5,2,11
+tel-aviv-1968,wheelchair-fencing,2,France,FRA,3,4,1,8
+tel-aviv-1968,wheelchair-fencing,3,Israel,ISR,1,1,2,4
+tel-aviv-1968,wheelchair-fencing,4,Great Britain,GBR,1,0,3,4
+tel-aviv-1968,wheelchair-fencing,5,West Germany,FRG,1,0,1,2
+tel-aviv-1968,wheelchair-fencing,6,Belgium,BEL,0,0,1,1
+tel-aviv-1968,weightlifting,1,France,FRA,1,1,0,2
+tel-aviv-1968,weightlifting,1,Great Britain,GBR,1,1,0,2
+tel-aviv-1968,weightlifting,2,Australia,AUS,1,0,0,1
+tel-aviv-1968,weightlifting,2,Norway,NOR,1,0,0,1
+tel-aviv-1968,weightlifting,3,Sweden,SWE,0,1,0,1
+tel-aviv-1968,weightlifting,3,Switzerland,SUI,0,1,0,1
+tel-aviv-1968,weightlifting,4,United States,USA,0,0,2,2
+tel-aviv-1968,weightlifting,5,Jamaica,JAM,0,0,1,1
+tel-aviv-1968,weightlifting,5,Japan,JPN,0,0,1,1
+heidelberg-1972,archery,1,West Germany,FRG,7,1,3,11
+heidelberg-1972,archery,2,South Africa,RSA,2,2,0,4
+heidelberg-1972,archery,3,France,FRA,2,0,1,3
+heidelberg-1972,archery,4,South Korea,KOR,1,1,1,3
+heidelberg-1972,archery,5,Great Britain,GBR,0,3,1,4
+heidelberg-1972,archery,6,United States,USA,0,2,0,2
+heidelberg-1972,archery,7,Japan,JPN,0,1,2,3
+heidelberg-1972,archery,8,Australia,AUS,0,1,1,2
+heidelberg-1972,archery,8,Netherlands,NED,0,1,1,2
+heidelberg-1972,archery,9,Italy,ITA,0,0,1,1
+heidelberg-1972,athletics,1,United States,USA,14,18,18,50
+heidelberg-1972,athletics,2,West Germany,FRG,13,8,11,32
+heidelberg-1972,athletics,3,South Africa,RSA,5,6,6,17
+heidelberg-1972,athletics,4,Great Britain,GBR,5,1,1,7
+heidelberg-1972,athletics,5,Canada,CAN,4,6,4,14
+heidelberg-1972,athletics,6,Japan,JPN,4,4,1,9
+heidelberg-1972,athletics,7,Jamaica,JAM,4,0,1,5
+heidelberg-1972,athletics,8,Israel,ISR,3,5,2,10
+heidelberg-1972,athletics,9,Australia,AUS,3,4,4,11
+heidelberg-1972,athletics,10,New Zealand,NZL,3,3,2,8
+heidelberg-1972,athletics,11,Poland,POL,3,2,4,9
+heidelberg-1972,athletics,12,Austria,AUT,2,5,4,11
+heidelberg-1972,athletics,13,Argentina,ARG,1,4,1,6
+heidelberg-1972,athletics,14,Ireland,IRL,1,2,1,4
+heidelberg-1972,athletics,15,Yugoslavia,YUG,1,1,2,4
+heidelberg-1972,athletics,16,Netherlands,NED,1,1,1,3
+heidelberg-1972,athletics,16,Rhodesia,RHO,1,1,1,3
+heidelberg-1972,athletics,16,Sweden,SWE,1,1,1,3
+heidelberg-1972,athletics,17,Switzerland,SUI,1,1,0,2
+heidelberg-1972,athletics,18,Belgium,BEL,1,0,1,2
+heidelberg-1972,athletics,18,Italy,ITA,1,0,1,2
+heidelberg-1972,athletics,19,Norway,NOR,1,0,0,1
+heidelberg-1972,athletics,20,Czechoslovakia,TCH,0,0,1,1
+heidelberg-1972,athletics,20,France,FRA,0,0,1,1
+heidelberg-1972,athletics,20,Hungary,HUN,0,0,1,1
+heidelberg-1972,dartchery,1,West Germany,FRG,2,0,0,2
+heidelberg-1972,dartchery,2,Great Britain,GBR,1,0,0,1
+heidelberg-1972,dartchery,3,France,FRA,0,1,0,1
+heidelberg-1972,dartchery,3,South Korea,KOR,0,1,0,1
+heidelberg-1972,dartchery,3,Netherlands,NED,0,1,0,1
+heidelberg-1972,dartchery,4,Belgium,BEL,0,0,1,1
+heidelberg-1972,dartchery,4,Norway,NOR,0,0,1,1
+heidelberg-1972,dartchery,4,United States,USA,0,0,1,1
+heidelberg-1972,lawn-bowls,1,Great Britain,GBR,1,3,1,5
+heidelberg-1972,lawn-bowls,2,South Africa,RSA,1,1,0,2
+heidelberg-1972,lawn-bowls,3,Australia,AUS,1,0,0,1
+heidelberg-1972,lawn-bowls,3,Ireland,IRL,1,0,0,1
+heidelberg-1972,lawn-bowls,4,France,FRA,0,0,3,3
+heidelberg-1972,lawn-bowls,5,United States,USA,0,0,2,2
+heidelberg-1972,lawn-bowls,6,Italy,ITA,0,0,1,1
+heidelberg-1972,snooker,1,Great Britain,GBR,2,0,1,3
+heidelberg-1972,snooker,2,Australia,AUS,0,1,0,1
+heidelberg-1972,snooker,2,Ireland,IRL,0,1,0,1
+heidelberg-1972,snooker,3,Italy,ITA,0,0,1,1
+heidelberg-1972,swimming,1,Netherlands,NED,11,10,6,27
+heidelberg-1972,swimming,2,Poland,POL,11,10,2,23
+heidelberg-1972,swimming,3,South Africa,RSA,8,3,7,18
+heidelberg-1972,swimming,4,France,FRA,5,1,1,7
+heidelberg-1972,swimming,5,Israel,ISR,4,3,2,9
+heidelberg-1972,swimming,6,Sweden,SWE,4,1,3,8
+heidelberg-1972,swimming,7,Jamaica,JAM,3,2,3,8
+heidelberg-1972,swimming,8,Rhodesia,RHO,2,4,3,9
+heidelberg-1972,swimming,9,Great Britain,GBR,2,3,5,10
+heidelberg-1972,swimming,10,Australia,AUS,1,3,5,9
+heidelberg-1972,swimming,10,United States,USA,1,3,5,9
+heidelberg-1972,swimming,11,West Germany,FRG,1,3,4,8
+heidelberg-1972,swimming,12,Canada,CAN,1,0,1,2
+heidelberg-1972,swimming,13,India,IND,1,0,0,1
+heidelberg-1972,swimming,13,Kenya,KEN,1,0,0,1
+heidelberg-1972,swimming,14,Spain,ESP,0,4,0,4
+heidelberg-1972,swimming,15,Norway,NOR,0,3,1,4
+heidelberg-1972,swimming,16,Finland,FIN,0,2,1,3
+heidelberg-1972,swimming,17,Argentina,ARG,0,0,1,1
+heidelberg-1972,swimming,17,Ireland,IRL,0,0,1,1
+heidelberg-1972,swimming,17,New Zealand,NZL,0,0,1,1
+heidelberg-1972,table-tennis,1,West Germany,FRG,4,3,1,8
+heidelberg-1972,table-tennis,2,Austria,AUT,4,1,2,7
+heidelberg-1972,table-tennis,3,South Korea,KOR,3,0,0,3
+heidelberg-1972,table-tennis,4,Great Britain,GBR,2,4,9,15
+heidelberg-1972,table-tennis,5,Switzerland,SUI,2,1,3,6
+heidelberg-1972,table-tennis,6,Netherlands,NED,2,0,3,5
+heidelberg-1972,table-tennis,7,Italy,ITA,1,1,1,3
+heidelberg-1972,table-tennis,8,Israel,ISR,1,0,2,3
+heidelberg-1972,table-tennis,9,Sweden,SWE,0,3,2,5
+heidelberg-1972,table-tennis,10,France,FRA,0,1,4,5
+heidelberg-1972,table-tennis,10,United States,USA,0,1,4,5
+heidelberg-1972,table-tennis,11,Norway,NOR,0,1,2,3
+heidelberg-1972,table-tennis,12,"Hong Kong, China",HKG,0,1,1,2
+heidelberg-1972,table-tennis,13,Belgium,BEL,0,1,0,1
+heidelberg-1972,table-tennis,13,Ireland,IRL,0,1,0,1
+heidelberg-1972,table-tennis,14,Canada,CAN,0,0,3,3
+heidelberg-1972,wheelchair-basketball,1,Argentina,ARG,1,0,1,2
+heidelberg-1972,wheelchair-basketball,2,United States,USA,1,0,0,1
+heidelberg-1972,wheelchair-basketball,3,Israel,ISR,0,1,1,2
+heidelberg-1972,wheelchair-basketball,4,Jamaica,JAM,0,1,0,1
+heidelberg-1972,wheelchair-fencing,1,Italy,ITA,6,3,0,9
+heidelberg-1972,wheelchair-fencing,2,Great Britain,GBR,2,1,3,6
+heidelberg-1972,wheelchair-fencing,3,France,FRA,1,4,3,8
+heidelberg-1972,wheelchair-fencing,4,West Germany,FRG,1,2,3,6
+heidelberg-1972,wheelchair-fencing,5,Israel,ISR,1,1,1,3
+heidelberg-1972,weightlifting,1,France,FRA,2,1,2,5
+heidelberg-1972,weightlifting,2,United States,USA,1,3,1,5
+heidelberg-1972,weightlifting,3,Australia,AUS,1,0,0,1
+heidelberg-1972,weightlifting,3,Great Britain,GBR,1,0,0,1
+heidelberg-1972,weightlifting,3,Jamaica,JAM,1,0,0,1
+heidelberg-1972,weightlifting,4,Norway,NOR,0,1,0,1
+heidelberg-1972,weightlifting,4,Sweden,SWE,0,1,0,1
+heidelberg-1972,weightlifting,5,Israel,ISR,0,0,1,1
+heidelberg-1972,weightlifting,5,Poland,POL,0,0,1,1
+heidelberg-1972,weightlifting,5,Switzerland,SUI,0,0,1,1
+toronto-1976,archery,1,France,FRA,4,2,0,6
+toronto-1976,archery,2,West Germany,FRG,3,4,1,8
+toronto-1976,archery,3,United States,USA,3,0,3,6
+toronto-1976,archery,4,Japan,JPN,2,0,0,2
+toronto-1976,archery,5,Norway,NOR,1,2,1,4
+toronto-1976,archery,6,Great Britain,GBR,1,1,3,5
+toronto-1976,archery,7,Belgium,BEL,1,1,0,2
+toronto-1976,archery,8,Canada,CAN,1,0,1,2
+toronto-1976,archery,8,Netherlands,NED,1,0,1,2
+toronto-1976,archery,8,Sweden,SWE,1,0,1,2
+toronto-1976,archery,9,South Africa,RSA,0,1,1,2
+toronto-1976,archery,9,Switzerland,SUI,0,1,1,2
+toronto-1976,archery,10,Finland,FIN,0,1,0,1
+toronto-1976,archery,10,South Korea,KOR,0,1,0,1
+toronto-1976,athletics,1,United States,USA,39,34,26,99
+toronto-1976,athletics,2,West Germany,FRG,21,16,16,53
+toronto-1976,athletics,3,Mexico,MEX,15,9,5,29
+toronto-1976,athletics,4,Israel,ISR,15,5,7,27
+toronto-1976,athletics,5,Canada,CAN,12,18,18,48
+toronto-1976,athletics,6,Poland,POL,12,2,3,17
+toronto-1976,athletics,7,Finland,FIN,11,15,10,36
+toronto-1976,athletics,8,Sweden,SWE,8,6,9,23
+toronto-1976,athletics,9,Austria,AUT,7,11,14,32
+toronto-1976,athletics,10,Australia,AUS,7,11,4,22
+toronto-1976,athletics,11,Japan,JPN,7,6,3,16
+toronto-1976,athletics,12,New Zealand,NZL,7,1,2,10
+toronto-1976,athletics,13,Belgium,BEL,6,3,2,11
+toronto-1976,athletics,14,Switzerland,SUI,5,5,7,17
+toronto-1976,athletics,15,Netherlands,NED,5,5,3,13
+toronto-1976,athletics,16,Egypt,EGY,5,1,1,7
+toronto-1976,athletics,17,Great Britain,GBR,4,5,8,17
+toronto-1976,athletics,18,South Africa,RSA,4,3,7,14
+toronto-1976,athletics,19,France,FRA,4,1,1,6
+toronto-1976,athletics,20,Norway,NOR,3,3,2,8
+toronto-1976,athletics,21,Denmark,DEN,3,0,1,4
+toronto-1976,athletics,22,Ireland,IRL,2,9,6,17
+toronto-1976,athletics,23,Italy,ITA,2,3,5,10
+toronto-1976,athletics,24,Spain,ESP,2,3,1,6
+toronto-1976,athletics,25,Indonesia,INA,1,1,3,5
+toronto-1976,athletics,26,Argentina,ARG,1,1,2,4
+toronto-1976,athletics,27,Burma,BIR,1,1,1,3
+toronto-1976,athletics,28,"Hong Kong, China",HKG,0,0,1,1
+toronto-1976,athletics,28,Hungary,HUN,0,0,1,1
+toronto-1976,athletics,28,Peru,PER,0,0,1,1
+toronto-1976,dartchery,1,United States,USA,1,1,0,2
+toronto-1976,dartchery,2,Australia,AUS,1,0,0,1
+toronto-1976,dartchery,2,France,FRA,1,0,0,1
+toronto-1976,dartchery,3,Finland,FIN,0,1,0,1
+toronto-1976,dartchery,3,Great Britain,GBR,0,1,0,1
+toronto-1976,dartchery,4,Belgium,BEL,0,0,1,1
+toronto-1976,dartchery,4,Netherlands,NED,0,0,1,1
+toronto-1976,dartchery,4,South Africa,RSA,0,0,1,1
+toronto-1976,goalball,1,Austria,AUT,1,0,0,1
+toronto-1976,goalball,2,West Germany,FRG,0,1,0,1
+toronto-1976,goalball,3,Denmark,DEN,0,0,1,1
+toronto-1976,lawn-bowls,1,Great Britain,GBR,4,6,6,16
+toronto-1976,lawn-bowls,2,Australia,AUS,3,2,0,5
+toronto-1976,lawn-bowls,3,Canada,CAN,3,0,1,4
+toronto-1976,lawn-bowls,4,South Africa,RSA,2,1,0,3
+toronto-1976,lawn-bowls,5,France,FRA,1,0,0,1
+toronto-1976,lawn-bowls,5,Indonesia,INA,1,0,0,1
+toronto-1976,lawn-bowls,5,Japan,JPN,1,0,0,1
+toronto-1976,lawn-bowls,5,United States,USA,1,0,0,1
+toronto-1976,lawn-bowls,6,Austria,AUT,0,2,0,2
+toronto-1976,lawn-bowls,7,Brazil,BRA,0,1,0,1
+toronto-1976,shooting,1,Canada,CAN,2,1,0,3
+toronto-1976,shooting,2,Australia,AUS,1,0,0,1
+toronto-1976,shooting,3,Israel,ISR,0,1,2,3
+toronto-1976,shooting,4,Switzerland,SUI,0,1,0,1
+toronto-1976,shooting,5,Austria,AUT,0,0,1,1
+toronto-1976,snooker,1,Great Britain,GBR,1,1,2,4
+toronto-1976,snooker,2,Canada,CAN,1,0,0,1
+toronto-1976,snooker,3,United States,USA,0,1,0,1
+toronto-1976,swimming,1,Netherlands,NED,37,19,8,64
+toronto-1976,swimming,2,Israel,ISR,18,5,6,29
+toronto-1976,swimming,3,United States,USA,17,5,13,35
+toronto-1976,swimming,4,Great Britain,GBR,13,6,6,25
+toronto-1976,swimming,5,Poland,POL,12,15,9,36
+toronto-1976,swimming,6,Sweden,SWE,9,19,13,41
+toronto-1976,swimming,7,West Germany,FRG,7,5,8,20
+toronto-1976,swimming,8,France,FRA,6,6,9,21
+toronto-1976,swimming,9,Austria,AUT,6,1,1,8
+toronto-1976,swimming,10,Canada,CAN,5,6,4,15
+toronto-1976,swimming,11,Norway,NOR,5,1,0,6
+toronto-1976,swimming,12,Australia,AUS,3,5,2,10
+toronto-1976,swimming,13,Argentina,ARG,2,3,4,9
+toronto-1976,swimming,14,Spain,ESP,2,3,1,6
+toronto-1976,swimming,15,Mexico,MEX,1,4,4,9
+toronto-1976,swimming,16,Switzerland,SUI,1,4,2,7
+toronto-1976,swimming,17,Finland,FIN,1,2,5,8
+toronto-1976,swimming,18,South Africa,RSA,0,3,2,5
+toronto-1976,swimming,19,Belgium,BEL,0,2,2,4
+toronto-1976,swimming,20,Italy,ITA,0,1,2,3
+toronto-1976,swimming,21,Egypt,EGY,0,1,0,1
+toronto-1976,swimming,22,New Zealand,NZL,0,0,1,1
+toronto-1976,swimming,22,Peru,PER,0,0,1,1
+toronto-1976,table-tennis,1,Austria,AUT,4,2,1,7
+toronto-1976,table-tennis,2,West Germany,FRG,3,6,1,10
+toronto-1976,table-tennis,3,Great Britain,GBR,3,2,6,11
+toronto-1976,table-tennis,4,Switzerland,SUI,3,1,0,4
+toronto-1976,table-tennis,5,United States,USA,2,3,2,7
+toronto-1976,table-tennis,6,Sweden,SWE,2,2,2,6
+toronto-1976,table-tennis,7,Netherlands,NED,2,1,1,4
+toronto-1976,table-tennis,8,Ireland,IRL,2,1,0,3
+toronto-1976,table-tennis,9,Israel,ISR,2,0,0,2
+toronto-1976,table-tennis,10,Canada,CAN,1,1,2,4
+toronto-1976,table-tennis,11,South Korea,KOR,1,1,1,3
+toronto-1976,table-tennis,12,Hungary,HUN,1,0,0,1
+toronto-1976,table-tennis,12,Peru,PER,1,0,0,1
+toronto-1976,table-tennis,13,France,FRA,0,2,1,3
+toronto-1976,table-tennis,14,Finland,FIN,0,1,1,2
+toronto-1976,table-tennis,14,"Hong Kong, China",HKG,0,1,1,2
+toronto-1976,table-tennis,15,Mexico,MEX,0,1,0,1
+toronto-1976,table-tennis,15,South Africa,RSA,0,1,0,1
+toronto-1976,table-tennis,16,Belgium,BEL,0,0,2,2
+toronto-1976,table-tennis,17,Denmark,DEN,0,0,1,1
+toronto-1976,table-tennis,17,Italy,ITA,0,0,1,1
+toronto-1976,table-tennis,17,Norway,NOR,0,0,1,1
+toronto-1976,wheelchair-basketball,1,Israel,ISR,1,1,0,2
+toronto-1976,wheelchair-basketball,2,United States,USA,1,0,0,1
+toronto-1976,wheelchair-basketball,3,West Germany,FRG,0,1,0,1
+toronto-1976,wheelchair-basketball,4,Argentina,ARG,0,0,1,1
+toronto-1976,wheelchair-basketball,4,France,FRA,0,0,1,1
+toronto-1976,wheelchair-fencing,1,France,FRA,7,6,2,15
+toronto-1976,wheelchair-fencing,2,Great Britain,GBR,3,4,6,13
+toronto-1976,wheelchair-fencing,3,West Germany,FRG,3,1,0,4
+toronto-1976,wheelchair-fencing,4,Israel,ISR,1,1,1,3
+toronto-1976,wheelchair-fencing,5,Italy,ITA,0,1,3,4
+toronto-1976,wheelchair-fencing,6,Belgium,BEL,0,1,1,2
+toronto-1976,weightlifting,1,United States,USA,2,0,1,3
+toronto-1976,weightlifting,2,Israel,ISR,2,0,0,2
+toronto-1976,weightlifting,3,Sweden,SWE,1,1,0,2
+toronto-1976,weightlifting,4,Australia,AUS,1,0,1,2
+toronto-1976,weightlifting,6,France,FRA,0,4,0,4
+toronto-1976,weightlifting,,Great Britain,GBR,0,1,0,1
+toronto-1976,weightlifting,7,New Zealand,NZL,0,0,2,2
+toronto-1976,weightlifting,8,Finland,FIN,0,0,1,1
+toronto-1976,weightlifting,8,Guatemala,GUA,0,0,1,1
+arnhem-1980,archery,1,West Germany,FRG,3,1,2,6
+arnhem-1980,archery,2,Austria,AUT,1,1,1,3
+arnhem-1980,archery,2,Japan,JPN,1,1,1,3
+arnhem-1980,archery,2,Norway,NOR,1,1,1,3
+arnhem-1980,archery,3,Belgium,BEL,1,1,0,2
+arnhem-1980,archery,3,Finland,FIN,1,1,0,2
+arnhem-1980,archery,3,New Zealand,NZL,1,1,0,2
+arnhem-1980,archery,3,United States,USA,1,1,0,2
+arnhem-1980,archery,4,France,FRA,1,0,3,4
+arnhem-1980,archery,5,Canada,CAN,1,0,0,1
+arnhem-1980,archery,5,Denmark,DEN,1,0,0,1
+arnhem-1980,archery,5,South Korea,KOR,1,0,0,1
+arnhem-1980,archery,5,Mexico,MEX,1,0,0,1
+arnhem-1980,archery,6,Great Britain,GBR,0,2,2,4
+arnhem-1980,archery,7,Netherlands,NED,0,1,1,2
+arnhem-1980,archery,7,Sweden,SWE,0,1,1,2
+arnhem-1980,archery,8,Australia,AUS,0,1,0,1
+arnhem-1980,archery,8,Poland,POL,0,1,0,1
+arnhem-1980,athletics,1,United States,USA,42,45,28,115
+arnhem-1980,athletics,2,Canada,CAN,37,16,16,69
+arnhem-1980,athletics,3,Poland,POL,34,27,27,88
+arnhem-1980,athletics,4,West Germany,FRG,31,26,24,81
+arnhem-1980,athletics,5,Mexico,MEX,17,13,4,34
+arnhem-1980,athletics,6,Great Britain,GBR,12,6,4,22
+arnhem-1980,athletics,7,Belgium,BEL,11,7,8,26
+arnhem-1980,athletics,8,Sweden,SWE,10,5,4,19
+arnhem-1980,athletics,9,France,FRA,9,8,3,20
+arnhem-1980,athletics,10,Norway,NOR,9,2,1,12
+arnhem-1980,athletics,11,Austria,AUT,8,12,7,27
+arnhem-1980,athletics,12,Australia,AUS,8,9,17,34
+arnhem-1980,athletics,13,Japan,JPN,7,7,3,17
+arnhem-1980,athletics,14,Finland,FIN,6,14,10,30
+arnhem-1980,athletics,15,Jamaica,JAM,6,4,4,14
+arnhem-1980,athletics,16,New Zealand,NZL,5,4,4,13
+arnhem-1980,athletics,17,Netherlands,NED,4,8,11,23
+arnhem-1980,athletics,18,Egypt,EGY,4,4,2,10
+arnhem-1980,athletics,19,Switzerland,SUI,3,7,8,18
+arnhem-1980,athletics,20,Denmark,DEN,3,4,3,10
+arnhem-1980,athletics,21,Italy,ITA,2,3,5,10
+arnhem-1980,athletics,22,Kuwait,KUW,2,2,1,5
+arnhem-1980,athletics,23,Israel,ISR,1,7,9,17
+arnhem-1980,athletics,24,Kenya,KEN,1,2,0,3
+arnhem-1980,athletics,25,Ireland,IRL,1,0,9,10
+arnhem-1980,athletics,26,Sudan,SUD,1,0,0,1
+arnhem-1980,athletics,27,Zimbabwe,ZIM,0,4,0,4
+arnhem-1980,athletics,28,Spain,ESP,0,3,3,6
+arnhem-1980,athletics,29,Yugoslavia,YUG,0,1,5,6
+arnhem-1980,athletics,30,Argentina,ARG,0,1,3,4
+arnhem-1980,athletics,31,Bahamas,BAH,0,1,1,2
+arnhem-1980,athletics,31,"Hong Kong, China",HKG,0,1,1,2
+arnhem-1980,athletics,32,Greece,GRE,0,0,1,1
+arnhem-1980,athletics,32,Luxembourg,LUX,0,0,1,1
+arnhem-1980,dartchery,1,Finland,FIN,1,0,0,1
+arnhem-1980,dartchery,1,Sweden,SWE,1,0,0,1
+arnhem-1980,dartchery,1,West Germany,FRG,1,0,0,1
+arnhem-1980,dartchery,2,Norway,NOR,0,1,1,2
+arnhem-1980,dartchery,3,Belgium,BEL,0,1,0,1
+arnhem-1980,dartchery,3,New Zealand,NZL,0,1,0,1
+arnhem-1980,dartchery,4,Great Britain,GBR,0,0,1,1
+arnhem-1980,dartchery,4,United States,USA,0,0,1,1
+arnhem-1980,goalball,1,West Germany,FRG,1,0,0,1
+arnhem-1980,goalball,2,United States,USA,0,1,0,1
+arnhem-1980,goalball,3,Netherlands,NED,0,0,1,1
+arnhem-1980,lawn-bowls,1,Great Britain,GBR,12,7,5,24
+arnhem-1980,lawn-bowls,2,Ireland,IRL,2,1,1,4
+arnhem-1980,lawn-bowls,3,Japan,JPN,1,2,0,3
+arnhem-1980,lawn-bowls,4,United States,USA,1,1,1,3
+arnhem-1980,lawn-bowls,5,Indonesia,INA,1,0,4,5
+arnhem-1980,lawn-bowls,6,Australia,AUS,1,0,0,1
+arnhem-1980,lawn-bowls,6,West Germany,FRG,1,0,0,1
+arnhem-1980,lawn-bowls,7,Austria,AUT,0,2,0,2
+arnhem-1980,lawn-bowls,8,Zimbabwe,ZIM,0,1,1,2
+arnhem-1980,lawn-bowls,9,Egypt,EGY,0,1,0,1
+arnhem-1980,lawn-bowls,10,Malta,MLT,0,0,1,1
+arnhem-1980,shooting,1,Austria,AUT,3,3,0,6
+arnhem-1980,shooting,2,Australia,AUS,2,3,1,6
+arnhem-1980,shooting,3,Denmark,DEN,2,0,1,3
+arnhem-1980,shooting,4,Belgium,BEL,1,1,1,3
+arnhem-1980,shooting,5,France,FRA,1,0,1,2
+arnhem-1980,shooting,5,Sweden,SWE,1,0,1,2
+arnhem-1980,shooting,5,Switzerland,SUI,1,0,1,2
+arnhem-1980,shooting,6,Canada,CAN,0,3,1,4
+arnhem-1980,shooting,7,Netherlands,NED,0,0,2,2
+arnhem-1980,shooting,8,New Zealand,NZL,0,0,1,1
+arnhem-1980,swimming,1,Poland,POL,40,19,23,82
+arnhem-1980,swimming,2,Canada,CAN,25,15,13,53
+arnhem-1980,swimming,3,Netherlands,NED,24,16,14,54
+arnhem-1980,swimming,4,United States,USA,21,15,20,56
+arnhem-1980,swimming,5,West Germany,FRG,19,16,11,46
+arnhem-1980,swimming,6,Great Britain,GBR,18,10,7,35
+arnhem-1980,swimming,7,Sweden,SWE,15,22,17,54
+arnhem-1980,swimming,8,Israel,ISR,7,9,3,19
+arnhem-1980,swimming,9,Norway,NOR,4,8,4,16
+arnhem-1980,swimming,10,France,FRA,4,7,11,22
+arnhem-1980,swimming,11,Argentina,ARG,4,4,3,11
+arnhem-1980,swimming,12,Yugoslavia,YUG,2,3,3,8
+arnhem-1980,swimming,13,Mexico,MEX,2,3,1,6
+arnhem-1980,swimming,14,Spain,ESP,1,10,6,17
+arnhem-1980,swimming,15,Australia,AUS,1,8,2,11
+arnhem-1980,swimming,16,Jamaica,JAM,1,3,0,4
+arnhem-1980,swimming,17,Colombia,COL,1,0,1,2
+arnhem-1980,swimming,17,New Zealand,NZL,1,0,1,2
+arnhem-1980,swimming,18,Iceland,ISL,1,0,0,1
+arnhem-1980,swimming,19,Finland,FIN,0,3,2,5
+arnhem-1980,swimming,20,Zimbabwe,ZIM,0,2,3,5
+arnhem-1980,swimming,21,Belgium,BEL,0,1,5,6
+arnhem-1980,swimming,22,Czechoslovakia,TCH,0,1,1,2
+arnhem-1980,swimming,22,Switzerland,SUI,0,1,1,2
+arnhem-1980,swimming,23,Egypt,EGY,0,1,0,1
+arnhem-1980,swimming,24,Denmark,DEN,0,0,3,3
+arnhem-1980,swimming,24,Japan,JPN,0,0,3,3
+arnhem-1980,swimming,25,Bahamas,BAH,0,0,1,1
+arnhem-1980,table-tennis,1,West Germany,FRG,9,2,6,17
+arnhem-1980,table-tennis,2,Switzerland,SUI,5,2,0,7
+arnhem-1980,table-tennis,3,Netherlands,NED,4,4,6,14
+arnhem-1980,table-tennis,4,Great Britain,GBR,4,3,0,7
+arnhem-1980,table-tennis,5,Austria,AUT,2,5,0,7
+arnhem-1980,table-tennis,6,United States,USA,2,1,2,5
+arnhem-1980,table-tennis,7,Yugoslavia,YUG,2,1,0,3
+arnhem-1980,table-tennis,8,France,FRA,1,2,5,8
+arnhem-1980,table-tennis,9,South Korea,KOR,1,2,1,4
+arnhem-1980,table-tennis,10,Ireland,IRL,1,1,1,3
+arnhem-1980,table-tennis,10,Norway,NOR,1,1,1,3
+arnhem-1980,table-tennis,11,Sweden,SWE,0,5,1,6
+arnhem-1980,table-tennis,12,Egypt,EGY,0,1,1,2
+arnhem-1980,table-tennis,12,Finland,FIN,0,1,1,2
+arnhem-1980,table-tennis,13,Zimbabwe,ZIM,0,1,0,1
+arnhem-1980,table-tennis,14,Belgium,BEL,0,0,1,1
+arnhem-1980,table-tennis,14,Canada,CAN,0,0,1,1
+arnhem-1980,table-tennis,14,"Hong Kong, China",HKG,0,0,1,1
+arnhem-1980,table-tennis,14,Italy,ITA,0,0,1,1
+arnhem-1980,table-tennis,14,Jamaica,JAM,0,0,1,1
+arnhem-1980,table-tennis,14,Mexico,MEX,0,0,1,1
+arnhem-1980,wheelchair-basketball,1,Israel,ISR,1,1,0,2
+arnhem-1980,wheelchair-basketball,2,West Germany,FRG,1,0,0,1
+arnhem-1980,wheelchair-basketball,3,Netherlands,NED,0,1,0,1
+arnhem-1980,wheelchair-basketball,4,United States,USA,0,0,2,2
+arnhem-1980,wheelchair-fencing,1,France,FRA,9,5,5,19
+arnhem-1980,wheelchair-fencing,2,Italy,ITA,4,2,3,9
+arnhem-1980,wheelchair-fencing,3,West Germany,FRG,2,3,2,7
+arnhem-1980,wheelchair-fencing,4,Great Britain,GBR,1,4,2,7
+arnhem-1980,wheelchair-fencing,5,Israel,ISR,1,1,2,4
+arnhem-1980,wheelchair-fencing,6,Belgium,BEL,0,1,1,2
+arnhem-1980,wheelchair-fencing,6,Netherlands,NED,0,1,1,2
+arnhem-1980,wrestling,1,United States,USA,8,0,0,8
+arnhem-1980,wrestling,2,Canada,CAN,1,1,0,2
+arnhem-1980,weightlifting,1,Sweden,SWE,4,2,0,6
+arnhem-1980,weightlifting,2,France,FRA,3,4,3,10
+arnhem-1980,weightlifting,3,Israel,ISR,2,0,1,3
+arnhem-1980,weightlifting,4,Poland,POL,1,2,2,5
+arnhem-1980,weightlifting,5,Indonesia,INA,1,0,0,1
+arnhem-1980,weightlifting,6,United States,USA,0,2,0,2
+arnhem-1980,weightlifting,7,Australia,AUS,0,0,2,2
+arnhem-1980,weightlifting,8,Belgium,BEL,0,0,1,1
+arnhem-1980,weightlifting,8,Iceland,ISL,0,0,1,1
+stoke-mandeville-new-york-1984,archery,1,France,FRA,4,2,1,7
+stoke-mandeville-new-york-1984,archery,2,Sweden,SWE,3,0,0,3
+stoke-mandeville-new-york-1984,archery,3,Belgium,BEL,2,2,0,4
+stoke-mandeville-new-york-1984,archery,4,Great Britain,GBR,2,1,4,7
+stoke-mandeville-new-york-1984,archery,5,Austria,AUT,2,1,0,3
+stoke-mandeville-new-york-1984,archery,6,Norway,NOR,1,0,1,2
+stoke-mandeville-new-york-1984,archery,6,United States,USA,1,0,1,2
+stoke-mandeville-new-york-1984,archery,6,West Germany,FRG,1,0,1,2
+stoke-mandeville-new-york-1984,archery,7,Canada,CAN,1,0,0,1
+stoke-mandeville-new-york-1984,archery,7,Switzerland,SUI,1,0,0,1
+stoke-mandeville-new-york-1984,archery,8,Netherlands,NED,0,3,0,3
+stoke-mandeville-new-york-1984,archery,9,Australia,AUS,0,2,1,3
+stoke-mandeville-new-york-1984,archery,10,Japan,JPN,0,1,0,1
+stoke-mandeville-new-york-1984,archery,10,South Korea,KOR,0,1,0,1
+stoke-mandeville-new-york-1984,archery,10,Spain,ESP,0,1,0,1
+stoke-mandeville-new-york-1984,archery,11,Finland,FIN,0,0,2,2
+stoke-mandeville-new-york-1984,archery,11,Italy,ITA,0,0,2,2
+stoke-mandeville-new-york-1984,athletics,1,United States,USA,76,83,74,233
+stoke-mandeville-new-york-1984,athletics,2,Great Britain,GBR,63,53,45,161
+stoke-mandeville-new-york-1984,athletics,3,Canada,CAN,49,31,31,111
+stoke-mandeville-new-york-1984,athletics,4,West Germany,FRG,35,34,39,108
+stoke-mandeville-new-york-1984,athletics,5,Sweden,SWE,30,13,7,50
+stoke-mandeville-new-york-1984,athletics,6,Poland,POL,17,22,13,52
+stoke-mandeville-new-york-1984,athletics,7,Australia,AUS,17,19,22,58
+stoke-mandeville-new-york-1984,athletics,8,Belgium,BEL,17,14,5,36
+stoke-mandeville-new-york-1984,athletics,9,Switzerland,SUI,15,10,7,32
+stoke-mandeville-new-york-1984,athletics,10,Ireland,IRL,13,11,24,48
+stoke-mandeville-new-york-1984,athletics,11,Denmark,DEN,13,5,2,20
+stoke-mandeville-new-york-1984,athletics,12,Norway,NOR,11,13,11,35
+stoke-mandeville-new-york-1984,athletics,13,Finland,FIN,11,8,16,35
+stoke-mandeville-new-york-1984,athletics,14,France,FRA,9,23,12,44
+stoke-mandeville-new-york-1984,athletics,15,Japan,JPN,9,6,4,19
+stoke-mandeville-new-york-1984,athletics,16,Yugoslavia,YUG,8,8,3,19
+stoke-mandeville-new-york-1984,athletics,17,New Zealand,NZL,7,8,4,19
+stoke-mandeville-new-york-1984,athletics,18,Mexico,MEX,6,14,15,35
+stoke-mandeville-new-york-1984,athletics,19,Brazil,BRA,6,12,3,21
+stoke-mandeville-new-york-1984,athletics,20,Netherlands,NED,6,9,8,23
+stoke-mandeville-new-york-1984,athletics,21,Austria,AUT,5,11,8,24
+stoke-mandeville-new-york-1984,athletics,22,Italy,ITA,4,6,7,17
+stoke-mandeville-new-york-1984,athletics,23,Israel,ISR,4,5,4,13
+stoke-mandeville-new-york-1984,athletics,24,Portugal,POR,3,2,5,10
+stoke-mandeville-new-york-1984,athletics,25,Spain,ESP,3,1,3,7
+stoke-mandeville-new-york-1984,athletics,26,Hungary,HUN,2,7,2,11
+stoke-mandeville-new-york-1984,athletics,27,China,CHN,2,5,4,11
+stoke-mandeville-new-york-1984,athletics,28,"Hong Kong, China",HKG,2,2,5,9
+stoke-mandeville-new-york-1984,athletics,29,Trinidad and Tobago,TTO,2,0,0,2
+stoke-mandeville-new-york-1984,athletics,30,Burma,BIR,1,2,1,4
+stoke-mandeville-new-york-1984,athletics,30,Kuwait,KUW,1,2,1,4
+stoke-mandeville-new-york-1984,athletics,31,Kenya,KEN,1,1,1,3
+stoke-mandeville-new-york-1984,athletics,32,Egypt,EGY,1,0,4,5
+stoke-mandeville-new-york-1984,athletics,33,East Germany,GDR,0,3,1,4
+stoke-mandeville-new-york-1984,athletics,34,India,IND,0,2,2,4
+stoke-mandeville-new-york-1984,athletics,35,Luxembourg,LUX,0,2,0,2
+stoke-mandeville-new-york-1984,athletics,36,Jordan,JOR,0,1,2,3
+stoke-mandeville-new-york-1984,athletics,37,Bahamas,BAH,0,1,1,2
+stoke-mandeville-new-york-1984,athletics,38,Bahrain,BRN,0,0,2,2
+stoke-mandeville-new-york-1984,athletics,38,Iceland,ISL,0,0,2,2
+stoke-mandeville-new-york-1984,athletics,38,Zimbabwe,ZIM,0,0,2,2
+stoke-mandeville-new-york-1984,boccia,1,United States,USA,2,1,2,5
+stoke-mandeville-new-york-1984,boccia,2,Great Britain,GBR,1,2,2,5
+stoke-mandeville-new-york-1984,boccia,3,Denmark,DEN,1,0,0,1
+stoke-mandeville-new-york-1984,boccia,3,Portugal,POR,1,0,0,1
+stoke-mandeville-new-york-1984,boccia,4,Canada,CAN,0,2,1,3
+stoke-mandeville-new-york-1984,equestrian,1,United States,USA,5,7,1,13
+stoke-mandeville-new-york-1984,equestrian,2,Denmark,DEN,4,1,2,7
+stoke-mandeville-new-york-1984,equestrian,3,Sweden,SWE,2,0,1,3
+stoke-mandeville-new-york-1984,equestrian,4,Great Britain,GBR,1,0,0,1
+stoke-mandeville-new-york-1984,equestrian,5,Canada,CAN,0,2,4,6
+stoke-mandeville-new-york-1984,equestrian,6,Norway,NOR,0,2,0,2
+stoke-mandeville-new-york-1984,football-7-side,1,Belgium,BEL,1,0,0,1
+stoke-mandeville-new-york-1984,football-7-side,1,United States,USA,1,0,0,1
+stoke-mandeville-new-york-1984,football-7-side,2,Canada,CAN,0,1,0,1
+stoke-mandeville-new-york-1984,football-7-side,2,Ireland,IRL,0,1,0,1
+stoke-mandeville-new-york-1984,football-7-side,3,Great Britain,GBR,0,0,2,2
+stoke-mandeville-new-york-1984,goalball,1,United States,USA,2,0,0,2
+stoke-mandeville-new-york-1984,goalball,2,Canada,CAN,0,1,0,1
+stoke-mandeville-new-york-1984,goalball,2,Egypt,EGY,0,1,0,1
+stoke-mandeville-new-york-1984,goalball,3,Denmark,DEN,0,0,1,1
+stoke-mandeville-new-york-1984,goalball,3,Yugoslavia,YUG,0,0,1,1
+stoke-mandeville-new-york-1984,lawn-bowls,1,Great Britain,GBR,6,6,3,15
+stoke-mandeville-new-york-1984,lawn-bowls,2,Ireland,IRL,3,0,2,5
+stoke-mandeville-new-york-1984,lawn-bowls,3,Australia,AUS,2,3,3,8
+stoke-mandeville-new-york-1984,lawn-bowls,4,Indonesia,INA,0,1,1,2
+stoke-mandeville-new-york-1984,lawn-bowls,5,Zimbabwe,ZIM,0,1,0,1
+stoke-mandeville-new-york-1984,lawn-bowls,6,Japan,JPN,0,0,1,1
+stoke-mandeville-new-york-1984,lawn-bowls,6,United States,USA,0,0,1,1
+stoke-mandeville-new-york-1984,powerlifting,1,United States,USA,3,1,1,5
+stoke-mandeville-new-york-1984,powerlifting,2,France,FRA,2,2,0,4
+stoke-mandeville-new-york-1984,powerlifting,3,Sweden,SWE,2,0,0,2
+stoke-mandeville-new-york-1984,powerlifting,4,Canada,CAN,0,2,0,2
+stoke-mandeville-new-york-1984,powerlifting,5,Great Britain,GBR,0,1,1,2
+stoke-mandeville-new-york-1984,powerlifting,6,Austria,AUT,0,1,0,1
+stoke-mandeville-new-york-1984,shooting,1,Australia,AUS,9,0,0,9
+stoke-mandeville-new-york-1984,shooting,2,Netherlands,NED,5,1,2,8
+stoke-mandeville-new-york-1984,shooting,3,France,FRA,3,6,4,13
+stoke-mandeville-new-york-1984,shooting,4,West Germany,FRG,3,2,6,11
+stoke-mandeville-new-york-1984,shooting,5,Great Britain,GBR,2,6,2,10
+stoke-mandeville-new-york-1984,shooting,6,Austria,AUT,2,0,0,2
+stoke-mandeville-new-york-1984,shooting,7,Sweden,SWE,1,4,2,7
+stoke-mandeville-new-york-1984,shooting,8,Denmark,DEN,1,4,1,6
+stoke-mandeville-new-york-1984,shooting,9,United States,USA,1,0,2,3
+stoke-mandeville-new-york-1984,shooting,10,Finland,FIN,1,0,1,2
+stoke-mandeville-new-york-1984,shooting,11,Yugoslavia,YUG,1,0,0,1
+stoke-mandeville-new-york-1984,shooting,12,Israel,ISR,0,1,1,2
+stoke-mandeville-new-york-1984,shooting,12,Switzerland,SUI,0,1,1,2
+stoke-mandeville-new-york-1984,shooting,13,Belgium,BEL,0,1,0,1
+stoke-mandeville-new-york-1984,shooting,14,New Zealand,NZL,0,0,1,1
+stoke-mandeville-new-york-1984,snooker,1,Great Britain,GBR,1,2,2,5
+stoke-mandeville-new-york-1984,snooker,2,Ireland,IRL,1,0,0,1
+stoke-mandeville-new-york-1984,swimming,1,Netherlands,NED,41,34,14,89
+stoke-mandeville-new-york-1984,swimming,2,United States,USA,38,29,43,110
+stoke-mandeville-new-york-1984,swimming,3,France,FRA,35,23,21,79
+stoke-mandeville-new-york-1984,swimming,4,Canada,CAN,34,35,32,101
+stoke-mandeville-new-york-1984,swimming,5,Sweden,SWE,33,23,19,75
+stoke-mandeville-new-york-1984,swimming,6,Poland,POL,27,17,8,52
+stoke-mandeville-new-york-1984,swimming,7,Great Britain,GBR,26,33,39,98
+stoke-mandeville-new-york-1984,swimming,8,West Germany,FRG,24,29,18,71
+stoke-mandeville-new-york-1984,swimming,9,Australia,AUS,20,30,24,74
+stoke-mandeville-new-york-1984,swimming,10,Spain,ESP,19,8,9,36
+stoke-mandeville-new-york-1984,swimming,11,Norway,NOR,15,12,17,44
+stoke-mandeville-new-york-1984,swimming,12,Hungary,HUN,10,5,1,16
+stoke-mandeville-new-york-1984,swimming,13,Denmark,DEN,9,2,10,21
+stoke-mandeville-new-york-1984,swimming,14,Israel,ISR,3,12,7,22
+stoke-mandeville-new-york-1984,swimming,15,Italy,ITA,3,8,5,16
+stoke-mandeville-new-york-1984,swimming,16,Ireland,IRL,3,2,2,7
+stoke-mandeville-new-york-1984,swimming,17,Austria,AUT,2,2,0,4
+stoke-mandeville-new-york-1984,swimming,18,Brazil,BRA,1,5,1,7
+stoke-mandeville-new-york-1984,swimming,19,Finland,FIN,1,3,5,9
+stoke-mandeville-new-york-1984,swimming,20,New Zealand,NZL,1,2,2,5
+stoke-mandeville-new-york-1984,swimming,21,Luxembourg,LUX,1,2,0,3
+stoke-mandeville-new-york-1984,swimming,22,Yugoslavia,YUG,1,1,4,6
+stoke-mandeville-new-york-1984,swimming,23,China,CHN,0,6,4,10
+stoke-mandeville-new-york-1984,swimming,24,Belgium,BEL,0,3,3,6
+stoke-mandeville-new-york-1984,swimming,25,Iceland,ISL,0,2,5,7
+stoke-mandeville-new-york-1984,swimming,26,Kuwait,KUW,0,1,2,3
+stoke-mandeville-new-york-1984,swimming,27,Switzerland,SUI,0,1,1,2
+stoke-mandeville-new-york-1984,swimming,28,Japan,JPN,0,0,2,2
+stoke-mandeville-new-york-1984,swimming,29,Egypt,EGY,0,0,1,1
+stoke-mandeville-new-york-1984,swimming,29,"Hong Kong, China",HKG,0,0,1,1
+stoke-mandeville-new-york-1984,swimming,29,Trinidad and Tobago,TTO,0,0,1,1
+stoke-mandeville-new-york-1984,table-tennis,1,West Germany,FRG,15,5,9,29
+stoke-mandeville-new-york-1984,table-tennis,2,Sweden,SWE,7,3,2,12
+stoke-mandeville-new-york-1984,table-tennis,3,France,FRA,4,4,3,11
+stoke-mandeville-new-york-1984,table-tennis,4,Great Britain,GBR,3,5,5,13
+stoke-mandeville-new-york-1984,table-tennis,5,Austria,AUT,3,4,2,9
+stoke-mandeville-new-york-1984,table-tennis,6,Finland,FIN,3,1,3,7
+stoke-mandeville-new-york-1984,table-tennis,7,Denmark,DEN,2,1,0,3
+stoke-mandeville-new-york-1984,table-tennis,8,Switzerland,SUI,2,0,2,4
+stoke-mandeville-new-york-1984,table-tennis,9,Netherlands,NED,1,4,2,7
+stoke-mandeville-new-york-1984,table-tennis,10,Belgium,BEL,1,2,4,7
+stoke-mandeville-new-york-1984,table-tennis,11,Yugoslavia,YUG,1,1,3,5
+stoke-mandeville-new-york-1984,table-tennis,12,Australia,AUS,1,0,0,1
+stoke-mandeville-new-york-1984,table-tennis,12,Israel,ISR,1,0,0,1
+stoke-mandeville-new-york-1984,table-tennis,13,United States,USA,0,5,1,6
+stoke-mandeville-new-york-1984,table-tennis,14,"Hong Kong, China",HKG,0,3,1,4
+stoke-mandeville-new-york-1984,table-tennis,15,Norway,NOR,0,2,1,3
+stoke-mandeville-new-york-1984,table-tennis,16,Ireland,IRL,0,1,3,4
+stoke-mandeville-new-york-1984,table-tennis,17,South Korea,KOR,0,1,1,2
+stoke-mandeville-new-york-1984,table-tennis,18,China,CHN,0,1,0,1
+stoke-mandeville-new-york-1984,table-tennis,18,Hungary,HUN,0,1,0,1
+stoke-mandeville-new-york-1984,table-tennis,19,Canada,CAN,0,0,1,1
+stoke-mandeville-new-york-1984,table-tennis,19,Iceland,ISL,0,0,1,1
+stoke-mandeville-new-york-1984,table-tennis,19,Portugal,POR,0,0,1,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,1,France,FRA,1,0,0,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,1,West Germany,FRG,1,0,0,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,2,Israel,ISR,0,1,0,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,2,Netherlands,NED,0,1,0,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,3,Japan,JPN,0,0,1,1
+stoke-mandeville-new-york-1984,wheelchair-basketball,3,Sweden,SWE,0,0,1,1
+stoke-mandeville-new-york-1984,wheelchair-fencing,1,France,FRA,9,4,3,16
+stoke-mandeville-new-york-1984,wheelchair-fencing,2,Italy,ITA,2,5,0,7
+stoke-mandeville-new-york-1984,wheelchair-fencing,3,West Germany,FRG,2,3,0,5
+stoke-mandeville-new-york-1984,wheelchair-fencing,4,Great Britain,GBR,1,0,5,6
+stoke-mandeville-new-york-1984,wheelchair-fencing,5,"Hong Kong, China",HKG,1,0,2,3
+stoke-mandeville-new-york-1984,wheelchair-fencing,6,Israel,ISR,0,2,0,2
+stoke-mandeville-new-york-1984,wheelchair-fencing,7,Belgium,BEL,0,0,1,1
+stoke-mandeville-new-york-1984,wheelchair-fencing,7,Kuwait,KUW,0,0,1,1
+stoke-mandeville-new-york-1984,wrestling,1,United States,USA,7,2,0,9
+stoke-mandeville-new-york-1984,wrestling,2,Canada,CAN,2,6,0,8
+stoke-mandeville-new-york-1984,wrestling,3,Austria,AUT,0,1,0,1
+stoke-mandeville-new-york-1984,wrestling,4,Mexico,MEX,0,0,1,1
+stoke-mandeville-new-york-1984,weightlifting,1,Sweden,SWE,5,0,1,6
+stoke-mandeville-new-york-1984,weightlifting,2,France,FRA,2,5,1,8
+stoke-mandeville-new-york-1984,weightlifting,3,Finland,FIN,2,1,0,3
+stoke-mandeville-new-york-1984,weightlifting,4,Israel,ISR,2,0,0,2
+stoke-mandeville-new-york-1984,weightlifting,4,Poland,POL,2,0,0,2
+stoke-mandeville-new-york-1984,weightlifting,5,Great Britain,GBR,1,3,2,6
+stoke-mandeville-new-york-1984,weightlifting,6,United States,USA,1,2,2,5
+stoke-mandeville-new-york-1984,weightlifting,7,Belgium,BEL,0,1,1,2
+stoke-mandeville-new-york-1984,weightlifting,7,Switzerland,SUI,0,1,1,2
+stoke-mandeville-new-york-1984,weightlifting,8,Australia,AUS,0,0,1,1
+stoke-mandeville-new-york-1984,weightlifting,8,South Korea,KOR,0,0,1,1
+stoke-mandeville-new-york-1984,weightlifting,8,Luxembourg,LUX,0,0,1,1
+stoke-mandeville-new-york-1984,weightlifting,8,Mexico,MEX,0,0,1,1
+seoul-1988,archery,1,South Korea,KOR,4,1,1,6
+seoul-1988,archery,2,Great Britain,GBR,2,0,0,2
+seoul-1988,archery,3,Finland,FIN,1,2,1,4
+seoul-1988,archery,4,Belgium,BEL,1,1,0,2
+seoul-1988,archery,5,Switzerland,SUI,1,0,0,1
+seoul-1988,archery,6,Japan,JPN,0,2,1,3
+seoul-1988,archery,6,West Germany,FRG,0,2,1,3
+seoul-1988,archery,7,Italy,ITA,0,1,1,2
+seoul-1988,archery,8,Denmark,DEN,0,0,1,1
+seoul-1988,archery,8,France,FRA,0,0,1,1
+seoul-1988,archery,8,Spain,ESP,0,0,1,1
+seoul-1988,archery,8,United States,USA,0,0,1,1
+seoul-1988,athletics,1,United States,USA,50,56,56,162
+seoul-1988,athletics,2,West Germany,FRG,41,36,29,106
+seoul-1988,athletics,3,Great Britain,GBR,30,22,19,71
+seoul-1988,athletics,4,Canada,CAN,29,28,33,90
+seoul-1988,athletics,5,USSR,URS,21,9,6,36
+seoul-1988,athletics,6,South Korea,KOR,16,11,9,36
+seoul-1988,athletics,7,Australia,AUS,14,19,20,53
+seoul-1988,athletics,8,France,FRA,14,13,11,38
+seoul-1988,athletics,9,Japan,JPN,12,6,14,32
+seoul-1988,athletics,10,Switzerland,SUI,9,10,9,28
+seoul-1988,athletics,11,Ireland,IRL,9,9,12,30
+seoul-1988,athletics,12,Denmark,DEN,9,4,5,18
+seoul-1988,athletics,13,Austria,AUT,9,3,9,21
+seoul-1988,athletics,14,Belgium,BEL,8,7,4,19
+seoul-1988,athletics,15,Netherlands,NED,8,3,5,16
+seoul-1988,athletics,16,Mexico,MEX,7,7,6,20
+seoul-1988,athletics,17,Finland,FIN,6,17,6,29
+seoul-1988,athletics,18,Poland,POL,6,5,12,23
+seoul-1988,athletics,19,Spain,ESP,6,3,3,12
+seoul-1988,athletics,20,Sweden,SWE,5,8,6,19
+seoul-1988,athletics,21,Italy,ITA,5,4,13,22
+seoul-1988,athletics,22,Kuwait,KUW,5,4,6,15
+seoul-1988,athletics,23,Norway,NOR,4,7,6,17
+seoul-1988,athletics,24,China,CHN,3,10,5,18
+seoul-1988,athletics,25,Brazil,BRA,3,8,4,15
+seoul-1988,athletics,26,Yugoslavia,YUG,3,1,9,13
+seoul-1988,athletics,27,Iran,IRI,3,1,3,7
+seoul-1988,athletics,28,Portugal,POR,2,5,4,11
+seoul-1988,athletics,29,Israel,ISR,2,4,2,8
+seoul-1988,athletics,30,Bulgaria,BUL,2,1,0,3
+seoul-1988,athletics,31,Jamaica,JAM,1,4,3,8
+seoul-1988,athletics,32,Puerto Rico,PUR,1,2,0,3
+seoul-1988,athletics,33,Bahrain,BRN,1,1,1,3
+seoul-1988,athletics,34,Egypt,EGY,1,1,0,2
+seoul-1988,athletics,35,Iceland,ISL,1,0,2,3
+seoul-1988,athletics,36,Argentina,ARG,0,4,1,5
+seoul-1988,athletics,37,New Zealand,NZL,0,3,6,9
+seoul-1988,athletics,38,Kenya,KEN,0,3,1,4
+seoul-1988,athletics,39,Hungary,HUN,0,2,0,2
+seoul-1988,athletics,39,Indonesia,INA,0,2,0,2
+seoul-1988,athletics,40,Thailand,THA,0,1,0,1
+seoul-1988,athletics,41,"Hong Kong, China",HKG,0,0,3,3
+seoul-1988,athletics,42,Greece,GRE,0,0,2,2
+seoul-1988,athletics,42,Tunisia,TUN,0,0,2,2
+seoul-1988,boccia,1,South Korea,KOR,1,2,0,3
+seoul-1988,boccia,2,Portugal,POR,1,0,2,3
+seoul-1988,boccia,3,Ireland,IRL,1,0,0,1
+seoul-1988,boccia,4,Denmark,DEN,0,1,1,2
+seoul-1988,football-7-side,1,Netherlands,NED,1,0,0,1
+seoul-1988,football-7-side,2,Belgium,BEL,0,1,0,1
+seoul-1988,football-7-side,3,Ireland,IRL,0,0,1,1
+seoul-1988,goalball,1,Denmark,DEN,1,0,0,1
+seoul-1988,goalball,1,Yugoslavia,YUG,1,0,0,1
+seoul-1988,goalball,2,United States,USA,0,2,0,2
+seoul-1988,goalball,3,Canada,CAN,0,0,1,1
+seoul-1988,goalball,3,Egypt,EGY,0,0,1,1
+seoul-1988,judo,1,Japan,JPN,4,2,0,6
+seoul-1988,judo,2,Great Britain,GBR,1,1,3,5
+seoul-1988,judo,3,South Korea,KOR,1,1,0,2
+seoul-1988,judo,4,France,FRA,0,1,1,2
+seoul-1988,judo,5,Italy,ITA,0,1,0,1
+seoul-1988,judo,6,Brazil,BRA,0,0,3,3
+seoul-1988,judo,7,Canada,CAN,0,0,2,2
+seoul-1988,judo,7,United States,USA,0,0,2,2
+seoul-1988,judo,8,Sweden,SWE,0,0,1,1
+seoul-1988,lawn-bowls,1,Great Britain,GBR,3,2,2,7
+seoul-1988,lawn-bowls,2,Australia,AUS,1,1,2,4
+seoul-1988,lawn-bowls,3,Ireland,IRL,1,1,0,2
+seoul-1988,lawn-bowls,4,New Zealand,NZL,1,0,1,2
+seoul-1988,lawn-bowls,5,South Korea,KOR,0,1,1,2
+seoul-1988,lawn-bowls,6,Kenya,KEN,0,1,0,1
+seoul-1988,powerlifting,1,France,FRA,2,0,0,2
+seoul-1988,powerlifting,1,Poland,POL,2,0,0,2
+seoul-1988,powerlifting,2,South Korea,KOR,1,4,1,6
+seoul-1988,powerlifting,3,Great Britain,GBR,1,1,1,3
+seoul-1988,powerlifting,4,United States,USA,1,0,3,4
+seoul-1988,powerlifting,5,Finland,FIN,1,0,1,2
+seoul-1988,powerlifting,5,Sweden,SWE,1,0,1,2
+seoul-1988,powerlifting,6,Australia,AUS,0,1,1,2
+seoul-1988,powerlifting,7,Canada,CAN,0,1,0,1
+seoul-1988,powerlifting,7,Hungary,HUN,0,1,0,1
+seoul-1988,powerlifting,7,Switzerland,SUI,0,1,0,1
+seoul-1988,powerlifting,8,Norway,NOR,0,0,1,1
+seoul-1988,shooting,1,South Korea,KOR,6,4,1,11
+seoul-1988,shooting,2,Italy,ITA,4,1,0,5
+seoul-1988,shooting,3,West Germany,FRG,3,3,2,8
+seoul-1988,shooting,4,Australia,AUS,3,1,0,4
+seoul-1988,shooting,5,Sweden,SWE,2,0,5,7
+seoul-1988,shooting,6,Belgium,BEL,1,3,0,4
+seoul-1988,shooting,7,Great Britain,GBR,1,1,3,5
+seoul-1988,shooting,8,Austria,AUT,1,1,0,2
+seoul-1988,shooting,8,Denmark,DEN,1,1,0,2
+seoul-1988,shooting,9,China,CHN,1,0,0,1
+seoul-1988,shooting,10,Netherlands,NED,0,2,4,6
+seoul-1988,shooting,11,Canada,CAN,0,2,2,4
+seoul-1988,shooting,12,Israel,ISR,0,2,0,2
+seoul-1988,shooting,13,France,FRA,0,1,4,5
+seoul-1988,shooting,14,Yugoslavia,YUG,0,1,0,1
+seoul-1988,shooting,15,Finland,FIN,0,0,3,3
+seoul-1988,shooting,16,"Hong Kong, China",HKG,0,0,1,1
+seoul-1988,snooker,1,Great Britain,GBR,1,0,1,2
+seoul-1988,snooker,2,Ireland,IRL,0,1,0,1
+seoul-1988,swimming,1,United States,USA,33,28,22,83
+seoul-1988,swimming,2,Sweden,SWE,31,26,7,64
+seoul-1988,swimming,3,Great Britain,GBR,24,37,22,83
+seoul-1988,swimming,4,Canada,CAN,24,10,17,51
+seoul-1988,swimming,5,West Germany,FRG,20,11,10,41
+seoul-1988,swimming,6,Netherlands,NED,19,17,18,54
+seoul-1988,swimming,7,France,FRA,16,21,23,60
+seoul-1988,swimming,8,Poland,POL,13,20,20,53
+seoul-1988,swimming,9,Denmark,DEN,12,11,12,35
+seoul-1988,swimming,10,Spain,ESP,12,10,8,30
+seoul-1988,swimming,11,Israel,ISR,12,6,12,30
+seoul-1988,swimming,12,China,CHN,9,7,2,18
+seoul-1988,swimming,13,Norway,NOR,7,3,4,14
+seoul-1988,swimming,14,Australia,AUS,5,12,14,31
+seoul-1988,swimming,15,Italy,ITA,5,5,9,19
+seoul-1988,swimming,16,Belgium,BEL,4,3,1,8
+seoul-1988,swimming,17,Finland,FIN,2,4,4,10
+seoul-1988,swimming,18,Ireland,IRL,2,0,4,6
+seoul-1988,swimming,19,Faroe Islands,FRO,1,3,3,7
+seoul-1988,swimming,20,Iceland,ISL,1,2,5,8
+seoul-1988,swimming,21,Brazil,BRA,1,1,7,9
+seoul-1988,swimming,22,New Zealand,NZL,1,1,4,6
+seoul-1988,swimming,23,Mexico,MEX,1,1,1,3
+seoul-1988,swimming,24,South Korea,KOR,1,0,3,4
+seoul-1988,swimming,25,Japan,JPN,1,0,2,3
+seoul-1988,swimming,26,USSR,URS,0,11,9,20
+seoul-1988,swimming,27,Argentina,ARG,0,3,1,4
+seoul-1988,swimming,28,Hungary,HUN,0,1,5,6
+seoul-1988,swimming,29,Yugoslavia,YUG,0,1,2,3
+seoul-1988,swimming,30,Austria,AUT,0,1,1,2
+seoul-1988,swimming,30,Greece,GRE,0,1,1,2
+seoul-1988,swimming,31,Egypt,EGY,0,0,2,2
+seoul-1988,swimming,32,Morocco,MAR,0,0,1,1
+seoul-1988,swimming,32,Switzerland,SUI,0,0,1,1
+seoul-1988,table-tennis,1,West Germany,FRG,10,9,9,28
+seoul-1988,table-tennis,2,France,FRA,5,4,2,11
+seoul-1988,table-tennis,3,South Korea,KOR,4,7,1,12
+seoul-1988,table-tennis,4,United States,USA,4,1,2,7
+seoul-1988,table-tennis,5,Austria,AUT,3,2,5,10
+seoul-1988,table-tennis,6,China,CHN,3,0,1,4
+seoul-1988,table-tennis,7,Sweden,SWE,2,3,3,8
+seoul-1988,table-tennis,8,Switzerland,SUI,2,1,0,3
+seoul-1988,table-tennis,9,Netherlands,NED,2,0,1,3
+seoul-1988,table-tennis,10,Great Britain,GBR,1,1,1,3
+seoul-1988,table-tennis,11,Finland,FIN,1,0,1,2
+seoul-1988,table-tennis,12,Denmark,DEN,0,2,3,5
+seoul-1988,table-tennis,13,Belgium,BEL,0,2,2,4
+seoul-1988,table-tennis,14,Japan,JPN,0,2,0,2
+seoul-1988,table-tennis,15,Hungary,HUN,0,1,2,3
+seoul-1988,table-tennis,15,Norway,NOR,0,1,2,3
+seoul-1988,table-tennis,16,Yugoslavia,YUG,0,1,0,1
+seoul-1988,table-tennis,17,"Hong Kong, China",HKG,0,0,1,1
+seoul-1988,table-tennis,17,Ireland,IRL,0,0,1,1
+seoul-1988,wheelchair-basketball,1,United States,USA,2,0,0,2
+seoul-1988,wheelchair-basketball,2,Netherlands,NED,0,1,1,2
+seoul-1988,wheelchair-basketball,3,West Germany,FRG,0,1,0,1
+seoul-1988,wheelchair-basketball,4,France,FRA,0,0,1,1
+seoul-1988,wheelchair-fencing,1,France,FRA,7,4,3,14
+seoul-1988,wheelchair-fencing,2,South Korea,KOR,3,1,0,4
+seoul-1988,wheelchair-fencing,3,Italy,ITA,2,3,4,9
+seoul-1988,wheelchair-fencing,4,West Germany,FRG,1,3,1,5
+seoul-1988,wheelchair-fencing,5,Great Britain,GBR,1,0,2,3
+seoul-1988,wheelchair-fencing,6,"Hong Kong, China",HKG,0,2,2,4
+seoul-1988,wheelchair-fencing,7,Kuwait,KUW,0,1,1,2
+seoul-1988,wheelchair-fencing,8,Israel,ISR,0,0,1,1
+seoul-1988,weightlifting,1,Poland,POL,2,0,0,2
+seoul-1988,weightlifting,2,United States,USA,1,2,0,3
+seoul-1988,weightlifting,3,Israel,ISR,1,1,1,3
+seoul-1988,weightlifting,4,Sweden,SWE,1,1,0,2
+seoul-1988,weightlifting,5,Guatemala,GUA,1,0,0,1
+seoul-1988,weightlifting,5,South Korea,KOR,1,0,0,1
+seoul-1988,weightlifting,6,Egypt,EGY,0,2,0,2
+seoul-1988,weightlifting,7,Mexico,MEX,0,1,0,1
+seoul-1988,weightlifting,8,France,FRA,0,0,3,3
+seoul-1988,weightlifting,9,Australia,AUS,0,0,1,1
+seoul-1988,weightlifting,9,Malaysia,MAS,0,0,1,1
+seoul-1988,weightlifting,9,Switzerland,SUI,0,0,1,1
+barcelona-1992,archery,1,Italy,ITA,2,1,1,4
+barcelona-1992,archery,2,Germany,GER,1,1,1,3
+barcelona-1992,archery,2,Japan,JPN,1,1,1,3
+barcelona-1992,archery,3,South Korea,KOR,1,0,2,3
+barcelona-1992,archery,4,Denmark,DEN,1,0,1,2
+barcelona-1992,archery,5,Unified Team,EUN,1,0,0,1
+barcelona-1992,archery,6,Finland,FIN,0,1,0,1
+barcelona-1992,archery,6,Spain,ESP,0,1,0,1
+barcelona-1992,archery,6,Sweden,SWE,0,1,0,1
+barcelona-1992,archery,6,United States,USA,0,1,0,1
+barcelona-1992,archery,7,France,FRA,0,0,1,1
+barcelona-1992,athletics,1,United States,USA,40,25,31,96
+barcelona-1992,athletics,2,Spain,ESP,22,14,12,48
+barcelona-1992,athletics,3,Germany,GER,20,19,24,63
+barcelona-1992,athletics,4,Canada,CAN,16,15,15,46
+barcelona-1992,athletics,5,Great Britain,GBR,15,20,16,51
+barcelona-1992,athletics,6,Australia,AUS,13,15,12,40
+barcelona-1992,athletics,7,Unified Team,EUN,11,10,7,28
+barcelona-1992,athletics,8,China,CHN,8,4,3,15
+barcelona-1992,athletics,9,Switzerland,SUI,6,12,7,25
+barcelona-1992,athletics,10,France,FRA,6,7,5,18
+barcelona-1992,athletics,11,Poland,POL,6,5,5,16
+barcelona-1992,athletics,12,South Korea,KOR,4,7,4,15
+barcelona-1992,athletics,13,Denmark,DEN,4,5,0,9
+barcelona-1992,athletics,14,Egypt,EGY,4,4,1,9
+barcelona-1992,athletics,15,Czechoslovakia,TCH,4,2,5,11
+barcelona-1992,athletics,16,Netherlands,NED,3,3,3,9
+barcelona-1992,athletics,17,Cuba,CUB,3,2,3,8
+barcelona-1992,athletics,18,South Africa,RSA,3,1,3,7
+barcelona-1992,athletics,19,Portugal,POR,3,1,2,6
+barcelona-1992,athletics,20,Brazil,BRA,3,0,1,4
+barcelona-1992,athletics,21,Austria,AUT,2,3,6,11
+barcelona-1992,athletics,22,Belgium,BEL,2,3,1,6
+barcelona-1992,athletics,23,Italy,ITA,2,2,6,10
+barcelona-1992,athletics,24,Finland,FIN,2,2,4,8
+barcelona-1992,athletics,25,Japan,JPN,2,1,5,8
+barcelona-1992,athletics,26,Slovenia,SLO,2,0,1,3
+barcelona-1992,athletics,27,Nigeria,NGR,2,0,0,2
+barcelona-1992,athletics,28,Kuwait,KUW,1,3,0,4
+barcelona-1992,athletics,29,Bulgaria,BUL,1,2,0,3
+barcelona-1992,athletics,29,Panama,PAN,1,2,0,3
+barcelona-1992,athletics,30,Argentina,ARG,1,1,0,2
+barcelona-1992,athletics,30,Independent Paralympic Participants,IPP,1,1,0,2
+barcelona-1992,athletics,31,Kenya,KEN,1,0,1,2
+barcelona-1992,athletics,32,New Zealand,NZL,1,0,0,1
+barcelona-1992,athletics,33,Sweden,SWE,0,6,2,8
+barcelona-1992,athletics,34,Lithuania,LTU,0,4,3,7
+barcelona-1992,athletics,35,Norway,NOR,0,2,4,6
+barcelona-1992,athletics,36,Greece,GRE,0,2,1,3
+barcelona-1992,athletics,36,Iran,IRI,0,2,1,3
+barcelona-1992,athletics,36,Ireland,IRL,0,2,1,3
+barcelona-1992,athletics,37,Mexico,MEX,0,1,8,9
+barcelona-1992,athletics,38,Jamaica,JAM,0,1,2,3
+barcelona-1992,athletics,39,"Hong Kong, China",HKG,0,1,1,2
+barcelona-1992,athletics,40,Estonia,EST,0,1,0,1
+barcelona-1992,athletics,41,Iceland,ISL,0,0,2,2
+barcelona-1992,athletics,42,Bahrain,BRN,0,0,1,1
+barcelona-1992,athletics,42,Croatia,CRO,0,0,1,1
+barcelona-1992,athletics,42,Hungary,HUN,0,0,1,1
+barcelona-1992,athletics,42,Iraq,IRQ,0,0,1,1
+barcelona-1992,athletics,42,Malaysia,MAS,0,0,1,1
+barcelona-1992,athletics,42,Thailand,THA,0,0,1,1
+barcelona-1992,athletics,42,Venezuela,VEN,0,0,1,1
+barcelona-1992,boccia,1,Spain,ESP,2,0,0,2
+barcelona-1992,boccia,2,South Korea,KOR,1,0,1,2
+barcelona-1992,boccia,3,Denmark,DEN,0,1,1,2
+barcelona-1992,boccia,4,Portugal,POR,0,1,0,1
+barcelona-1992,boccia,4,United States,USA,0,1,0,1
+barcelona-1992,boccia,5,Ireland,IRL,0,0,1,1
+barcelona-1992,football-7-side,1,Netherlands,NED,1,0,0,1
+barcelona-1992,football-7-side,2,Portugal,POR,0,1,0,1
+barcelona-1992,football-7-side,3,Ireland,IRL,0,0,1,1
+barcelona-1992,goalball,1,Finland,FIN,1,1,0,2
+barcelona-1992,goalball,2,Italy,ITA,1,0,0,1
+barcelona-1992,goalball,3,Denmark,DEN,0,1,0,1
+barcelona-1992,goalball,4,Canada,CAN,0,0,1,1
+barcelona-1992,goalball,4,Egypt,EGY,0,0,1,1
+barcelona-1992,judo,1,Japan,JPN,3,2,2,7
+barcelona-1992,judo,2,Spain,ESP,1,1,0,2
+barcelona-1992,judo,3,France,FRA,1,0,1,2
+barcelona-1992,judo,3,Great Britain,GBR,1,0,1,2
+barcelona-1992,judo,3,South Korea,KOR,1,0,1,2
+barcelona-1992,judo,4,United States,USA,0,2,1,3
+barcelona-1992,judo,5,Unified Team,EUN,0,1,2,3
+barcelona-1992,judo,6,Italy,ITA,0,0,3,3
+barcelona-1992,judo,7,Canada,CAN,0,0,1,1
+barcelona-1992,judo,7,Chinese Taipei,TPE,0,0,1,1
+barcelona-1992,judo,7,Germany,GER,0,0,1,1
+barcelona-1992,powerlifting,1,Poland,POL,3,2,3,8
+barcelona-1992,powerlifting,2,Egypt,EGY,2,2,3,7
+barcelona-1992,powerlifting,3,Sweden,SWE,2,0,1,3
+barcelona-1992,powerlifting,4,South Korea,KOR,1,1,1,3
+barcelona-1992,powerlifting,5,Germany,GER,1,0,0,1
+barcelona-1992,powerlifting,5,Nigeria,NGR,1,0,0,1
+barcelona-1992,powerlifting,6,Belgium,BEL,0,1,1,2
+barcelona-1992,powerlifting,7,France,FRA,0,1,0,1
+barcelona-1992,powerlifting,7,Great Britain,GBR,0,1,0,1
+barcelona-1992,powerlifting,7,Norway,NOR,0,1,0,1
+barcelona-1992,powerlifting,7,United States,USA,0,1,0,1
+barcelona-1992,powerlifting,8,Switzerland,SUI,0,0,1,1
+barcelona-1992,shooting,1,Germany,GER,5,3,2,10
+barcelona-1992,shooting,2,Sweden,SWE,2,1,1,4
+barcelona-1992,shooting,3,Independent Paralympic Participants,IPP,2,1,0,3
+barcelona-1992,shooting,4,South Korea,KOR,1,5,2,8
+barcelona-1992,shooting,5,Denmark,DEN,1,5,0,6
+barcelona-1992,shooting,6,Great Britain,GBR,1,0,3,4
+barcelona-1992,shooting,7,France,FRA,1,0,2,3
+barcelona-1992,shooting,8,Belgium,BEL,1,0,1,2
+barcelona-1992,shooting,8,Canada,CAN,1,0,1,2
+barcelona-1992,shooting,8,Italy,ITA,1,0,1,2
+barcelona-1992,shooting,9,Spain,ESP,0,1,0,1
+barcelona-1992,shooting,10,Finland,FIN,0,0,2,2
+barcelona-1992,shooting,11,Austria,AUT,0,0,1,1
+barcelona-1992,swimming,1,United States,USA,29,16,12,57
+barcelona-1992,swimming,2,Great Britain,GBR,22,25,17,64
+barcelona-1992,swimming,3,Germany,GER,20,14,13,47
+barcelona-1992,swimming,4,France,FRA,17,13,12,42
+barcelona-1992,swimming,5,Norway,NOR,13,10,3,26
+barcelona-1992,swimming,6,Australia,AUS,10,12,13,35
+barcelona-1992,swimming,7,Canada,CAN,9,4,7,20
+barcelona-1992,swimming,8,Spain,ESP,7,14,22,43
+barcelona-1992,swimming,9,Denmark,DEN,5,9,8,22
+barcelona-1992,swimming,10,Netherlands,NED,5,8,4,17
+barcelona-1992,swimming,11,Unified Team,EUN,4,3,6,13
+barcelona-1992,swimming,12,New Zealand,NZL,4,1,0,5
+barcelona-1992,swimming,13,Sweden,SWE,3,12,3,18
+barcelona-1992,swimming,14,Iceland,ISL,3,2,10,15
+barcelona-1992,swimming,15,Hungary,HUN,3,2,2,7
+barcelona-1992,swimming,16,Finland,FIN,2,1,4,7
+barcelona-1992,swimming,17,Italy,ITA,2,0,1,3
+barcelona-1992,swimming,18,Poland,POL,1,4,2,7
+barcelona-1992,swimming,19,China,CHN,1,1,3,5
+barcelona-1992,swimming,20,Independent Paralympic Participants,IPP,1,1,0,2
+barcelona-1992,swimming,21,Egypt,EGY,1,0,2,3
+barcelona-1992,swimming,22,South Africa,RSA,1,0,0,1
+barcelona-1992,swimming,23,Israel,ISR,0,3,5,8
+barcelona-1992,swimming,24,Japan,JPN,0,2,4,6
+barcelona-1992,swimming,25,Switzerland,SUI,0,1,4,5
+barcelona-1992,swimming,26,Belgium,BEL,0,1,1,2
+barcelona-1992,swimming,26,Estonia,EST,0,1,1,2
+barcelona-1992,swimming,27,Cuba,CUB,0,1,0,1
+barcelona-1992,swimming,27,Faroe Islands,FRO,0,1,0,1
+barcelona-1992,swimming,27,Ireland,IRL,0,1,0,1
+barcelona-1992,swimming,28,Brazil,BRA,0,0,3,3
+barcelona-1992,swimming,29,Mexico,MEX,0,0,2,2
+barcelona-1992,swimming,30,Portugal,POR,0,0,1,1
+barcelona-1992,table-tennis,1,Germany,GER,9,9,10,28
+barcelona-1992,table-tennis,2,Finland,FIN,3,1,1,5
+barcelona-1992,table-tennis,3,"Hong Kong, China",HKG,3,0,3,6
+barcelona-1992,table-tennis,4,France,FRA,2,5,5,12
+barcelona-1992,table-tennis,5,China,CHN,2,2,1,5
+barcelona-1992,table-tennis,6,Japan,JPN,2,1,3,6
+barcelona-1992,table-tennis,7,Austria,AUT,2,0,6,8
+barcelona-1992,table-tennis,8,South Korea,KOR,1,2,6,9
+barcelona-1992,table-tennis,9,Denmark,DEN,1,1,2,4
+barcelona-1992,table-tennis,9,Great Britain,GBR,1,1,2,4
+barcelona-1992,table-tennis,9,United States,USA,1,1,2,4
+barcelona-1992,table-tennis,10,Netherlands,NED,1,0,3,4
+barcelona-1992,table-tennis,11,Belgium,BEL,1,0,2,3
+barcelona-1992,table-tennis,12,Israel,ISR,1,0,0,1
+barcelona-1992,table-tennis,13,Italy,ITA,0,2,2,4
+barcelona-1992,table-tennis,13,Sweden,SWE,0,2,2,4
+barcelona-1992,table-tennis,14,Switzerland,SUI,0,2,1,3
+barcelona-1992,table-tennis,15,Hungary,HUN,0,1,1,2
+barcelona-1992,table-tennis,16,Spain,ESP,0,0,3,3
+barcelona-1992,table-tennis,17,Independent Paralympic Participants,IPP,0,0,1,1
+barcelona-1992,table-tennis,17,Ireland,IRL,0,0,1,1
+barcelona-1992,wheelchair-basketball,1,Netherlands,NED,1,0,1,2
+barcelona-1992,wheelchair-basketball,2,Canada,CAN,1,0,0,1
+barcelona-1992,wheelchair-basketball,3,Germany,GER,0,1,0,1
+barcelona-1992,wheelchair-basketball,3,United States,USA,0,1,0,1
+barcelona-1992,wheelchair-basketball,4,France,FRA,0,0,1,1
+barcelona-1992,wheelchair-fencing,1,France,FRA,8,6,4,18
+barcelona-1992,wheelchair-fencing,2,Germany,GER,2,3,4,9
+barcelona-1992,wheelchair-fencing,3,Italy,ITA,2,2,3,7
+barcelona-1992,wheelchair-fencing,4,Spain,ESP,1,0,2,3
+barcelona-1992,wheelchair-fencing,5,Hungary,HUN,1,0,0,1
+barcelona-1992,wheelchair-fencing,6,"Hong Kong, China",HKG,0,3,0,3
+barcelona-1992,wheelchair-fencing,7,Great Britain,GBR,0,0,1,1
+barcelona-1992,weightlifting,1,United States,USA,2,0,2,4
+barcelona-1992,weightlifting,2,Israel,ISR,1,1,0,2
+barcelona-1992,weightlifting,3,Australia,AUS,1,0,0,1
+barcelona-1992,weightlifting,3,South Korea,KOR,1,0,0,1
+barcelona-1992,weightlifting,4,France,FRA,0,3,0,3
+barcelona-1992,weightlifting,5,Malaysia,MAS,0,1,1,2
+barcelona-1992,weightlifting,6,Great Britain,GBR,0,0,1,1
+barcelona-1992,weightlifting,6,Kuwait,KUW,0,0,1,1
+atlanta-1996,archery,1,Poland,POL,2,1,0,3
+atlanta-1996,archery,2,South Korea,KOR,2,0,2,4
+atlanta-1996,archery,3,Italy,ITA,1,2,1,4
+atlanta-1996,archery,4,Japan,JPN,1,1,2,4
+atlanta-1996,archery,5,Germany,GER,1,0,1,2
+atlanta-1996,archery,6,Finland,FIN,1,0,0,1
+atlanta-1996,archery,7,France,FRA,0,1,1,2
+atlanta-1996,archery,7,Great Britain,GBR,0,1,1,2
+atlanta-1996,archery,8,Netherlands,NED,0,1,0,1
+atlanta-1996,archery,8,Switzerland,SUI,0,1,0,1
+atlanta-1996,athletics,1,United States,USA,22,24,32,78
+atlanta-1996,athletics,2,Spain,ESP,21,15,13,49
+atlanta-1996,athletics,3,Australia,AUS,19,12,12,43
+atlanta-1996,athletics,4,Great Britain,GBR,12,14,16,42
+atlanta-1996,athletics,5,Germany,GER,10,24,18,52
+atlanta-1996,athletics,6,Canada,CAN,10,16,13,39
+atlanta-1996,athletics,7,Switzerland,SUI,9,3,6,18
+atlanta-1996,athletics,8,China,CHN,8,7,2,17
+atlanta-1996,athletics,9,Cuba,CUB,8,3,0,11
+atlanta-1996,athletics,10,Egypt,EGY,7,6,9,22
+atlanta-1996,athletics,11,South Africa,RSA,7,4,4,15
+atlanta-1996,athletics,12,Iran,IRI,7,4,1,12
+atlanta-1996,athletics,13,Poland,POL,6,6,2,14
+atlanta-1996,athletics,14,Russia,RUS,6,3,4,13
+atlanta-1996,athletics,15,France,FRA,5,7,8,20
+atlanta-1996,athletics,16,Japan,JPN,5,5,2,12
+atlanta-1996,athletics,17,Italy,ITA,4,4,5,13
+atlanta-1996,athletics,18,Belgium,BEL,4,4,2,10
+atlanta-1996,athletics,19,Portugal,POR,4,1,3,8
+atlanta-1996,athletics,20,Mexico,MEX,3,4,4,11
+atlanta-1996,athletics,21,Belarus,BLR,3,3,7,13
+atlanta-1996,athletics,22,Lithuania,LTU,3,2,5,10
+atlanta-1996,athletics,23,New Zealand,NZL,2,3,1,6
+atlanta-1996,athletics,24,Algeria,ALG,2,2,3,7
+atlanta-1996,athletics,25,Nigeria,NGR,2,1,0,3
+atlanta-1996,athletics,26,South Korea,KOR,2,0,2,4
+atlanta-1996,athletics,27,Côte d'Ivoire,CIV,2,0,0,2
+atlanta-1996,athletics,27,Panama,PAN,2,0,0,2
+atlanta-1996,athletics,28,Sweden,SWE,1,5,3,9
+atlanta-1996,athletics,29,Czechia,CZE,1,3,1,5
+atlanta-1996,athletics,30,Austria,AUT,1,2,3,6
+atlanta-1996,athletics,31,Estonia,EST,1,2,2,5
+atlanta-1996,athletics,32,Argentina,ARG,1,2,0,3
+atlanta-1996,athletics,33,Kuwait,KUW,1,1,1,3
+atlanta-1996,athletics,33,Ukraine,UKR,1,1,1,3
+atlanta-1996,athletics,34,Finland,FIN,1,1,0,2
+atlanta-1996,athletics,34,Kenya,KEN,1,1,0,2
+atlanta-1996,athletics,35,Ireland,IRL,1,0,5,6
+atlanta-1996,athletics,36,Greece,GRE,1,0,2,3
+atlanta-1996,athletics,36,Netherlands,NED,1,0,2,3
+atlanta-1996,athletics,37,"Hong Kong, China",HKG,1,0,1,2
+atlanta-1996,athletics,37,Slovakia,SVK,1,0,1,2
+atlanta-1996,athletics,38,Dominican Republic,DOM,1,0,0,1
+atlanta-1996,athletics,39,Brazil,BRA,0,5,6,11
+atlanta-1996,athletics,40,Iceland,ISL,0,3,0,3
+atlanta-1996,athletics,41,Tunisia,TUN,0,2,0,2
+atlanta-1996,athletics,42,Denmark,DEN,0,1,1,2
+atlanta-1996,athletics,42,Slovenia,SLO,0,1,1,2
+atlanta-1996,athletics,43,Israel,ISR,0,1,0,1
+atlanta-1996,athletics,43,Jordan,JOR,0,1,0,1
+atlanta-1996,athletics,44,Bulgaria,BUL,0,0,1,1
+atlanta-1996,athletics,44,Jamaica,JAM,0,0,1,1
+atlanta-1996,athletics,44,Republic of Moldova,MDA,0,0,1,1
+atlanta-1996,athletics,44,Thailand,THA,0,0,1,1
+atlanta-1996,athletics,44,Uruguay,URU,0,0,1,1
+atlanta-1996,boccia,1,Spain,ESP,2,1,1,4
+atlanta-1996,boccia,2,Portugal,POR,2,1,0,3
+atlanta-1996,boccia,3,South Korea,KOR,1,0,1,2
+atlanta-1996,boccia,4,Denmark,DEN,0,1,0,1
+atlanta-1996,boccia,4,Great Britain,GBR,0,1,0,1
+atlanta-1996,boccia,4,Ireland,IRL,0,1,0,1
+atlanta-1996,boccia,5,Australia,AUS,0,0,1,1
+atlanta-1996,boccia,5,Belgium,BEL,0,0,1,1
+atlanta-1996,boccia,5,United States,USA,0,0,1,1
+atlanta-1996,equestrian,1,Great Britain,GBR,3,3,2,8
+atlanta-1996,equestrian,2,United States,USA,2,0,1,3
+atlanta-1996,equestrian,3,Norway,NOR,2,0,0,2
+atlanta-1996,equestrian,4,Denmark,DEN,1,3,2,6
+atlanta-1996,equestrian,5,Germany,GER,1,2,0,3
+atlanta-1996,equestrian,6,France,FRA,0,1,1,2
+atlanta-1996,equestrian,7,Ireland,IRL,0,0,1,1
+atlanta-1996,equestrian,7,Netherlands,NED,0,0,1,1
+atlanta-1996,equestrian,7,Sweden,SWE,0,0,1,1
+atlanta-1996,football-7-side,1,Netherlands,NED,1,0,0,1
+atlanta-1996,football-7-side,2,Russia,RUS,0,1,0,1
+atlanta-1996,football-7-side,3,Spain,ESP,0,0,1,1
+atlanta-1996,goalball,1,Finland,FIN,1,1,0,2
+atlanta-1996,goalball,2,Germany,GER,1,0,0,1
+atlanta-1996,goalball,3,Canada,CAN,0,1,0,1
+atlanta-1996,goalball,4,Spain,ESP,0,0,1,1
+atlanta-1996,goalball,4,United States,USA,0,0,1,1
+atlanta-1996,judo,1,Japan,JPN,2,1,1,4
+atlanta-1996,judo,2,Great Britain,GBR,1,0,2,3
+atlanta-1996,judo,3,Australia,AUS,1,0,0,1
+atlanta-1996,judo,3,Austria,AUT,1,0,0,1
+atlanta-1996,judo,3,Brazil,BRA,1,0,0,1
+atlanta-1996,judo,3,Chinese Taipei,TPE,1,0,0,1
+atlanta-1996,judo,4,United States,USA,0,1,3,4
+atlanta-1996,judo,5,France,FRA,0,1,2,3
+atlanta-1996,judo,6,China,CHN,0,1,1,2
+atlanta-1996,judo,6,Russia,RUS,0,1,1,2
+atlanta-1996,judo,6,Spain,ESP,0,1,1,2
+atlanta-1996,judo,7,Argentina,ARG,0,1,0,1
+atlanta-1996,judo,8,South Korea,KOR,0,0,2,2
+atlanta-1996,judo,9,Lithuania,LTU,0,0,1,1
+atlanta-1996,lawn-bowls,1,Great Britain,GBR,6,3,2,11
+atlanta-1996,lawn-bowls,2,South Africa,RSA,1,2,1,4
+atlanta-1996,lawn-bowls,3,Canada,CAN,1,1,0,2
+atlanta-1996,lawn-bowls,4,Australia,AUS,0,1,1,2
+atlanta-1996,lawn-bowls,4,"Hong Kong, China",HKG,0,1,1,2
+atlanta-1996,lawn-bowls,5,Israel,ISR,0,0,2,2
+atlanta-1996,lawn-bowls,6,South Korea,KOR,0,0,1,1
+atlanta-1996,powerlifting,1,China,CHN,2,1,1,4
+atlanta-1996,powerlifting,1,South Korea,KOR,2,1,1,4
+atlanta-1996,powerlifting,2,Poland,POL,2,1,0,3
+atlanta-1996,powerlifting,3,Egypt,EGY,1,4,1,6
+atlanta-1996,powerlifting,4,Nigeria,NGR,1,1,2,4
+atlanta-1996,powerlifting,5,United States,USA,1,0,1,2
+atlanta-1996,powerlifting,6,Germany,GER,1,0,0,1
+atlanta-1996,powerlifting,7,Iran,IRI,0,1,2,3
+atlanta-1996,powerlifting,8,Australia,AUS,0,1,0,1
+atlanta-1996,powerlifting,9,Great Britain,GBR,0,0,1,1
+atlanta-1996,powerlifting,9,Norway,NOR,0,0,1,1
+atlanta-1996,shooting,1,Sweden,SWE,5,2,3,10
+atlanta-1996,shooting,2,South Korea,KOR,3,0,1,4
+atlanta-1996,shooting,3,Russia,RUS,2,0,1,3
+atlanta-1996,shooting,4,Germany,GER,1,1,5,7
+atlanta-1996,shooting,5,Great Britain,GBR,1,1,0,2
+atlanta-1996,shooting,5,Yugoslavia,YUG,1,1,0,2
+atlanta-1996,shooting,6,Iran,IRI,1,0,0,1
+atlanta-1996,shooting,6,Spain,ESP,1,0,0,1
+atlanta-1996,shooting,7,Denmark,DEN,0,2,0,2
+atlanta-1996,shooting,7,Israel,ISR,0,2,0,2
+atlanta-1996,shooting,8,Italy,ITA,0,1,4,5
+atlanta-1996,shooting,9,Australia,AUS,0,1,0,1
+atlanta-1996,shooting,9,Austria,AUT,0,1,0,1
+atlanta-1996,shooting,9,China,CHN,0,1,0,1
+atlanta-1996,shooting,9,France,FRA,0,1,0,1
+atlanta-1996,shooting,9,Slovenia,SLO,0,1,0,1
+atlanta-1996,shooting,10,South Africa,RSA,0,0,1,1
+atlanta-1996,swimming,1,Germany,GER,19,23,14,56
+atlanta-1996,swimming,2,Great Britain,GBR,16,17,15,48
+atlanta-1996,swimming,3,Australia,AUS,16,16,12,44
+atlanta-1996,swimming,4,United States,USA,16,13,16,45
+atlanta-1996,swimming,5,Spain,ESP,14,13,14,41
+atlanta-1996,swimming,6,France,FRA,12,8,5,25
+atlanta-1996,swimming,7,Netherlands,NED,11,8,10,29
+atlanta-1996,swimming,8,Canada,CAN,9,2,8,19
+atlanta-1996,swimming,9,Norway,NOR,7,6,1,14
+atlanta-1996,swimming,10,New Zealand,NZL,7,3,2,12
+atlanta-1996,swimming,11,Denmark,DEN,5,10,14,29
+atlanta-1996,swimming,12,Japan,JPN,5,3,4,12
+atlanta-1996,swimming,13,Iceland,ISL,5,1,5,11
+atlanta-1996,swimming,14,Sweden,SWE,4,4,3,11
+atlanta-1996,swimming,15,Poland,POL,3,5,4,12
+atlanta-1996,swimming,16,China,CHN,3,3,4,10
+atlanta-1996,swimming,17,Italy,ITA,2,4,1,7
+atlanta-1996,swimming,18,Belgium,BEL,2,3,2,7
+atlanta-1996,swimming,19,South Africa,RSA,2,2,4,8
+atlanta-1996,swimming,20,Estonia,EST,2,2,0,4
+atlanta-1996,swimming,21,Hungary,HUN,2,1,3,6
+atlanta-1996,swimming,22,Russia,RUS,1,2,5,8
+atlanta-1996,swimming,23,Argentina,ARG,1,2,1,4
+atlanta-1996,swimming,24,Brazil,BRA,1,1,7,9
+atlanta-1996,swimming,25,Slovakia,SVK,1,1,2,4
+atlanta-1996,swimming,26,Czechia,CZE,1,0,0,1
+atlanta-1996,swimming,26,Peru,PER,1,0,0,1
+atlanta-1996,swimming,27,Ukraine,UKR,0,3,1,4
+atlanta-1996,swimming,28,Finland,FIN,0,2,2,4
+atlanta-1996,swimming,29,Portugal,POR,0,2,1,3
+atlanta-1996,swimming,30,Ireland,IRL,0,2,0,2
+atlanta-1996,swimming,31,Israel,ISR,0,1,3,4
+atlanta-1996,swimming,32,Egypt,EGY,0,1,1,2
+atlanta-1996,swimming,32,Greece,GRE,0,1,1,2
+atlanta-1996,swimming,33,Bulgaria,BUL,0,1,0,1
+atlanta-1996,swimming,33,Switzerland,SUI,0,1,0,1
+atlanta-1996,swimming,33,Yugoslavia,YUG,0,1,0,1
+atlanta-1996,swimming,34,Slovenia,SLO,0,0,2,2
+atlanta-1996,swimming,35,South Korea,KOR,0,0,1,1
+atlanta-1996,swimming,35,Thailand,THA,0,0,1,1
+atlanta-1996,table-tennis,1,France,FRA,6,6,5,17
+atlanta-1996,table-tennis,2,Germany,GER,4,3,7,14
+atlanta-1996,table-tennis,3,Austria,AUT,3,3,5,11
+atlanta-1996,table-tennis,4,South Korea,KOR,3,0,3,6
+atlanta-1996,table-tennis,5,China,CHN,3,0,2,5
+atlanta-1996,table-tennis,6,Sweden,SWE,2,3,1,6
+atlanta-1996,table-tennis,7,United States,USA,2,1,2,5
+atlanta-1996,table-tennis,8,Belgium,BEL,1,2,2,5
+atlanta-1996,table-tennis,9,Finland,FIN,1,1,1,3
+atlanta-1996,table-tennis,10,Denmark,DEN,1,0,0,1
+atlanta-1996,table-tennis,10,Hungary,HUN,1,0,0,1
+atlanta-1996,table-tennis,10,Yugoslavia,YUG,1,0,0,1
+atlanta-1996,table-tennis,11,"Hong Kong, China",HKG,0,3,1,4
+atlanta-1996,table-tennis,12,Czechia,CZE,0,3,0,3
+atlanta-1996,table-tennis,13,Great Britain,GBR,0,1,2,3
+atlanta-1996,table-tennis,13,Slovakia,SVK,0,1,2,3
+atlanta-1996,table-tennis,14,Mexico,MEX,0,1,0,1
+atlanta-1996,table-tennis,15,Chinese Taipei,TPE,0,0,2,2
+atlanta-1996,table-tennis,15,Japan,JPN,0,0,2,2
+atlanta-1996,table-tennis,15,Netherlands,NED,0,0,2,2
+atlanta-1996,table-tennis,16,Argentina,ARG,0,0,1,1
+atlanta-1996,table-tennis,16,Italy,ITA,0,0,1,1
+atlanta-1996,table-tennis,16,Republic of Moldova,MDA,0,0,1,1
+atlanta-1996,table-tennis,16,Nigeria,NGR,0,0,1,1
+atlanta-1996,table-tennis,16,Poland,POL,0,0,1,1
+atlanta-1996,table-tennis,16,Spain,ESP,0,0,1,1
+atlanta-1996,wheelchair-basketball,1,Australia,AUS,1,0,0,1
+atlanta-1996,wheelchair-basketball,1,Canada,CAN,1,0,0,1
+atlanta-1996,wheelchair-basketball,2,Great Britain,GBR,0,1,0,1
+atlanta-1996,wheelchair-basketball,2,Netherlands,NED,0,1,0,1
+atlanta-1996,wheelchair-basketball,3,United States,USA,0,0,2,2
+atlanta-1996,wheelchair-fencing,1,France,FRA,7,3,5,15
+atlanta-1996,wheelchair-fencing,2,"Hong Kong, China",HKG,4,1,2,7
+atlanta-1996,wheelchair-fencing,3,Hungary,HUN,2,1,0,3
+atlanta-1996,wheelchair-fencing,4,Italy,ITA,1,7,1,9
+atlanta-1996,wheelchair-fencing,5,Germany,GER,1,2,5,8
+atlanta-1996,wheelchair-fencing,6,Poland,POL,0,1,0,1
+atlanta-1996,wheelchair-fencing,7,South Korea,KOR,0,0,1,1
+atlanta-1996,wheelchair-fencing,7,Spain,ESP,0,0,1,1
+sydney-2000,archery,1,Italy,ITA,3,0,1,4
+sydney-2000,archery,2,South Korea,KOR,2,1,2,5
+sydney-2000,archery,3,Great Britain,GBR,1,2,0,3
+sydney-2000,archery,4,Czechia,CZE,1,0,0,1
+sydney-2000,archery,5,France,FRA,0,2,1,3
+sydney-2000,archery,6,Poland,POL,0,1,1,2
+sydney-2000,archery,7,Ukraine,UKR,0,1,0,1
+sydney-2000,archery,8,Japan,JPN,0,0,1,1
+sydney-2000,archery,8,Slovakia,SVK,0,0,1,1
+sydney-2000,athletics,1,Australia,AUS,35,15,16,66
+sydney-2000,athletics,2,Great Britain,GBR,16,14,18,48
+sydney-2000,athletics,3,United States,USA,14,15,20,49
+sydney-2000,athletics,4,Spain,ESP,14,12,11,37
+sydney-2000,athletics,5,Canada,CAN,12,15,10,37
+sydney-2000,athletics,6,China,CHN,11,10,7,28
+sydney-2000,athletics,7,South Africa,RSA,11,7,7,25
+sydney-2000,athletics,8,Poland,POL,10,6,3,19
+sydney-2000,athletics,9,France,FRA,9,7,8,24
+sydney-2000,athletics,10,Iran,IRI,9,1,5,15
+sydney-2000,athletics,11,Russia,RUS,8,5,5,18
+sydney-2000,athletics,12,Germany,GER,7,12,20,39
+sydney-2000,athletics,13,Switzerland,SUI,7,4,4,15
+sydney-2000,athletics,14,Tunisia,TUN,6,4,1,11
+sydney-2000,athletics,15,Czechia,CZE,5,9,1,15
+sydney-2000,athletics,16,Italy,ITA,5,4,4,13
+sydney-2000,athletics,17,Portugal,POR,5,3,3,11
+sydney-2000,athletics,18,Mexico,MEX,4,8,7,19
+sydney-2000,athletics,19,New Zealand,NZL,4,4,2,10
+sydney-2000,athletics,20,Brazil,BRA,4,4,1,9
+sydney-2000,athletics,21,Thailand,THA,4,2,0,6
+sydney-2000,athletics,22,Egypt,EGY,3,6,7,16
+sydney-2000,athletics,23,Denmark,DEN,3,2,1,6
+sydney-2000,athletics,24,"Hong Kong, China",HKG,3,1,5,9
+sydney-2000,athletics,25,Algeria,ALG,3,0,0,3
+sydney-2000,athletics,26,Japan,JPN,2,10,5,17
+sydney-2000,athletics,27,Belarus,BLR,2,6,9,17
+sydney-2000,athletics,28,Greece,GRE,2,4,2,8
+sydney-2000,athletics,29,Cuba,CUB,2,2,2,6
+sydney-2000,athletics,30,South Korea,KOR,2,1,0,3
+sydney-2000,athletics,31,Ukraine,UKR,1,14,10,25
+sydney-2000,athletics,32,Austria,AUT,1,3,5,9
+sydney-2000,athletics,33,Belgium,BEL,1,2,3,6
+sydney-2000,athletics,34,Kenya,KEN,1,1,2,4
+sydney-2000,athletics,35,Finland,FIN,1,1,1,3
+sydney-2000,athletics,35,Ireland,IRL,1,1,1,3
+sydney-2000,athletics,36,Estonia,EST,1,0,2,3
+sydney-2000,athletics,37,Côte d'Ivoire,CIV,1,0,1,2
+sydney-2000,athletics,38,Bulgaria,BUL,1,0,0,1
+sydney-2000,athletics,38,Chinese Taipei,TPE,1,0,0,1
+sydney-2000,athletics,38,Nigeria,NGR,1,0,0,1
+sydney-2000,athletics,38,Zimbabwe,ZIM,1,0,0,1
+sydney-2000,athletics,39,Sweden,SWE,0,5,3,8
+sydney-2000,athletics,40,United Arab Emirates,UAE,0,3,1,4
+sydney-2000,athletics,41,Argentina,ARG,0,2,2,4
+sydney-2000,athletics,42,Netherlands,NED,0,2,0,2
+sydney-2000,athletics,43,Kuwait,KUW,0,1,4,5
+sydney-2000,athletics,44,Slovenia,SLO,0,1,2,3
+sydney-2000,athletics,45,Bahrain,BRN,0,1,1,2
+sydney-2000,athletics,45,Lithuania,LTU,0,1,1,2
+sydney-2000,athletics,45,Panama,PAN,0,1,1,2
+sydney-2000,athletics,45,Slovakia,SVK,0,1,1,2
+sydney-2000,athletics,46,Norway,NOR,0,1,0,1
+sydney-2000,athletics,47,Latvia,LAT,0,0,3,3
+sydney-2000,athletics,48,Hungary,HUN,0,0,2,2
+sydney-2000,athletics,49,Israel,ISR,0,0,1,1
+sydney-2000,athletics,49,Palestine,PLE,0,0,1,1
+sydney-2000,athletics,49,Puerto Rico,PUR,0,0,1,1
+sydney-2000,athletics,49,Venezuela,VEN,0,0,1,1
+sydney-2000,basketball-id,1,Russia,RUS,0,1,0,1
+sydney-2000,basketball-id,2,Poland,POL,0,0,1,1
+sydney-2000,boccia,1,Ireland,IRL,2,0,0,2
+sydney-2000,boccia,2,Portugal,POR,1,1,1,3
+sydney-2000,boccia,3,South Korea,KOR,1,1,0,2
+sydney-2000,boccia,4,Great Britain,GBR,1,0,0,1
+sydney-2000,boccia,5,Spain,ESP,0,3,2,5
+sydney-2000,boccia,6,Canada,CAN,0,0,2,2
+sydney-2000,equestrian,1,Great Britain,GBR,5,0,2,7
+sydney-2000,equestrian,2,Australia,AUS,2,0,2,4
+sydney-2000,equestrian,3,Netherlands,NED,1,2,1,4
+sydney-2000,equestrian,4,New Zealand,NZL,1,1,0,2
+sydney-2000,equestrian,5,Norway,NOR,0,3,4,7
+sydney-2000,equestrian,6,Denmark,DEN,0,2,0,2
+sydney-2000,equestrian,7,Belgium,BEL,0,1,0,1
+sydney-2000,equestrian,8,Finland,FIN,0,0,1,1
+sydney-2000,football-7-side,1,Russia,RUS,1,0,0,1
+sydney-2000,football-7-side,2,Ukraine,UKR,0,1,0,1
+sydney-2000,football-7-side,3,Brazil,BRA,0,0,1,1
+sydney-2000,goalball,1,Canada,CAN,1,0,0,1
+sydney-2000,goalball,1,Denmark,DEN,1,0,0,1
+sydney-2000,goalball,2,Lithuania,LTU,0,1,0,1
+sydney-2000,goalball,2,Spain,ESP,0,1,0,1
+sydney-2000,goalball,3,Sweden,SWE,0,0,2,2
+sydney-2000,judo,1,United States,USA,2,1,1,4
+sydney-2000,judo,2,Cuba,CUB,2,0,0,2
+sydney-2000,judo,3,Japan,JPN,1,0,2,3
+sydney-2000,judo,4,Austria,AUT,1,0,0,1
+sydney-2000,judo,4,Brazil,BRA,1,0,0,1
+sydney-2000,judo,5,Russia,RUS,0,2,1,3
+sydney-2000,judo,5,Spain,ESP,0,2,1,3
+sydney-2000,judo,6,France,FRA,0,1,2,3
+sydney-2000,judo,7,China,CHN,0,1,1,2
+sydney-2000,judo,8,Canada,CAN,0,0,1,1
+sydney-2000,judo,8,Chinese Taipei,TPE,0,0,1,1
+sydney-2000,judo,8,Germany,GER,0,0,1,1
+sydney-2000,judo,8,Great Britain,GBR,0,0,1,1
+sydney-2000,judo,8,Hungary,HUN,0,0,1,1
+sydney-2000,judo,8,South Korea,KOR,0,0,1,1
+sydney-2000,powerlifting,1,China,CHN,5,2,3,10
+sydney-2000,powerlifting,2,Nigeria,NGR,4,1,4,9
+sydney-2000,powerlifting,3,Egypt,EGY,3,6,3,12
+sydney-2000,powerlifting,4,South Korea,KOR,2,1,0,3
+sydney-2000,powerlifting,5,Great Britain,GBR,2,0,1,3
+sydney-2000,powerlifting,6,Iran,IRI,1,3,1,5
+sydney-2000,powerlifting,7,United States,USA,1,1,0,2
+sydney-2000,powerlifting,8,Germany,GER,1,0,0,1
+sydney-2000,powerlifting,8,Russia,RUS,1,0,0,1
+sydney-2000,powerlifting,9,Mexico,MEX,0,2,1,3
+sydney-2000,powerlifting,10,Thailand,THA,0,1,1,2
+sydney-2000,powerlifting,10,Ukraine,UKR,0,1,1,2
+sydney-2000,powerlifting,11,Australia,AUS,0,1,0,1
+sydney-2000,powerlifting,11,France,FRA,0,1,0,1
+sydney-2000,powerlifting,12,Chinese Taipei,TPE,0,0,1,1
+sydney-2000,powerlifting,12,Libya,LBA,0,0,1,1
+sydney-2000,powerlifting,12,Netherlands,NED,0,0,1,1
+sydney-2000,powerlifting,12,Philippines,PHI,0,0,1,1
+sydney-2000,powerlifting,12,South Africa,RSA,0,0,1,1
+sydney-2000,shooting,1,South Korea,KOR,5,0,1,6
+sydney-2000,shooting,2,Sweden,SWE,4,0,2,6
+sydney-2000,shooting,3,China,CHN,1,2,0,3
+sydney-2000,shooting,4,Great Britain,GBR,1,0,1,2
+sydney-2000,shooting,4,Iran,IRI,1,0,1,2
+sydney-2000,shooting,5,Germany,GER,0,5,1,6
+sydney-2000,shooting,6,Australia,AUS,0,1,0,1
+sydney-2000,shooting,6,Azerbaijan,AZE,0,1,0,1
+sydney-2000,shooting,6,Finland,FIN,0,1,0,1
+sydney-2000,shooting,6,Israel,ISR,0,1,0,1
+sydney-2000,shooting,6,Slovenia,SLO,0,1,0,1
+sydney-2000,shooting,7,France,FRA,0,0,3,3
+sydney-2000,shooting,8,Austria,AUT,0,0,1,1
+sydney-2000,shooting,8,Russia,RUS,0,0,1,1
+sydney-2000,shooting,8,Spain,ESP,0,0,1,1
+sydney-2000,swimming,1,Canada,CAN,23,15,10,48
+sydney-2000,swimming,2,Spain,ESP,22,9,16,47
+sydney-2000,swimming,3,Great Britain,GBR,15,24,23,62
+sydney-2000,swimming,4,United States,USA,15,17,7,39
+sydney-2000,swimming,5,Australia,AUS,14,15,21,50
+sydney-2000,swimming,6,China,CHN,13,5,5,23
+sydney-2000,swimming,7,France,FRA,9,7,3,19
+sydney-2000,swimming,8,Japan,JPN,9,5,1,15
+sydney-2000,swimming,9,Netherlands,NED,7,2,5,14
+sydney-2000,swimming,10,Mexico,MEX,6,2,4,12
+sydney-2000,swimming,11,Hungary,HUN,4,4,8,16
+sydney-2000,swimming,12,Denmark,DEN,4,3,13,20
+sydney-2000,swimming,13,Czechia,CZE,3,2,7,12
+sydney-2000,swimming,14,Israel,ISR,3,0,0,3
+sydney-2000,swimming,15,Germany,GER,2,10,9,21
+sydney-2000,swimming,16,South Africa,RSA,2,5,4,11
+sydney-2000,swimming,17,Russia,RUS,2,3,5,10
+sydney-2000,swimming,18,Ukraine,UKR,2,3,2,7
+sydney-2000,swimming,19,Ireland,IRL,2,2,0,4
+sydney-2000,swimming,20,Norway,NOR,2,1,1,4
+sydney-2000,swimming,21,Iceland,ISL,2,0,2,4
+sydney-2000,swimming,22,Greece,GRE,2,0,1,3
+sydney-2000,swimming,23,Poland,POL,1,10,7,18
+sydney-2000,swimming,24,Brazil,BRA,1,6,4,11
+sydney-2000,swimming,25,Belarus,BLR,1,2,1,4
+sydney-2000,swimming,25,New Zealand,NZL,1,2,1,4
+sydney-2000,swimming,25,Slovakia,SVK,1,2,1,4
+sydney-2000,swimming,26,Thailand,THA,1,1,1,3
+sydney-2000,swimming,27,Peru,PER,1,1,0,2
+sydney-2000,swimming,28,Faroe Islands,FRO,0,3,1,4
+sydney-2000,swimming,29,Italy,ITA,0,2,0,2
+sydney-2000,swimming,30,Belgium,BEL,0,1,1,2
+sydney-2000,swimming,30,Estonia,EST,0,1,1,2
+sydney-2000,swimming,31,Austria,AUT,0,1,0,1
+sydney-2000,swimming,31,Portugal,POR,0,1,0,1
+sydney-2000,swimming,31,Sweden,SWE,0,1,0,1
+sydney-2000,swimming,32,Finland,FIN,0,0,2,2
+sydney-2000,swimming,33,Argentina,ARG,0,0,1,1
+sydney-2000,swimming,33,Switzerland,SUI,0,0,1,1
+sydney-2000,table-tennis,1,France,FRA,7,6,5,18
+sydney-2000,table-tennis,2,South Korea,KOR,5,3,2,10
+sydney-2000,table-tennis,3,China,CHN,4,2,1,7
+sydney-2000,table-tennis,4,Germany,GER,3,4,2,9
+sydney-2000,table-tennis,5,Czechia,CZE,3,3,3,9
+sydney-2000,table-tennis,6,Nigeria,NGR,2,0,1,3
+sydney-2000,table-tennis,7,Slovakia,SVK,1,2,0,3
+sydney-2000,table-tennis,8,Spain,ESP,1,1,3,5
+sydney-2000,table-tennis,9,Poland,POL,1,1,0,2
+sydney-2000,table-tennis,10,Sweden,SWE,1,0,3,4
+sydney-2000,table-tennis,11,"Hong Kong, China",HKG,1,0,0,1
+sydney-2000,table-tennis,11,Jordan,JOR,1,0,0,1
+sydney-2000,table-tennis,12,Chinese Taipei,TPE,0,2,2,4
+sydney-2000,table-tennis,13,Finland,FIN,0,1,1,2
+sydney-2000,table-tennis,13,Great Britain,GBR,0,1,1,2
+sydney-2000,table-tennis,13,Japan,JPN,0,1,1,2
+sydney-2000,table-tennis,14,Austria,AUT,0,1,0,1
+sydney-2000,table-tennis,14,Israel,ISR,0,1,0,1
+sydney-2000,table-tennis,14,Yugoslavia,YUG,0,1,0,1
+sydney-2000,table-tennis,15,Switzerland,SUI,0,0,2,2
+sydney-2000,table-tennis,16,Netherlands,NED,0,0,1,1
+sydney-2000,table-tennis,16,Ukraine,UKR,0,0,1,1
+sydney-2000,table-tennis,16,United States,USA,0,0,1,1
+sydney-2000,wheelchair-basketball,1,Canada,CAN,2,0,0,2
+sydney-2000,wheelchair-basketball,2,Australia,AUS,0,1,0,1
+sydney-2000,wheelchair-basketball,2,Netherlands,NED,0,1,0,1
+sydney-2000,wheelchair-basketball,3,Japan,JPN,0,0,1,1
+sydney-2000,wheelchair-basketball,3,United States,USA,0,0,1,1
+sydney-2000,wheelchair-fencing,1,Poland,POL,7,4,0,11
+sydney-2000,wheelchair-fencing,2,France,FRA,4,2,4,10
+sydney-2000,wheelchair-fencing,3,"Hong Kong, China",HKG,4,2,2,8
+sydney-2000,wheelchair-fencing,4,Germany,GER,0,5,3,8
+sydney-2000,wheelchair-fencing,5,Hungary,HUN,0,1,3,4
+sydney-2000,wheelchair-fencing,6,Italy,ITA,0,1,2,3
+sydney-2000,wheelchair-fencing,7,Spain,ESP,0,0,1,1
+athens-2004,archery,1,Great Britain,GBR,2,0,0,2
+athens-2004,archery,2,South Korea,KOR,1,1,3,5
+athens-2004,archery,3,Italy,ITA,1,1,0,2
+athens-2004,archery,4,China,CHN,1,0,0,1
+athens-2004,archery,4,Germany,GER,1,0,0,1
+athens-2004,archery,4,Slovakia,SVK,1,0,0,1
+athens-2004,archery,5,Japan,JPN,0,2,1,3
+athens-2004,archery,6,Poland,POL,0,1,1,2
+athens-2004,archery,7,Sweden,SWE,0,1,0,1
+athens-2004,archery,7,Thailand,THA,0,1,0,1
+athens-2004,archery,8,United States,USA,0,0,2,2
+athens-2004,athletics,1,China,CHN,25,20,13,58
+athens-2004,athletics,2,Australia,AUS,10,12,10,32
+athens-2004,athletics,3,Canada,CAN,10,4,10,24
+athens-2004,athletics,4,South Africa,RSA,9,7,5,21
+athens-2004,athletics,5,Ukraine,UKR,9,4,8,21
+athens-2004,athletics,6,Tunisia,TUN,8,7,3,18
+athens-2004,athletics,7,Czechia,CZE,8,5,4,17
+athens-2004,athletics,8,United States,USA,7,8,11,26
+athens-2004,athletics,9,Mexico,MEX,7,6,4,17
+athens-2004,athletics,10,Japan,JPN,7,4,7,18
+athens-2004,athletics,11,Russia,RUS,7,3,6,16
+athens-2004,athletics,12,Great Britain,GBR,6,5,6,17
+athens-2004,athletics,13,Poland,POL,5,8,7,20
+athens-2004,athletics,14,France,FRA,5,6,7,18
+athens-2004,athletics,15,Brazil,BRA,5,6,5,16
+athens-2004,athletics,16,Algeria,ALG,5,2,5,12
+athens-2004,athletics,17,Germany,GER,4,11,9,24
+athens-2004,athletics,18,Belarus,BLR,4,7,4,15
+athens-2004,athletics,19,Austria,AUT,4,5,2,11
+athens-2004,athletics,20,Iran,IRI,4,2,9,15
+athens-2004,athletics,21,Nigeria,NGR,4,1,0,5
+athens-2004,athletics,22,New Zealand,NZL,4,0,1,5
+athens-2004,athletics,23,Kenya,KEN,3,1,3,7
+athens-2004,athletics,24,Finland,FIN,3,1,2,6
+athens-2004,athletics,25,Angola,ANG,3,0,0,3
+athens-2004,athletics,26,Spain,ESP,2,6,3,11
+athens-2004,athletics,27,Switzerland,SUI,2,5,4,11
+athens-2004,athletics,28,Morocco,MAR,2,4,0,6
+athens-2004,athletics,29,Cuba,CUB,2,2,6,10
+athens-2004,athletics,30,Denmark,DEN,2,1,2,5
+athens-2004,athletics,30,Thailand,THA,2,1,2,5
+athens-2004,athletics,31,South Korea,KOR,2,1,0,3
+athens-2004,athletics,32,Netherlands,NED,1,5,1,7
+athens-2004,athletics,33,Italy,ITA,1,4,4,9
+athens-2004,athletics,34,Egypt,EGY,1,3,5,9
+athens-2004,athletics,35,Kuwait,KUW,1,2,3,6
+athens-2004,athletics,36,"Hong Kong, China",HKG,1,2,0,3
+athens-2004,athletics,37,Latvia,LAT,1,1,1,3
+athens-2004,athletics,38,Azerbaijan,AZE,1,1,0,2
+athens-2004,athletics,39,Lithuania,LTU,1,0,4,5
+athens-2004,athletics,40,Jamaica,JAM,1,0,1,2
+athens-2004,athletics,40,Slovakia,SVK,1,0,1,2
+athens-2004,athletics,41,Botswana,BOT,1,0,0,1
+athens-2004,athletics,41,Chinese Taipei,TPE,1,0,0,1
+athens-2004,athletics,41,India,IND,1,0,0,1
+athens-2004,athletics,41,Zimbabwe,ZIM,1,0,0,1
+athens-2004,athletics,42,Greece,GRE,0,5,2,7
+athens-2004,athletics,43,Ireland,IRL,0,2,1,3
+athens-2004,athletics,43,Portugal,POR,0,2,1,3
+athens-2004,athletics,43,Sweden,SWE,0,2,1,3
+athens-2004,athletics,44,Iceland,ISL,0,2,0,2
+athens-2004,athletics,45,United Arab Emirates,UAE,0,1,2,3
+athens-2004,athletics,45,Venezuela,VEN,0,1,2,3
+athens-2004,athletics,46,Belgium,BEL,0,1,1,2
+athens-2004,athletics,46,Palestine,PLE,0,1,1,2
+athens-2004,athletics,46,Slovenia,SLO,0,1,1,2
+athens-2004,athletics,47,Bahrain,BRN,0,1,0,1
+athens-2004,athletics,47,Jordan,JOR,0,1,0,1
+athens-2004,athletics,47,Panama,PAN,0,1,0,1
+athens-2004,athletics,48,Croatia,CRO,0,0,1,1
+athens-2004,athletics,48,Puerto Rico,PUR,0,0,1,1
+athens-2004,athletics,48,Rwanda,RWA,0,0,1,1
+athens-2004,athletics,48,Serbia and Montenegro,SCG,0,0,1,1
+athens-2004,boccia,1,Portugal,POR,2,3,1,6
+athens-2004,boccia,2,"Hong Kong, China",HKG,2,0,0,2
+athens-2004,boccia,3,Spain,ESP,1,2,2,5
+athens-2004,boccia,4,Canada,CAN,1,0,1,2
+athens-2004,boccia,4,South Korea,KOR,1,0,1,2
+athens-2004,boccia,5,New Zealand,NZL,0,1,0,1
+athens-2004,boccia,5,Norway,NOR,0,1,0,1
+athens-2004,boccia,6,Hungary,HUN,0,0,1,1
+athens-2004,boccia,6,Thailand,THA,0,0,1,1
+athens-2004,equestrian,1,Great Britain,GBR,5,0,3,8
+athens-2004,equestrian,2,Norway,NOR,2,0,0,2
+athens-2004,equestrian,2,Sweden,SWE,2,0,0,2
+athens-2004,equestrian,3,Germany,GER,0,4,1,5
+athens-2004,equestrian,4,South Africa,RSA,0,2,0,2
+athens-2004,equestrian,5,Netherlands,NED,0,1,2,3
+athens-2004,equestrian,6,Australia,AUS,0,1,1,2
+athens-2004,equestrian,7,United States,USA,0,1,0,1
+athens-2004,equestrian,8,Canada,CAN,0,0,2,2
+athens-2004,equestrian,9,Belgium,BEL,0,0,1,1
+athens-2004,football-5-side,1,Brazil,BRA,1,0,0,1
+athens-2004,football-5-side,2,Argentina,ARG,0,1,0,1
+athens-2004,football-5-side,3,Spain,ESP,0,0,1,1
+athens-2004,football-7-side,1,Ukraine,UKR,1,0,0,1
+athens-2004,football-7-side,2,Brazil,BRA,0,1,0,1
+athens-2004,football-7-side,3,Russia,RUS,0,0,1,1
+athens-2004,goalball,1,Canada,CAN,1,0,0,1
+athens-2004,goalball,1,Denmark,DEN,1,0,0,1
+athens-2004,goalball,2,United States,USA,0,1,1,2
+athens-2004,goalball,3,Sweden,SWE,0,1,0,1
+athens-2004,goalball,4,Japan,JPN,0,0,1,1
+athens-2004,judo,1,Germany,GER,2,1,3,6
+athens-2004,judo,2,China,CHN,2,1,2,5
+athens-2004,judo,2,France,FRA,2,1,2,5
+athens-2004,judo,3,Spain,ESP,1,3,2,6
+athens-2004,judo,4,Brazil,BRA,1,2,1,4
+athens-2004,judo,4,Japan,JPN,1,2,1,4
+athens-2004,judo,5,Russia,RUS,1,1,4,6
+athens-2004,judo,6,Algeria,ALG,1,0,0,1
+athens-2004,judo,6,Azerbaijan,AZE,1,0,0,1
+athens-2004,judo,7,United States,USA,0,1,2,3
+athens-2004,judo,8,Great Britain,GBR,0,1,0,1
+athens-2004,judo,9,Hungary,HUN,0,0,3,3
+athens-2004,judo,10,Cuba,CUB,0,0,1,1
+athens-2004,judo,10,Finland,FIN,0,0,1,1
+athens-2004,judo,10,Iran,IRI,0,0,1,1
+athens-2004,judo,10,Lithuania,LTU,0,0,1,1
+athens-2004,judo,10,Ukraine,UKR,0,0,1,1
+athens-2004,powerlifting,1,Egypt,EGY,5,6,2,13
+athens-2004,powerlifting,2,China,CHN,5,4,6,15
+athens-2004,powerlifting,3,Iran,IRI,2,0,3,5
+athens-2004,powerlifting,4,Nigeria,NGR,1,3,3,7
+athens-2004,powerlifting,5,South Korea,KOR,1,1,0,2
+athens-2004,powerlifting,6,Iraq,IRQ,1,0,1,2
+athens-2004,powerlifting,6,Ukraine,UKR,1,0,1,2
+athens-2004,powerlifting,7,Chinese Taipei,TPE,1,0,0,1
+athens-2004,powerlifting,7,Great Britain,GBR,1,0,0,1
+athens-2004,powerlifting,7,Russia,RUS,1,0,0,1
+athens-2004,powerlifting,7,United Arab Emirates,UAE,1,0,0,1
+athens-2004,powerlifting,8,France,FRA,0,2,0,2
+athens-2004,powerlifting,9,Mexico,MEX,0,1,2,3
+athens-2004,powerlifting,10,Australia,AUS,0,1,0,1
+athens-2004,powerlifting,10,Poland,POL,0,1,0,1
+athens-2004,powerlifting,10,Thailand,THA,0,1,0,1
+athens-2004,powerlifting,11,Hungary,HUN,0,0,1,1
+athens-2004,powerlifting,11,India,IND,0,0,1,1
+athens-2004,shooting,1,Sweden,SWE,4,1,1,6
+athens-2004,shooting,2,South Korea,KOR,1,4,0,5
+athens-2004,shooting,3,Germany,GER,1,1,2,4
+athens-2004,shooting,4,Russia,RUS,1,0,1,2
+athens-2004,shooting,4,Turkiye,TUR,1,0,1,2
+athens-2004,shooting,5,China,CHN,1,0,0,1
+athens-2004,shooting,5,Finland,FIN,1,0,0,1
+athens-2004,shooting,5,Great Britain,GBR,1,0,0,1
+athens-2004,shooting,5,New Zealand,NZL,1,0,0,1
+athens-2004,shooting,6,Australia,AUS,0,1,1,2
+athens-2004,shooting,6,Austria,AUT,0,1,1,2
+athens-2004,shooting,7,Chinese Taipei,TPE,0,1,0,1
+athens-2004,shooting,7,North Macedonia,MKD,0,1,0,1
+athens-2004,shooting,7,Slovenia,SLO,0,1,0,1
+athens-2004,shooting,7,United States,USA,0,1,0,1
+athens-2004,shooting,8,Denmark,DEN,0,0,2,2
+athens-2004,shooting,8,Israel,ISR,0,0,2,2
+athens-2004,shooting,9,Azerbaijan,AZE,0,0,1,1
+athens-2004,swimming,1,China,CHN,19,16,6,41
+athens-2004,swimming,2,Great Britain,GBR,16,20,16,52
+athens-2004,swimming,3,United States,USA,16,4,15,35
+athens-2004,swimming,4,Canada,CAN,15,14,11,40
+athens-2004,swimming,5,Spain,ESP,13,12,15,40
+athens-2004,swimming,6,Ukraine,UKR,12,8,8,28
+athens-2004,swimming,7,Japan,JPN,8,6,9,23
+athens-2004,swimming,8,Mexico,MEX,7,3,4,14
+athens-2004,swimming,9,Brazil,BRA,7,3,1,11
+athens-2004,swimming,10,Australia,AUS,6,14,15,35
+athens-2004,swimming,11,Russia,RUS,6,4,4,14
+athens-2004,swimming,12,South Africa,RSA,6,4,1,11
+athens-2004,swimming,13,Germany,GER,5,8,10,23
+athens-2004,swimming,14,Belarus,BLR,5,5,3,13
+athens-2004,swimming,15,Czechia,CZE,5,0,1,6
+athens-2004,swimming,16,France,FRA,4,7,10,21
+athens-2004,swimming,17,Greece,GRE,3,8,2,13
+athens-2004,swimming,18,Poland,POL,3,7,6,16
+athens-2004,swimming,19,Israel,ISR,3,4,3,10
+athens-2004,swimming,20,Sweden,SWE,2,0,2,4
+athens-2004,swimming,21,Hungary,HUN,1,5,3,9
+athens-2004,swimming,22,Denmark,DEN,1,2,2,5
+athens-2004,swimming,23,Italy,ITA,1,1,1,3
+athens-2004,swimming,24,Iceland,ISL,1,1,0,2
+athens-2004,swimming,25,Norway,NOR,1,0,1,2
+athens-2004,swimming,26,Cyprus,CYP,1,0,0,1
+athens-2004,swimming,27,Netherlands,NED,0,2,5,7
+athens-2004,swimming,28,Thailand,THA,0,2,2,4
+athens-2004,swimming,29,Argentina,ARG,0,1,1,2
+athens-2004,swimming,30,Estonia,EST,0,1,0,1
+athens-2004,swimming,30,Ireland,IRL,0,1,0,1
+athens-2004,swimming,30,Lithuania,LTU,0,1,0,1
+athens-2004,swimming,30,Slovakia,SVK,0,1,0,1
+athens-2004,swimming,31,Croatia,CRO,0,0,3,3
+athens-2004,swimming,31,Portugal,POR,0,0,3,3
+athens-2004,swimming,32,Peru,PER,0,0,2,2
+athens-2004,swimming,33,Faroe Islands,FRO,0,0,1,1
+athens-2004,swimming,33,New Zealand,NZL,0,0,1,1
+athens-2004,table-tennis,1,China,CHN,7,3,3,13
+athens-2004,table-tennis,2,South Korea,KOR,5,4,2,11
+athens-2004,table-tennis,3,Germany,GER,4,2,3,9
+athens-2004,table-tennis,4,France,FRA,3,6,5,14
+athens-2004,table-tennis,5,Slovakia,SVK,2,1,3,6
+athens-2004,table-tennis,6,Belgium,BEL,2,1,0,3
+athens-2004,table-tennis,7,Czechia,CZE,1,2,0,3
+athens-2004,table-tennis,7,Poland,POL,1,2,0,3
+athens-2004,table-tennis,8,Austria,AUT,1,1,0,2
+athens-2004,table-tennis,9,Netherlands,NED,1,0,0,1
+athens-2004,table-tennis,9,Slovenia,SLO,1,0,0,1
+athens-2004,table-tennis,10,Sweden,SWE,0,2,2,4
+athens-2004,table-tennis,11,Chinese Taipei,TPE,0,1,2,3
+athens-2004,table-tennis,12,Great Britain,GBR,0,1,1,2
+athens-2004,table-tennis,13,Italy,ITA,0,1,0,1
+athens-2004,table-tennis,14,Denmark,DEN,0,0,1,1
+athens-2004,table-tennis,14,Jordan,JOR,0,0,1,1
+athens-2004,table-tennis,14,Russia,RUS,0,0,1,1
+athens-2004,table-tennis,14,Serbia and Montenegro,SCG,0,0,1,1
+athens-2004,table-tennis,14,Spain,ESP,0,0,1,1
+athens-2004,table-tennis,14,United States,USA,0,0,1,1
+athens-2004,wheelchair-basketball,1,Canada,CAN,1,0,1,2
+athens-2004,wheelchair-basketball,2,United States,USA,1,0,0,1
+athens-2004,wheelchair-basketball,3,Australia,AUS,0,2,0,2
+athens-2004,wheelchair-basketball,4,Great Britain,GBR,0,0,1,1
+athens-2004,wheelchair-fencing,1,"Hong Kong, China",HKG,8,5,1,14
+athens-2004,wheelchair-fencing,2,France,FRA,2,0,3,5
+athens-2004,wheelchair-fencing,3,Poland,POL,1,6,5,12
+athens-2004,wheelchair-fencing,4,China,CHN,1,1,1,3
+athens-2004,wheelchair-fencing,5,Thailand,THA,1,0,1,2
+athens-2004,wheelchair-fencing,5,Ukraine,UKR,1,0,1,2
+athens-2004,wheelchair-fencing,6,Italy,ITA,1,0,0,1
+athens-2004,wheelchair-fencing,7,Hungary,HUN,0,3,2,5
+athens-2004,wheelchair-fencing,8,United States,USA,0,0,1,1
+beijing-2008,archery,1,China,CHN,2,3,2,7
+beijing-2008,archery,2,Great Britain,GBR,2,1,1,4
+beijing-2008,archery,3,South Korea,KOR,2,1,0,3
+beijing-2008,archery,4,Czechia,CZE,1,0,1,2
+beijing-2008,archery,5,Mongolia,MGL,1,0,0,1
+beijing-2008,archery,5,Turkiye,TUR,1,0,0,1
+beijing-2008,archery,6,Italy,ITA,0,2,1,3
+beijing-2008,archery,7,France,FRA,0,1,0,1
+beijing-2008,archery,7,Japan,JPN,0,1,0,1
+beijing-2008,archery,8,United States,USA,0,0,2,2
+beijing-2008,archery,9,Chinese Taipei,TPE,0,0,1,1
+beijing-2008,archery,9,Switzerland,SUI,0,0,1,1
+beijing-2008,athletics,1,China,CHN,38,21,18,77
+beijing-2008,athletics,2,Australia,AUS,10,9,7,26
+beijing-2008,athletics,3,South Africa,RSA,10,2,4,16
+beijing-2008,athletics,4,Canada,CAN,10,1,8,19
+beijing-2008,athletics,5,United States,USA,9,14,5,28
+beijing-2008,athletics,6,Tunisia,TUN,9,9,3,21
+beijing-2008,athletics,7,Ukraine,UKR,9,7,8,24
+beijing-2008,athletics,8,Germany,GER,5,9,7,21
+beijing-2008,athletics,9,Kenya,KEN,5,3,1,9
+beijing-2008,athletics,10,Brazil,BRA,4,4,7,15
+beijing-2008,athletics,11,Cuba,CUB,4,3,4,11
+beijing-2008,athletics,12,Morocco,MAR,4,1,2,7
+beijing-2008,athletics,13,Russia,RUS,3,7,6,16
+beijing-2008,athletics,14,France,FRA,3,5,6,14
+beijing-2008,athletics,15,Mexico,MEX,3,1,3,7
+beijing-2008,athletics,16,Croatia,CRO,3,1,0,4
+beijing-2008,athletics,17,Ireland,IRL,3,0,0,3
+beijing-2008,athletics,18,Great Britain,GBR,2,7,8,17
+beijing-2008,athletics,19,Japan,JPN,2,7,3,12
+beijing-2008,athletics,20,Algeria,ALG,2,3,7,12
+beijing-2008,athletics,21,Iran,IRI,2,3,1,6
+beijing-2008,athletics,22,Finland,FIN,2,1,1,4
+beijing-2008,athletics,23,Nigeria,NGR,2,1,0,3
+beijing-2008,athletics,24,Austria,AUT,2,0,1,3
+beijing-2008,athletics,25,Thailand,THA,1,5,4,10
+beijing-2008,athletics,26,Poland,POL,1,4,6,11
+beijing-2008,athletics,27,Greece,GRE,1,2,7,10
+beijing-2008,athletics,28,Switzerland,SUI,1,2,5,8
+beijing-2008,athletics,29,Belarus,BLR,1,2,0,3
+beijing-2008,athletics,29,Latvia,LAT,1,2,0,3
+beijing-2008,athletics,29,Netherlands,NED,1,2,0,3
+beijing-2008,athletics,30,Spain,ESP,1,1,5,7
+beijing-2008,athletics,31,Azerbaijan,AZE,1,1,4,6
+beijing-2008,athletics,32,Denmark,DEN,1,1,0,2
+beijing-2008,athletics,32,Saudi Arabia,KSA,1,1,0,2
+beijing-2008,athletics,33,Czechia,CZE,1,0,8,9
+beijing-2008,athletics,34,South Korea,KOR,1,0,3,4
+beijing-2008,athletics,35,"Hong Kong, China",HKG,1,0,1,2
+beijing-2008,athletics,36,Angola,ANG,0,3,0,3
+beijing-2008,athletics,37,Cyprus,CYP,0,2,0,2
+beijing-2008,athletics,38,Argentina,ARG,0,1,1,2
+beijing-2008,athletics,38,Bulgaria,BUL,0,1,1,2
+beijing-2008,athletics,38,Egypt,EGY,0,1,1,2
+beijing-2008,athletics,38,Venezuela,VEN,0,1,1,2
+beijing-2008,athletics,39,Colombia,COL,0,1,0,1
+beijing-2008,athletics,39,Jordan,JOR,0,1,0,1
+beijing-2008,athletics,39,Lithuania,LTU,0,1,0,1
+beijing-2008,athletics,39,New Zealand,NZL,0,1,0,1
+beijing-2008,athletics,39,Pakistan,PAK,0,1,0,1
+beijing-2008,athletics,39,Papua New Guinea,PNG,0,1,0,1
+beijing-2008,athletics,39,Portugal,POR,0,1,0,1
+beijing-2008,athletics,39,Serbia,SRB,0,1,0,1
+beijing-2008,athletics,39,Slovenia,SLO,0,1,0,1
+beijing-2008,athletics,40,Italy,ITA,0,0,1,1
+beijing-2008,athletics,40,Jamaica,JAM,0,0,1,1
+beijing-2008,athletics,40,Namibia,NAM,0,0,1,1
+beijing-2008,boccia,1,Brazil,BRA,2,0,1,3
+beijing-2008,boccia,1,South Korea,KOR,2,0,1,3
+beijing-2008,boccia,2,Portugal,POR,1,3,1,5
+beijing-2008,boccia,3,Great Britain,GBR,1,1,0,2
+beijing-2008,boccia,3,"Hong Kong, China",HKG,1,1,0,2
+beijing-2008,boccia,4,Spain,ESP,0,1,2,3
+beijing-2008,boccia,5,Greece,GRE,0,1,0,1
+beijing-2008,boccia,6,Czechia,CZE,0,0,1,1
+beijing-2008,boccia,6,Ireland,IRL,0,0,1,1
+beijing-2008,equestrian,1,Great Britain,GBR,5,5,0,10
+beijing-2008,equestrian,2,Germany,GER,3,1,2,6
+beijing-2008,equestrian,3,South Africa,RSA,2,0,0,2
+beijing-2008,equestrian,4,Canada,CAN,1,1,0,2
+beijing-2008,equestrian,5,Norway,NOR,0,3,1,4
+beijing-2008,equestrian,6,Denmark,DEN,0,1,2,3
+beijing-2008,equestrian,7,Australia,AUS,0,0,2,2
+beijing-2008,equestrian,7,Brazil,BRA,0,0,2,2
+beijing-2008,equestrian,7,Singapore,SGP,0,0,2,2
+beijing-2008,football-5-side,1,Brazil,BRA,1,0,0,1
+beijing-2008,football-5-side,2,China,CHN,0,1,0,1
+beijing-2008,football-5-side,3,Argentina,ARG,0,0,1,1
+beijing-2008,football-7-side,1,Ukraine,UKR,1,0,0,1
+beijing-2008,football-7-side,2,Russia,RUS,0,1,0,1
+beijing-2008,football-7-side,3,Iran,IRI,0,0,1,1
+beijing-2008,goalball,1,China,CHN,1,1,0,2
+beijing-2008,goalball,2,United States,USA,1,0,0,1
+beijing-2008,goalball,3,Lithuania,LTU,0,1,0,1
+beijing-2008,goalball,4,Denmark,DEN,0,0,1,1
+beijing-2008,goalball,4,Sweden,SWE,0,0,1,1
+beijing-2008,judo,1,China,CHN,4,2,1,7
+beijing-2008,judo,2,Algeria,ALG,2,0,1,3
+beijing-2008,judo,3,Brazil,BRA,1,2,2,5
+beijing-2008,judo,4,Azerbaijan,AZE,1,2,1,4
+beijing-2008,judo,5,Spain,ESP,1,1,1,3
+beijing-2008,judo,6,Mexico,MEX,1,1,0,2
+beijing-2008,judo,7,Russia,RUS,1,0,5,6
+beijing-2008,judo,8,Cuba,CUB,1,0,2,3
+beijing-2008,judo,9,Venezuela,VEN,1,0,1,2
+beijing-2008,judo,10,France,FRA,0,2,3,5
+beijing-2008,judo,11,Germany,GER,0,1,1,2
+beijing-2008,judo,12,Iran,IRI,0,1,0,1
+beijing-2008,judo,12,Japan,JPN,0,1,0,1
+beijing-2008,judo,13,Argentina,ARG,0,0,2,2
+beijing-2008,judo,13,Ukraine,UKR,0,0,2,2
+beijing-2008,judo,14,Finland,FIN,0,0,1,1
+beijing-2008,judo,14,Great Britain,GBR,0,0,1,1
+beijing-2008,judo,14,Netherlands,NED,0,0,1,1
+beijing-2008,judo,14,United States,USA,0,0,1,1
+beijing-2008,powerlifting,1,China,CHN,9,2,3,14
+beijing-2008,powerlifting,2,Egypt,EGY,4,3,3,10
+beijing-2008,powerlifting,3,Nigeria,NGR,2,3,1,6
+beijing-2008,powerlifting,4,Iran,IRI,2,2,1,5
+beijing-2008,powerlifting,5,Mexico,MEX,1,0,2,3
+beijing-2008,powerlifting,6,Chinese Taipei,TPE,1,0,0,1
+beijing-2008,powerlifting,6,Ukraine,UKR,1,0,0,1
+beijing-2008,powerlifting,7,Russia,RUS,0,4,0,4
+beijing-2008,powerlifting,8,Iraq,IRQ,0,1,1,2
+beijing-2008,powerlifting,8,Jordan,JOR,0,1,1,2
+beijing-2008,powerlifting,8,Poland,POL,0,1,1,2
+beijing-2008,powerlifting,9,Australia,AUS,0,1,0,1
+beijing-2008,powerlifting,9,Greece,GRE,0,1,0,1
+beijing-2008,powerlifting,9,United Arab Emirates,UAE,0,1,0,1
+beijing-2008,powerlifting,10,Thailand,THA,0,0,2,2
+beijing-2008,powerlifting,11,France,FRA,0,0,1,1
+beijing-2008,powerlifting,11,South Korea,KOR,0,0,1,1
+beijing-2008,powerlifting,11,Lao People's Democratic Republic,LAO,0,0,1,1
+beijing-2008,powerlifting,11,Malaysia,MAS,0,0,1,1
+beijing-2008,powerlifting,11,Syrian Arab Republic,SYR,0,0,1,1
+beijing-2008,rowing,1,Great Britain,GBR,2,0,1,3
+beijing-2008,rowing,2,China,CHN,1,0,0,1
+beijing-2008,rowing,2,Italy,ITA,1,0,0,1
+beijing-2008,rowing,3,United States,USA,0,1,1,2
+beijing-2008,rowing,4,Australia,AUS,0,1,0,1
+beijing-2008,rowing,4,Belarus,BLR,0,1,0,1
+beijing-2008,rowing,4,Ukraine,UKR,0,1,0,1
+beijing-2008,rowing,5,Brazil,BRA,0,0,1,1
+beijing-2008,rowing,5,Israel,ISR,0,0,1,1
+beijing-2008,shooting,1,South Korea,KOR,4,3,2,9
+beijing-2008,shooting,2,Sweden,SWE,3,0,1,4
+beijing-2008,shooting,3,Russia,RUS,2,1,3,6
+beijing-2008,shooting,4,China,CHN,1,3,3,7
+beijing-2008,shooting,5,Great Britain,GBR,1,0,0,1
+beijing-2008,shooting,5,Slovakia,SVK,1,0,0,1
+beijing-2008,shooting,6,France,FRA,0,2,0,2
+beijing-2008,shooting,6,Germany,GER,0,2,0,2
+beijing-2008,shooting,7,Israel,ISR,0,1,0,1
+beijing-2008,shooting,8,New Zealand,NZL,0,0,1,1
+beijing-2008,shooting,8,Puerto Rico,PUR,0,0,1,1
+beijing-2008,shooting,8,Slovenia,SLO,0,0,1,1
+beijing-2008,swimming,1,United States,USA,17,14,13,44
+beijing-2008,swimming,2,China,CHN,13,22,17,52
+beijing-2008,swimming,3,Ukraine,UKR,13,10,20,43
+beijing-2008,swimming,4,Great Britain,GBR,11,12,18,41
+beijing-2008,swimming,5,Russia,RUS,11,9,7,27
+beijing-2008,swimming,6,Spain,ESP,10,12,9,31
+beijing-2008,swimming,7,Australia,AUS,9,11,9,29
+beijing-2008,swimming,8,Brazil,BRA,8,7,4,19
+beijing-2008,swimming,9,South Africa,RSA,8,0,1,9
+beijing-2008,swimming,10,Canada,CAN,7,7,9,23
+beijing-2008,swimming,11,Mexico,MEX,5,1,2,8
+beijing-2008,swimming,12,Greece,GRE,4,5,3,12
+beijing-2008,swimming,13,New Zealand,NZL,4,2,0,6
+beijing-2008,swimming,14,Belarus,BLR,3,2,1,6
+beijing-2008,swimming,15,Poland,POL,2,5,3,10
+beijing-2008,swimming,16,France,FRA,2,4,0,6
+beijing-2008,swimming,17,Netherlands,NED,2,2,2,6
+beijing-2008,swimming,18,Czechia,CZE,2,1,4,7
+beijing-2008,swimming,19,Sweden,SWE,2,0,1,3
+beijing-2008,swimming,20,Germany,GER,1,3,5,9
+beijing-2008,swimming,21,Japan,JPN,1,2,2,5
+beijing-2008,swimming,22,Italy,ITA,1,2,0,3
+beijing-2008,swimming,23,Singapore,SGP,1,1,0,2
+beijing-2008,swimming,24,Hungary,HUN,1,0,4,5
+beijing-2008,swimming,25,Cyprus,CYP,1,0,1,2
+beijing-2008,swimming,25,Denmark,DEN,1,0,1,2
+beijing-2008,swimming,25,Norway,NOR,1,0,1,2
+beijing-2008,swimming,26,Israel,ISR,0,3,0,3
+beijing-2008,swimming,27,South Korea,KOR,0,1,1,2
+beijing-2008,swimming,28,Ireland,IRL,0,1,0,1
+beijing-2008,swimming,29,Argentina,ARG,0,0,1,1
+beijing-2008,swimming,29,Colombia,COL,0,0,1,1
+beijing-2008,swimming,29,Estonia,EST,0,0,1,1
+beijing-2008,swimming,29,Portugal,POR,0,0,1,1
+beijing-2008,table-tennis,1,China,CHN,13,6,3,22
+beijing-2008,table-tennis,2,France,FRA,4,3,5,12
+beijing-2008,table-tennis,3,South Korea,KOR,1,2,4,7
+beijing-2008,table-tennis,4,Germany,GER,1,2,1,4
+beijing-2008,table-tennis,4,Slovakia,SVK,1,2,1,4
+beijing-2008,table-tennis,5,Poland,POL,1,2,0,3
+beijing-2008,table-tennis,6,Russia,RUS,1,1,0,2
+beijing-2008,table-tennis,7,Austria,AUT,1,0,0,1
+beijing-2008,table-tennis,7,Denmark,DEN,1,0,0,1
+beijing-2008,table-tennis,8,Italy,ITA,0,2,1,3
+beijing-2008,table-tennis,9,Spain,ESP,0,1,2,3
+beijing-2008,table-tennis,10,Sweden,SWE,0,1,1,2
+beijing-2008,table-tennis,11,Brazil,BRA,0,1,0,1
+beijing-2008,table-tennis,11,Serbia,SRB,0,1,0,1
+beijing-2008,table-tennis,12,Netherlands,NED,0,0,2,2
+beijing-2008,table-tennis,13,Jordan,JOR,0,0,1,1
+beijing-2008,table-tennis,13,Norway,NOR,0,0,1,1
+beijing-2008,table-tennis,13,Slovenia,SLO,0,0,1,1
+beijing-2008,table-tennis,13,Turkiye,TUR,0,0,1,1
+beijing-2008,wheelchair-basketball,1,Australia,AUS,1,0,1,2
+beijing-2008,wheelchair-basketball,2,United States,USA,1,0,0,1
+beijing-2008,wheelchair-basketball,3,Canada,CAN,0,1,0,1
+beijing-2008,wheelchair-basketball,3,Germany,GER,0,1,0,1
+beijing-2008,wheelchair-basketball,4,Great Britain,GBR,0,0,1,1
+beijing-2008,wheelchair-fencing,1,China,CHN,6,6,1,13
+beijing-2008,wheelchair-fencing,2,"Hong Kong, China",HKG,3,2,2,7
+beijing-2008,wheelchair-fencing,3,France,FRA,1,1,0,2
+beijing-2008,wheelchair-fencing,4,Belarus,BLR,0,1,0,1
+beijing-2008,wheelchair-fencing,5,Poland,POL,0,0,2,2
+beijing-2008,wheelchair-fencing,5,Ukraine,UKR,0,0,2,2
+beijing-2008,wheelchair-fencing,6,Hungary,HUN,0,0,1,1
+beijing-2008,wheelchair-fencing,6,Italy,ITA,0,0,1,1
+beijing-2008,wheelchair-fencing,6,Thailand,THA,0,0,1,1
+london-2012,archery,1,Russia,RUS,2,1,2,5
+london-2012,archery,2,South Korea,KOR,1,2,0,3
+london-2012,archery,3,China,CHN,1,1,2,4
+london-2012,archery,4,Great Britain,GBR,1,1,0,2
+london-2012,archery,4,Italy,ITA,1,1,0,2
+london-2012,archery,4,United States,USA,1,1,0,2
+london-2012,archery,5,Iran,IRI,1,0,1,2
+london-2012,archery,6,Finland,FIN,1,0,0,1
+london-2012,archery,7,Czechia,CZE,0,1,0,1
+london-2012,archery,7,Malaysia,MAS,0,1,0,1
+london-2012,archery,8,Canada,CAN,0,0,1,1
+london-2012,archery,8,Chinese Taipei,TPE,0,0,1,1
+london-2012,archery,8,Poland,POL,0,0,1,1
+london-2012,archery,8,Turkiye,TUR,0,0,1,1
+london-2012,athletics,1,China,CHN,33,29,24,86
+london-2012,athletics,2,Russia,RUS,19,12,5,36
+london-2012,athletics,3,Great Britain,GBR,11,7,11,29
+london-2012,athletics,4,United States,USA,9,6,13,28
+london-2012,athletics,5,Tunisia,TUN,9,5,5,19
+london-2012,athletics,6,Ukraine,UKR,8,7,7,22
+london-2012,athletics,7,Brazil,BRA,7,8,3,18
+london-2012,athletics,8,Cuba,CUB,7,4,0,11
+london-2012,athletics,9,Poland,POL,6,7,5,18
+london-2012,athletics,10,Australia,AUS,5,9,13,27
+london-2012,athletics,11,Iran,IRI,5,5,3,13
+london-2012,athletics,12,Germany,GER,5,3,10,18
+london-2012,athletics,13,South Africa,RSA,4,7,6,17
+london-2012,athletics,14,Algeria,ALG,4,6,6,16
+london-2012,athletics,15,France,FRA,4,4,5,13
+london-2012,athletics,16,Ireland,IRL,4,1,1,6
+london-2012,athletics,17,Spain,ESP,3,2,0,5
+london-2012,athletics,18,Morocco,MAR,3,0,3,6
+london-2012,athletics,19,Italy,ITA,2,3,1,6
+london-2012,athletics,20,Mexico,MEX,2,2,5,9
+london-2012,athletics,21,Kenya,KEN,2,2,2,6
+london-2012,athletics,22,Serbia,SRB,2,1,0,3
+london-2012,athletics,23,Austria,AUT,2,0,3,5
+london-2012,athletics,24,Finland,FIN,2,0,1,3
+london-2012,athletics,25,Canada,CAN,1,5,3,9
+london-2012,athletics,26,Netherlands,NED,1,4,2,7
+london-2012,athletics,26,Switzerland,SUI,1,4,2,7
+london-2012,athletics,27,Azerbaijan,AZE,1,1,2,4
+london-2012,athletics,28,Belgium,BEL,1,1,1,3
+london-2012,athletics,29,Latvia,LAT,1,1,0,2
+london-2012,athletics,29,Namibia,NAM,1,1,0,2
+london-2012,athletics,30,Angola,ANG,1,0,1,2
+london-2012,athletics,30,Denmark,DEN,1,0,1,2
+london-2012,athletics,31,Chile,CHI,1,0,0,1
+london-2012,athletics,31,Fiji,FIJ,1,0,0,1
+london-2012,athletics,31,Jamaica,JAM,1,0,0,1
+london-2012,athletics,32,Japan,JPN,0,3,1,4
+london-2012,athletics,33,Croatia,CRO,0,2,2,4
+london-2012,athletics,33,Thailand,THA,0,2,2,4
+london-2012,athletics,34,Bulgaria,BUL,0,2,1,3
+london-2012,athletics,34,Czechia,CZE,0,2,1,3
+london-2012,athletics,34,South Korea,KOR,0,2,1,3
+london-2012,athletics,35,Greece,GRE,0,1,4,5
+london-2012,athletics,36,Egypt,EGY,0,1,2,3
+london-2012,athletics,37,Iraq,IRQ,0,1,1,2
+london-2012,athletics,37,United Arab Emirates,UAE,0,1,1,2
+london-2012,athletics,38,Colombia,COL,0,1,0,1
+london-2012,athletics,38,Ethiopia,ETH,0,1,0,1
+london-2012,athletics,38,"Hong Kong, China",HKG,0,1,0,1
+london-2012,athletics,38,India,IND,0,1,0,1
+london-2012,athletics,38,Saudi Arabia,KSA,0,1,0,1
+london-2012,athletics,38,Sweden,SWE,0,1,0,1
+london-2012,athletics,39,Belarus,BLR,0,0,2,2
+london-2012,athletics,40,Argentina,ARG,0,0,1,1
+london-2012,athletics,40,Hungary,HUN,0,0,1,1
+london-2012,athletics,40,Malaysia,MAS,0,0,1,1
+london-2012,athletics,40,Nigeria,NGR,0,0,1,1
+london-2012,athletics,40,Norway,NOR,0,0,1,1
+london-2012,athletics,40,Portugal,POR,0,0,1,1
+london-2012,athletics,40,Sri Lanka,SRI,0,0,1,1
+london-2012,athletics,40,Venezuela,VEN,0,0,1,1
+london-2012,boccia,1,Brazil,BRA,3,0,1,4
+london-2012,boccia,2,Thailand,THA,2,0,0,2
+london-2012,boccia,3,South Korea,KOR,1,1,1,3
+london-2012,boccia,4,Greece,GRE,1,0,0,1
+london-2012,boccia,5,China,CHN,0,3,0,3
+london-2012,boccia,6,Great Britain,GBR,0,1,1,2
+london-2012,boccia,6,Portugal,POR,0,1,1,2
+london-2012,boccia,7,Czechia,CZE,0,1,0,1
+london-2012,boccia,8,Belgium,BEL,0,0,1,1
+london-2012,boccia,8,Canada,CAN,0,0,1,1
+london-2012,boccia,8,Norway,NOR,0,0,1,1
+london-2012,equestrian,1,Great Britain,GBR,5,5,1,11
+london-2012,equestrian,2,Germany,GER,2,3,2,7
+london-2012,equestrian,3,Belgium,BEL,2,0,0,2
+london-2012,equestrian,4,Austria,AUT,1,0,1,2
+london-2012,equestrian,5,Australia,AUS,1,0,0,1
+london-2012,equestrian,6,Ireland,IRL,0,1,2,3
+london-2012,equestrian,7,Singapore,SGP,0,1,1,2
+london-2012,equestrian,8,Finland,FIN,0,1,0,1
+london-2012,equestrian,9,Denmark,DEN,0,0,2,2
+london-2012,equestrian,9,Netherlands,NED,0,0,2,2
+london-2012,football-5-side,1,Brazil,BRA,1,0,0,1
+london-2012,football-5-side,2,France,FRA,0,1,0,1
+london-2012,football-5-side,3,Spain,ESP,0,0,1,1
+london-2012,football-7-side,1,Russia,RUS,1,0,0,1
+london-2012,football-7-side,2,Ukraine,UKR,0,1,0,1
+london-2012,football-7-side,3,Iran,IRI,0,0,1,1
+london-2012,goalball,1,Finland,FIN,1,0,0,1
+london-2012,goalball,1,Japan,JPN,1,0,0,1
+london-2012,goalball,2,Brazil,BRA,0,1,0,1
+london-2012,goalball,2,China,CHN,0,1,0,1
+london-2012,goalball,3,Sweden,SWE,0,0,1,1
+london-2012,goalball,3,Turkiye,TUR,0,0,1,1
+london-2012,judo,1,Ukraine,UKR,3,0,2,5
+london-2012,judo,2,Cuba,CUB,2,0,2,4
+london-2012,judo,3,Azerbaijan,AZE,2,0,1,3
+london-2012,judo,3,Germany,GER,2,0,1,3
+london-2012,judo,4,China,CHN,1,5,1,7
+london-2012,judo,5,Spain,ESP,1,0,2,3
+london-2012,judo,6,Japan,JPN,1,0,0,1
+london-2012,judo,6,South Korea,KOR,1,0,0,1
+london-2012,judo,7,Russia,RUS,0,1,4,5
+london-2012,judo,8,Brazil,BRA,0,1,3,4
+london-2012,judo,9,Argentina,ARG,0,1,1,2
+london-2012,judo,9,Great Britain,GBR,0,1,1,2
+london-2012,judo,9,Turkiye,TUR,0,1,1,2
+london-2012,judo,9,United States,USA,0,1,1,2
+london-2012,judo,10,Chinese Taipei,TPE,0,1,0,1
+london-2012,judo,10,Uzbekistan,UZB,0,1,0,1
+london-2012,judo,11,Algeria,ALG,0,0,3,3
+london-2012,judo,12,Hungary,HUN,0,0,1,1
+london-2012,judo,12,Mexico,MEX,0,0,1,1
+london-2012,judo,12,Venezuela,VEN,0,0,1,1
+london-2012,powerlifting,1,Nigeria,NGR,6,5,1,12
+london-2012,powerlifting,2,Egypt,EGY,4,3,4,11
+london-2012,powerlifting,3,Iran,IRI,4,1,1,6
+london-2012,powerlifting,4,China,CHN,3,6,6,15
+london-2012,powerlifting,5,Turkiye,TUR,1,1,1,3
+london-2012,powerlifting,6,Mexico,MEX,1,0,1,2
+london-2012,powerlifting,7,France,FRA,1,0,0,1
+london-2012,powerlifting,8,Russia,RUS,0,3,1,4
+london-2012,powerlifting,9,Iraq,IRQ,0,1,0,1
+london-2012,powerlifting,10,Chinese Taipei,TPE,0,0,1,1
+london-2012,powerlifting,10,Great Britain,GBR,0,0,1,1
+london-2012,powerlifting,10,Greece,GRE,0,0,1,1
+london-2012,powerlifting,10,South Korea,KOR,0,0,1,1
+london-2012,powerlifting,10,Ukraine,UKR,0,0,1,1
+london-2012,rowing,1,China,CHN,2,0,0,2
+london-2012,rowing,2,Ukraine,UKR,1,0,1,2
+london-2012,rowing,3,Great Britain,GBR,1,0,0,1
+london-2012,rowing,4,France,FRA,0,2,0,2
+london-2012,rowing,5,Australia,AUS,0,1,0,1
+london-2012,rowing,5,Germany,GER,0,1,0,1
+london-2012,rowing,6,Belarus,BLR,0,0,1,1
+london-2012,rowing,6,Russia,RUS,0,0,1,1
+london-2012,rowing,6,United States,USA,0,0,1,1
+london-2012,shooting,1,China,CHN,4,1,3,8
+london-2012,shooting,2,South Korea,KOR,3,0,1,4
+london-2012,shooting,3,France,FRA,1,1,0,2
+london-2012,shooting,3,Sweden,SWE,1,1,0,2
+london-2012,shooting,4,North Macedonia,MKD,1,0,0,1
+london-2012,shooting,4,Ukraine,UKR,1,0,0,1
+london-2012,shooting,4,United Arab Emirates,UAE,1,0,0,1
+london-2012,shooting,5,Russia,RUS,0,3,1,4
+london-2012,shooting,6,Great Britain,GBR,0,1,2,3
+london-2012,shooting,7,Germany,GER,0,1,1,2
+london-2012,shooting,8,Israel,ISR,0,1,0,1
+london-2012,shooting,8,Slovenia,SLO,0,1,0,1
+london-2012,shooting,8,Spain,ESP,0,1,0,1
+london-2012,shooting,8,Turkiye,TUR,0,1,0,1
+london-2012,shooting,9,Australia,AUS,0,0,1,1
+london-2012,shooting,9,Iran,IRI,0,0,1,1
+london-2012,shooting,9,New Zealand,NZL,0,0,1,1
+london-2012,shooting,9,Slovakia,SVK,0,0,1,1
+london-2012,swimming,1,China,CHN,24,13,21,58
+london-2012,swimming,2,Australia,AUS,18,7,12,37
+london-2012,swimming,3,Ukraine,UKR,17,14,13,44
+london-2012,swimming,4,United States,USA,14,13,14,41
+london-2012,swimming,5,Russia,RUS,13,17,12,42
+london-2012,swimming,6,Brazil,BRA,9,4,1,14
+london-2012,swimming,7,Great Britain,GBR,7,16,16,39
+london-2012,swimming,8,New Zealand,NZL,5,6,1,12
+london-2012,swimming,9,Belarus,BLR,5,2,0,7
+london-2012,swimming,10,Canada,CAN,4,9,3,16
+london-2012,swimming,11,South Africa,RSA,4,4,3,11
+london-2012,swimming,12,Netherlands,NED,4,2,7,13
+london-2012,swimming,13,Mexico,MEX,3,2,4,9
+london-2012,swimming,14,Spain,ESP,2,11,9,22
+london-2012,swimming,15,Germany,GER,2,7,3,12
+london-2012,swimming,16,France,FRA,2,3,3,8
+london-2012,swimming,17,Japan,JPN,2,2,4,8
+london-2012,swimming,18,Norway,NOR,2,2,0,4
+london-2012,swimming,19,Italy,ITA,2,0,5,7
+london-2012,swimming,20,South Korea,KOR,2,0,1,3
+london-2012,swimming,21,Ireland,IRL,2,0,0,2
+london-2012,swimming,22,Azerbaijan,AZE,1,4,0,5
+london-2012,swimming,23,Hungary,HUN,1,3,2,6
+london-2012,swimming,24,Poland,POL,1,1,1,3
+london-2012,swimming,25,Sweden,SWE,1,1,0,2
+london-2012,swimming,26,Iceland,ISL,1,0,0,1
+london-2012,swimming,27,Greece,GRE,0,2,3,5
+london-2012,swimming,28,Cuba,CUB,0,1,1,2
+london-2012,swimming,29,Colombia,COL,0,1,0,1
+london-2012,swimming,29,Cyprus,CYP,0,1,0,1
+london-2012,swimming,30,Israel,ISR,0,0,4,4
+london-2012,swimming,31,"Hong Kong, China",HKG,0,0,2,2
+london-2012,swimming,32,Argentina,ARG,0,0,1,1
+london-2012,swimming,32,Croatia,CRO,0,0,1,1
+london-2012,swimming,32,Czechia,CZE,0,0,1,1
+london-2012,table-tennis,1,China,CHN,14,5,2,21
+london-2012,table-tennis,2,Poland,POL,3,1,1,5
+london-2012,table-tennis,3,Germany,GER,2,1,1,4
+london-2012,table-tennis,3,Slovakia,SVK,2,1,1,4
+london-2012,table-tennis,4,South Korea,KOR,1,4,4,9
+london-2012,table-tennis,5,Sweden,SWE,1,1,3,5
+london-2012,table-tennis,6,Russia,RUS,1,1,1,3
+london-2012,table-tennis,7,"Hong Kong, China",HKG,1,1,0,2
+london-2012,table-tennis,8,Netherlands,NED,1,0,1,2
+london-2012,table-tennis,9,Hungary,HUN,1,0,0,1
+london-2012,table-tennis,9,Norway,NOR,1,0,0,1
+london-2012,table-tennis,9,Thailand,THA,1,0,0,1
+london-2012,table-tennis,10,France,FRA,0,3,5,8
+london-2012,table-tennis,11,Spain,ESP,0,2,1,3
+london-2012,table-tennis,12,Austria,AUT,0,2,0,2
+london-2012,table-tennis,12,Serbia,SRB,0,2,0,2
+london-2012,table-tennis,12,Turkiye,TUR,0,2,0,2
+london-2012,table-tennis,13,Great Britain,GBR,0,1,3,4
+london-2012,table-tennis,13,Ukraine,UKR,0,1,3,4
+london-2012,table-tennis,14,Italy,ITA,0,1,0,1
+london-2012,table-tennis,15,Denmark,DEN,0,0,1,1
+london-2012,table-tennis,15,Egypt,EGY,0,0,1,1
+london-2012,table-tennis,15,Indonesia,INA,0,0,1,1
+london-2012,wheelchair-basketball,1,Canada,CAN,1,0,0,1
+london-2012,wheelchair-basketball,1,Germany,GER,1,0,0,1
+london-2012,wheelchair-basketball,2,Australia,AUS,0,2,0,2
+london-2012,wheelchair-basketball,3,Netherlands,NED,0,0,1,1
+london-2012,wheelchair-basketball,3,United States,USA,0,0,1,1
+london-2012,wheelchair-fencing,1,China,CHN,6,3,1,10
+london-2012,wheelchair-fencing,2,"Hong Kong, China",HKG,2,1,4,7
+london-2012,wheelchair-fencing,3,Poland,POL,2,0,1,3
+london-2012,wheelchair-fencing,4,Brazil,BRA,1,0,0,1
+london-2012,wheelchair-fencing,4,Thailand,THA,1,0,0,1
+london-2012,wheelchair-fencing,5,France,FRA,0,3,2,5
+london-2012,wheelchair-fencing,5,Hungary,HUN,0,3,2,5
+london-2012,wheelchair-fencing,6,Germany,GER,0,1,0,1
+london-2012,wheelchair-fencing,6,Ukraine,UKR,0,1,0,1
+london-2012,wheelchair-fencing,7,Italy,ITA,0,0,2,2
+rio-2016,archery,1,Great Britain,GBR,3,2,1,6
+rio-2016,archery,2,China,CHN,3,2,0,5
+rio-2016,archery,3,Iran,IRI,2,1,1,4
+rio-2016,archery,4,United States,USA,1,0,0,1
+rio-2016,archery,5,South Korea,KOR,0,1,2,3
+rio-2016,archery,6,Czechia,CZE,0,1,1,2
+rio-2016,archery,6,Italy,ITA,0,1,1,2
+rio-2016,archery,7,Thailand,THA,0,1,0,1
+rio-2016,archery,8,Australia,AUS,0,0,1,1
+rio-2016,archery,8,Poland,POL,0,0,1,1
+rio-2016,archery,8,Slovakia,SVK,0,0,1,1
+rio-2016,athletics,1,China,CHN,32,23,12,67
+rio-2016,athletics,2,United States,USA,16,15,11,42
+rio-2016,athletics,3,Great Britain,GBR,15,7,11,33
+rio-2016,athletics,4,Germany,GER,9,9,7,25
+rio-2016,athletics,5,Brazil,BRA,8,14,11,33
+rio-2016,athletics,6,Tunisia,TUN,7,6,6,19
+rio-2016,athletics,7,Cuba,CUB,6,1,3,10
+rio-2016,athletics,8,South Africa,RSA,5,6,4,15
+rio-2016,athletics,9,Poland,POL,4,9,4,17
+rio-2016,athletics,10,Ukraine,UKR,4,8,7,19
+rio-2016,athletics,11,Algeria,ALG,4,5,6,15
+rio-2016,athletics,12,Thailand,THA,4,3,2,9
+rio-2016,athletics,13,Australia,AUS,3,9,14,26
+rio-2016,athletics,14,Canada,CAN,3,3,2,8
+rio-2016,athletics,15,France,FRA,3,2,4,9
+rio-2016,athletics,15,New Zealand,NZL,3,2,4,9
+rio-2016,athletics,16,Greece,GRE,3,2,2,7
+rio-2016,athletics,16,Spain,ESP,3,2,2,7
+rio-2016,athletics,17,Morocco,MAR,3,2,1,6
+rio-2016,athletics,18,Netherlands,NED,3,1,3,7
+rio-2016,athletics,18,Uzbekistan,UZB,3,1,3,7
+rio-2016,athletics,19,Kenya,KEN,3,1,2,6
+rio-2016,athletics,20,Malaysia,MAS,3,0,1,4
+rio-2016,athletics,21,Italy,ITA,2,2,2,6
+rio-2016,athletics,22,Ireland,IRL,2,2,1,5
+rio-2016,athletics,23,Switzerland,SUI,2,2,0,4
+rio-2016,athletics,24,Belgium,BEL,2,1,1,4
+rio-2016,athletics,24,India,IND,2,1,1,4
+rio-2016,athletics,25,Iraq,IRQ,2,1,0,3
+rio-2016,athletics,26,Latvia,LAT,2,0,2,4
+rio-2016,athletics,27,Nigeria,NGR,2,0,1,3
+rio-2016,athletics,28,Iran,IRI,1,6,5,12
+rio-2016,athletics,29,Mexico,MEX,1,2,3,6
+rio-2016,athletics,30,Namibia,NAM,1,2,2,5
+rio-2016,athletics,31,Colombia,COL,1,1,5,7
+rio-2016,athletics,32,Argentina,ARG,1,1,2,4
+rio-2016,athletics,33,Croatia,CRO,1,1,1,3
+rio-2016,athletics,33,Finland,FIN,1,1,1,3
+rio-2016,athletics,33,Serbia,SRB,1,1,1,3
+rio-2016,athletics,33,Trinidad and Tobago,TTO,1,1,1,3
+rio-2016,athletics,33,United Arab Emirates,UAE,1,1,1,3
+rio-2016,athletics,34,Lithuania,LTU,1,1,0,2
+rio-2016,athletics,35,Bahrain,BRN,1,0,0,1
+rio-2016,athletics,35,Bulgaria,BUL,1,0,0,1
+rio-2016,athletics,35,Kuwait,KUW,1,0,0,1
+rio-2016,athletics,36,Japan,JPN,0,4,3,7
+rio-2016,athletics,37,Azerbaijan,AZE,0,4,1,5
+rio-2016,athletics,38,Venezuela,VEN,0,3,2,5
+rio-2016,athletics,39,Qatar,QAT,0,2,0,2
+rio-2016,athletics,40,South Korea,KOR,0,1,2,3
+rio-2016,athletics,41,Denmark,DEN,0,1,1,2
+rio-2016,athletics,42,Côte d'Ivoire,CIV,0,1,0,1
+rio-2016,athletics,42,Egypt,EGY,0,1,0,1
+rio-2016,athletics,42,Ethiopia,ETH,0,1,0,1
+rio-2016,athletics,42,Hungary,HUN,0,1,0,1
+rio-2016,athletics,42,Uganda,UGA,0,1,0,1
+rio-2016,athletics,43,Austria,AUT,0,0,2,2
+rio-2016,athletics,43,Portugal,POR,0,0,2,2
+rio-2016,athletics,44,Belarus,BLR,0,0,1,1
+rio-2016,athletics,44,Cape Verde,CPV,0,0,1,1
+rio-2016,athletics,44,Czechia,CZE,0,0,1,1
+rio-2016,athletics,44,Mozambique,MOZ,0,0,1,1
+rio-2016,athletics,44,Pakistan,PAK,0,0,1,1
+rio-2016,athletics,44,Saudi Arabia,KSA,0,0,1,1
+rio-2016,athletics,44,Slovakia,SVK,0,0,1,1
+rio-2016,athletics,44,Sri Lanka,SRI,0,0,1,1
+rio-2016,athletics,44,Turkiye,TUR,0,0,1,1
+rio-2016,athletics,44,Vietnam,VIE,0,0,1,1
+rio-2016,boccia,1,Thailand,THA,2,1,2,5
+rio-2016,boccia,2,South Korea,KOR,1,1,1,3
+rio-2016,boccia,3,Brazil,BRA,1,1,0,2
+rio-2016,boccia,3,Slovakia,SVK,1,1,0,2
+rio-2016,boccia,4,Great Britain,GBR,1,0,0,1
+rio-2016,boccia,4,"Hong Kong, China",HKG,1,0,0,1
+rio-2016,boccia,5,Greece,GRE,0,1,1,2
+rio-2016,boccia,6,Japan,JPN,0,1,0,1
+rio-2016,boccia,6,Netherlands,NED,0,1,0,1
+rio-2016,boccia,7,Portugal,POR,0,0,2,2
+rio-2016,boccia,8,China,CHN,0,0,1,1
+rio-2016,equestrian,1,Great Britain,GBR,7,4,0,11
+rio-2016,equestrian,2,Netherlands,NED,1,2,4,7
+rio-2016,equestrian,3,Austria,AUT,1,1,0,2
+rio-2016,equestrian,3,Belgium,BEL,1,1,0,2
+rio-2016,equestrian,3,Norway,NOR,1,1,0,2
+rio-2016,equestrian,4,Denmark,DEN,0,1,2,3
+rio-2016,equestrian,5,Germany,GER,0,1,1,2
+rio-2016,equestrian,6,Brazil,BRA,0,0,2,2
+rio-2016,equestrian,6,Sweden,SWE,0,0,2,2
+rio-2016,football-5-side,1,Brazil,BRA,1,0,0,1
+rio-2016,football-5-side,2,Iran,IRI,0,1,0,1
+rio-2016,football-5-side,3,Argentina,ARG,0,0,1,1
+rio-2016,football-7-side,1,Ukraine,UKR,1,0,0,1
+rio-2016,football-7-side,2,Iran,IRI,0,1,0,1
+rio-2016,football-7-side,3,Brazil,BRA,0,0,1,1
+rio-2016,goalball,1,Lithuania,LTU,1,0,0,1
+rio-2016,goalball,1,Turkiye,TUR,1,0,0,1
+rio-2016,goalball,2,United States,USA,0,1,1,2
+rio-2016,goalball,3,China,CHN,0,1,0,1
+rio-2016,goalball,4,Brazil,BRA,0,0,1,1
+rio-2016,judo,1,Uzbekistan,UZB,3,1,6,10
+rio-2016,judo,2,China,CHN,2,0,0,2
+rio-2016,judo,2,Mexico,MEX,2,0,0,2
+rio-2016,judo,3,Ukraine,UKR,1,3,3,7
+rio-2016,judo,4,South Korea,KOR,1,1,2,4
+rio-2016,judo,5,Azerbaijan,AZE,1,1,1,3
+rio-2016,judo,6,Cuba,CUB,1,0,2,3
+rio-2016,judo,7,France,FRA,1,0,0,1
+rio-2016,judo,7,Georgia,GEO,1,0,0,1
+rio-2016,judo,8,Brazil,BRA,0,4,0,4
+rio-2016,judo,9,Germany,GER,0,2,1,3
+rio-2016,judo,10,Japan,JPN,0,1,3,4
+rio-2016,judo,11,Turkiye,TUR,0,0,2,2
+rio-2016,judo,11,United States,USA,0,0,2,2
+rio-2016,judo,12,Algeria,ALG,0,0,1,1
+rio-2016,judo,12,Mongolia,MGL,0,0,1,1
+rio-2016,judo,12,Romania,ROU,0,0,1,1
+rio-2016,judo,12,Venezuela,VEN,0,0,1,1
+rio-2016,powerlifting,1,Nigeria,NGR,6,2,1,9
+rio-2016,powerlifting,2,China,CHN,3,6,3,12
+rio-2016,powerlifting,3,Egypt,EGY,3,4,3,10
+rio-2016,powerlifting,4,Iran,IRI,2,0,1,3
+rio-2016,powerlifting,5,Mexico,MEX,1,0,2,3
+rio-2016,powerlifting,6,Greece,GRE,1,0,1,2
+rio-2016,powerlifting,6,Vietnam,VIE,1,0,1,2
+rio-2016,powerlifting,7,Turkiye,TUR,1,0,0,1
+rio-2016,powerlifting,7,Ukraine,UKR,1,0,0,1
+rio-2016,powerlifting,7,United Arab Emirates,UAE,1,0,0,1
+rio-2016,powerlifting,8,Jordan,JOR,0,2,1,3
+rio-2016,powerlifting,9,Great Britain,GBR,0,1,1,2
+rio-2016,powerlifting,10,Brazil,BRA,0,1,0,1
+rio-2016,powerlifting,10,France,FRA,0,1,0,1
+rio-2016,powerlifting,10,Iraq,IRQ,0,1,0,1
+rio-2016,powerlifting,10,Kazakhstan,KAZ,0,1,0,1
+rio-2016,powerlifting,10,Poland,POL,0,1,0,1
+rio-2016,powerlifting,11,Chinese Taipei,TPE,0,0,1,1
+rio-2016,powerlifting,11,Hungary,HUN,0,0,1,1
+rio-2016,powerlifting,11,Indonesia,INA,0,0,1,1
+rio-2016,powerlifting,11,Mongolia,MGL,0,0,1,1
+rio-2016,powerlifting,11,Netherlands,NED,0,0,1,1
+rio-2016,powerlifting,11,Uzbekistan,UZB,0,0,1,1
+rio-2016,rowing,1,Great Britain,GBR,3,0,1,4
+rio-2016,rowing,2,Ukraine,UKR,1,0,0,1
+rio-2016,rowing,3,China,CHN,0,2,0,2
+rio-2016,rowing,4,Australia,AUS,0,1,0,1
+rio-2016,rowing,4,United States,USA,0,1,0,1
+rio-2016,rowing,5,Canada,CAN,0,0,1,1
+rio-2016,rowing,5,France,FRA,0,0,1,1
+rio-2016,rowing,5,Israel,ISR,0,0,1,1
+rio-2016,shooting,1,China,CHN,5,2,1,8
+rio-2016,shooting,2,Slovakia,SVK,2,1,0,3
+rio-2016,shooting,3,Iran,IRI,2,0,0,2
+rio-2016,shooting,4,Ukraine,UKR,1,1,1,3
+rio-2016,shooting,5,Slovenia,SLO,1,1,0,2
+rio-2016,shooting,6,Serbia,SRB,1,0,1,2
+rio-2016,shooting,7,United Arab Emirates,UAE,0,3,0,3
+rio-2016,shooting,8,South Korea,KOR,0,2,5,7
+rio-2016,shooting,9,Germany,GER,0,1,0,1
+rio-2016,shooting,9,Sweden,SWE,0,1,0,1
+rio-2016,shooting,10,Israel,ISR,0,0,1,1
+rio-2016,shooting,10,Turkiye,TUR,0,0,1,1
+rio-2016,shooting,10,United States,USA,0,0,1,1
+rio-2016,shooting,10,Uzbekistan,UZB,0,0,1,1
+rio-2016,swimming,1,China,CHN,37,30,25,92
+rio-2016,swimming,2,Ukraine,UKR,25,24,25,74
+rio-2016,swimming,3,Great Britain,GBR,16,16,15,47
+rio-2016,swimming,4,United States,USA,14,14,9,37
+rio-2016,swimming,5,Australia,AUS,9,10,10,29
+rio-2016,swimming,6,Belarus,BLR,7,0,1,8
+rio-2016,swimming,7,Spain,ESP,6,8,3,17
+rio-2016,swimming,8,New Zealand,NZL,6,2,2,10
+rio-2016,swimming,9,Brazil,BRA,4,7,8,19
+rio-2016,swimming,10,Netherlands,NED,4,6,11,21
+rio-2016,swimming,11,Canada,CAN,4,2,2,8
+rio-2016,swimming,12,South Korea,KOR,4,1,0,5
+rio-2016,swimming,13,Italy,ITA,2,8,3,13
+rio-2016,swimming,14,Uzbekistan,UZB,2,4,6,12
+rio-2016,swimming,15,Norway,NOR,2,1,3,6
+rio-2016,swimming,16,Singapore,SGP,2,0,1,3
+rio-2016,swimming,17,Colombia,COL,1,4,2,7
+rio-2016,swimming,18,Hungary,HUN,1,2,5,8
+rio-2016,swimming,19,Sweden,SWE,1,2,2,5
+rio-2016,swimming,20,Czechia,CZE,1,1,1,3
+rio-2016,swimming,21,Cuba,CUB,1,0,1,2
+rio-2016,swimming,22,Greece,GRE,1,0,0,1
+rio-2016,swimming,22,"Hong Kong, China",HKG,1,0,0,1
+rio-2016,swimming,22,Kazakhstan,KAZ,1,0,0,1
+rio-2016,swimming,22,South Africa,RSA,1,0,0,1
+rio-2016,swimming,23,Azerbaijan,AZE,0,3,0,3
+rio-2016,swimming,24,Japan,JPN,0,2,5,7
+rio-2016,swimming,25,Germany,GER,0,2,1,3
+rio-2016,swimming,26,France,FRA,0,1,2,3
+rio-2016,swimming,27,Poland,POL,0,1,1,2
+rio-2016,swimming,28,Vietnam,VIE,0,1,0,1
+rio-2016,swimming,29,Mexico,MEX,0,0,4,4
+rio-2016,swimming,30,Austria,AUT,0,0,1,1
+rio-2016,swimming,30,Denmark,DEN,0,0,1,1
+rio-2016,swimming,30,Ireland,IRL,0,0,1,1
+rio-2016,swimming,30,Israel,ISR,0,0,1,1
+rio-2016,triathlon,1,United States,USA,2,1,1,4
+rio-2016,triathlon,2,Great Britain,GBR,1,2,1,4
+rio-2016,triathlon,3,Netherlands,NED,1,1,0,2
+rio-2016,triathlon,4,Australia,AUS,1,0,0,1
+rio-2016,triathlon,4,Germany,GER,1,0,0,1
+rio-2016,triathlon,5,Italy,ITA,0,1,1,2
+rio-2016,triathlon,6,Canada,CAN,0,1,0,1
+rio-2016,triathlon,7,France,FRA,0,0,1,1
+rio-2016,triathlon,7,Morocco,MAR,0,0,1,1
+rio-2016,triathlon,7,Spain,ESP,0,0,1,1
+rio-2016,table-tennis,1,China,CHN,13,7,1,21
+rio-2016,table-tennis,2,Poland,POL,2,3,3,8
+rio-2016,table-tennis,3,France,FRA,2,1,2,5
+rio-2016,table-tennis,4,Great Britain,GBR,2,0,1,3
+rio-2016,table-tennis,4,Ukraine,UKR,2,0,1,3
+rio-2016,table-tennis,5,Belgium,BEL,2,0,0,2
+rio-2016,table-tennis,6,South Korea,KOR,1,3,5,9
+rio-2016,table-tennis,7,Serbia,SRB,1,1,2,4
+rio-2016,table-tennis,8,Turkiye,TUR,1,1,1,3
+rio-2016,table-tennis,9,Croatia,CRO,1,1,0,2
+rio-2016,table-tennis,9,Netherlands,NED,1,1,0,2
+rio-2016,table-tennis,10,Denmark,DEN,1,0,0,1
+rio-2016,table-tennis,11,Germany,GER,0,4,0,4
+rio-2016,table-tennis,12,Spain,ESP,0,2,0,2
+rio-2016,table-tennis,13,Brazil,BRA,0,1,3,4
+rio-2016,table-tennis,14,Hungary,HUN,0,1,1,2
+rio-2016,table-tennis,14,Sweden,SWE,0,1,1,2
+rio-2016,table-tennis,15,Australia,AUS,0,1,0,1
+rio-2016,table-tennis,15,Chinese Taipei,TPE,0,1,0,1
+rio-2016,table-tennis,16,Italy,ITA,0,0,2,2
+rio-2016,table-tennis,16,Thailand,THA,0,0,2,2
+rio-2016,table-tennis,17,Austria,AUT,0,0,1,1
+rio-2016,table-tennis,17,Czechia,CZE,0,0,1,1
+rio-2016,table-tennis,17,"Hong Kong, China",HKG,0,0,1,1
+rio-2016,table-tennis,17,Philippines,PHI,0,0,1,1
+rio-2016,wheelchair-basketball,1,United States,USA,2,0,0,2
+rio-2016,wheelchair-basketball,2,Germany,GER,0,1,0,1
+rio-2016,wheelchair-basketball,2,Spain,ESP,0,1,0,1
+rio-2016,wheelchair-basketball,3,Great Britain,GBR,0,0,1,1
+rio-2016,wheelchair-basketball,3,Netherlands,NED,0,0,1,1
+rio-2016,wheelchair-fencing,1,China,CHN,9,4,4,17
+rio-2016,wheelchair-fencing,2,Ukraine,UKR,2,0,2,4
+rio-2016,wheelchair-fencing,3,France,FRA,1,0,2,3
+rio-2016,wheelchair-fencing,4,Italy,ITA,1,0,1,2
+rio-2016,wheelchair-fencing,5,Belarus,BLR,1,0,0,1
+rio-2016,wheelchair-fencing,6,Hungary,HUN,0,3,2,5
+rio-2016,wheelchair-fencing,7,"Hong Kong, China",HKG,0,2,1,3
+rio-2016,wheelchair-fencing,8,Poland,POL,0,1,2,3
+rio-2016,wheelchair-fencing,9,Great Britain,GBR,0,1,0,1
+rio-2016,wheelchair-fencing,9,Greece,GRE,0,1,0,1
+rio-2016,wheelchair-fencing,9,Iraq,IRQ,0,1,0,1
+rio-2016,wheelchair-fencing,9,Thailand,THA,0,1,0,1
+tokyo-2020,archery,1,China,CHN,4,1,3,8
+tokyo-2020,archery,2,Czechia,CZE,1,2,0,3
+tokyo-2020,archery,3,Iran,IRI,1,1,0,2
+tokyo-2020,archery,4,RPC,RPC,1,0,2,3
+tokyo-2020,archery,5,Great Britain,GBR,1,0,1,2
+tokyo-2020,archery,6,United States,USA,1,0,0,1
+tokyo-2020,archery,7,Italy,ITA,0,2,1,3
+tokyo-2020,archery,7,Turkiye,TUR,0,2,1,3
+tokyo-2020,archery,8,Chile,CHI,0,1,0,1
+tokyo-2020,archery,9,India,IND,0,0,1,1
+tokyo-2020,athletics,1,China,CHN,27,13,11,51
+tokyo-2020,athletics,2,RPC,RPC,12,13,13,38
+tokyo-2020,athletics,3,United States,USA,10,17,14,41
+tokyo-2020,athletics,4,Great Britain,GBR,9,5,10,24
+tokyo-2020,athletics,5,Brazil,BRA,8,9,11,28
+tokyo-2020,athletics,6,Switzerland,SUI,7,3,2,12
+tokyo-2020,athletics,7,Ukraine,UKR,6,15,3,24
+tokyo-2020,athletics,8,Iran,IRI,5,6,0,11
+tokyo-2020,athletics,9,Poland,POL,5,3,3,11
+tokyo-2020,athletics,10,Uzbekistan,UZB,5,2,2,9
+tokyo-2020,athletics,11,Australia,AUS,4,7,8,19
+tokyo-2020,athletics,12,Germany,GER,4,5,6,15
+tokyo-2020,athletics,13,Tunisia,TUN,4,5,2,11
+tokyo-2020,athletics,14,Morocco,MAR,4,4,2,10
+tokyo-2020,athletics,15,Spain,ESP,4,4,1,9
+tokyo-2020,athletics,16,Thailand,THA,4,2,3,9
+tokyo-2020,athletics,17,Azerbaijan,AZE,4,1,1,6
+tokyo-2020,athletics,17,Cuba,CUB,4,1,1,6
+tokyo-2020,athletics,18,Algeria,ALG,3,4,3,10
+tokyo-2020,athletics,19,Japan,JPN,3,3,6,12
+tokyo-2020,athletics,20,Netherlands,NED,3,2,3,8
+tokyo-2020,athletics,21,New Zealand,NZL,3,2,2,7
+tokyo-2020,athletics,22,Venezuela,VEN,3,2,1,6
+tokyo-2020,athletics,23,South Africa,RSA,3,1,2,6
+tokyo-2020,athletics,24,Canada,CAN,2,4,2,8
+tokyo-2020,athletics,25,Mexico,MEX,2,1,5,8
+tokyo-2020,athletics,26,India,IND,1,5,2,8
+tokyo-2020,athletics,27,Italy,ITA,1,4,4,9
+tokyo-2020,athletics,28,Colombia,COL,1,3,7,11
+tokyo-2020,athletics,29,France,FRA,1,3,4,8
+tokyo-2020,athletics,30,Finland,FIN,1,3,1,5
+tokyo-2020,athletics,31,Greece,GRE,1,2,1,4
+tokyo-2020,athletics,32,Belgium,BEL,1,1,2,4
+tokyo-2020,athletics,33,Costa Rica,CRC,1,1,0,2
+tokyo-2020,athletics,34,Ecuador,ECU,1,0,2,3
+tokyo-2020,athletics,34,Nigeria,NGR,1,0,2,3
+tokyo-2020,athletics,35,Sri Lanka,SRI,1,0,1,2
+tokyo-2020,athletics,36,Chile,CHI,1,0,0,1
+tokyo-2020,athletics,36,Ethiopia,ETH,1,0,0,1
+tokyo-2020,athletics,36,Hungary,HUN,1,0,0,1
+tokyo-2020,athletics,36,Ireland,IRL,1,0,0,1
+tokyo-2020,athletics,36,Jordan,JOR,1,0,0,1
+tokyo-2020,athletics,36,Malaysia,MAS,1,0,0,1
+tokyo-2020,athletics,36,Norway,NOR,1,0,0,1
+tokyo-2020,athletics,36,Pakistan,PAK,1,0,0,1
+tokyo-2020,athletics,37,Argentina,ARG,0,2,3,5
+tokyo-2020,athletics,38,Croatia,CRO,0,2,2,4
+tokyo-2020,athletics,39,Bulgaria,BUL,0,2,0,2
+tokyo-2020,athletics,40,Latvia,LAT,0,1,2,3
+tokyo-2020,athletics,41,Iraq,IRQ,0,1,1,2
+tokyo-2020,athletics,41,Kuwait,KUW,0,1,1,2
+tokyo-2020,athletics,41,Namibia,NAM,0,1,1,2
+tokyo-2020,athletics,41,United Arab Emirates,UAE,0,1,1,2
+tokyo-2020,athletics,42,Serbia,SRB,0,1,0,1
+tokyo-2020,athletics,43,Czechia,CZE,0,0,2,2
+tokyo-2020,athletics,44,Belarus,BLR,0,0,1,1
+tokyo-2020,athletics,44,Denmark,DEN,0,0,1,1
+tokyo-2020,athletics,44,Indonesia,INA,0,0,1,1
+tokyo-2020,athletics,44,Kenya,KEN,0,0,1,1
+tokyo-2020,athletics,44,Oman,OMA,0,0,1,1
+tokyo-2020,athletics,44,Portugal,POR,0,0,1,1
+tokyo-2020,athletics,44,Qatar,QAT,0,0,1,1
+tokyo-2020,athletics,44,RPC,RPC,0,0,1,1
+tokyo-2020,athletics,44,Slovakia,SVK,0,0,1,1
+tokyo-2020,athletics,44,Uganda,UGA,0,0,1,1
+tokyo-2020,badminton,1,China,CHN,5,3,2,10
+tokyo-2020,badminton,2,Japan,JPN,3,1,5,9
+tokyo-2020,badminton,3,Indonesia,INA,2,2,2,6
+tokyo-2020,badminton,4,India,IND,2,1,1,4
+tokyo-2020,badminton,5,France,FRA,1,1,0,2
+tokyo-2020,badminton,6,Malaysia,MAS,1,0,0,1
+tokyo-2020,badminton,7,South Korea,KOR,0,3,1,4
+tokyo-2020,badminton,8,Great Britain,GBR,0,1,1,2
+tokyo-2020,badminton,8,"Hong Kong, China",HKG,0,1,1,2
+tokyo-2020,badminton,8,Thailand,THA,0,1,1,2
+tokyo-2020,boccia,1,Slovakia,SVK,2,0,0,2
+tokyo-2020,boccia,2,Thailand,THA,1,2,0,3
+tokyo-2020,boccia,3,Japan,JPN,1,1,1,3
+tokyo-2020,boccia,4,Czechia,CZE,1,0,0,1
+tokyo-2020,boccia,4,Great Britain,GBR,1,0,0,1
+tokyo-2020,boccia,4,South Korea,KOR,1,0,0,1
+tokyo-2020,boccia,5,Greece,GRE,0,1,1,2
+tokyo-2020,boccia,5,"Hong Kong, China",HKG,0,1,1,2
+tokyo-2020,boccia,6,China,CHN,0,1,0,1
+tokyo-2020,boccia,6,Malaysia,MAS,0,1,0,1
+tokyo-2020,boccia,7,Brazil,BRA,0,0,2,2
+tokyo-2020,boccia,8,Australia,AUS,0,0,1,1
+tokyo-2020,boccia,8,RPC,RPC,0,0,1,1
+tokyo-2020,equestrian,1,Great Britain,GBR,3,3,2,8
+tokyo-2020,equestrian,2,Netherlands,NED,2,2,2,6
+tokyo-2020,equestrian,3,Belgium,BEL,2,0,2,4
+tokyo-2020,equestrian,4,United States,USA,2,0,1,3
+tokyo-2020,equestrian,5,Denmark,DEN,2,0,0,2
+tokyo-2020,equestrian,6,Austria,AUT,0,2,0,2
+tokyo-2020,equestrian,6,Latvia,LAT,0,2,0,2
+tokyo-2020,equestrian,7,Brazil,BRA,0,1,0,1
+tokyo-2020,equestrian,7,Sweden,SWE,0,1,0,1
+tokyo-2020,equestrian,8,Italy,ITA,0,0,2,2
+tokyo-2020,equestrian,9,Germany,GER,0,0,1,1
+tokyo-2020,equestrian,9,Norway,NOR,0,0,1,1
+tokyo-2020,football-5-side,1,Brazil,BRA,1,0,0,1
+tokyo-2020,football-5-side,2,Argentina,ARG,0,1,0,1
+tokyo-2020,football-5-side,3,Morocco,MAR,0,0,1,1
+tokyo-2020,goalball,1,Brazil,BRA,1,0,0,1
+tokyo-2020,goalball,1,Turkiye,TUR,1,0,0,1
+tokyo-2020,goalball,2,China,CHN,0,1,0,1
+tokyo-2020,goalball,2,United States,USA,0,1,0,1
+tokyo-2020,goalball,3,Japan,JPN,0,0,1,1
+tokyo-2020,goalball,3,Lithuania,LTU,0,0,1,1
+tokyo-2020,judo,1,Azerbaijan,AZE,6,0,2,8
+tokyo-2020,judo,2,Uzbekistan,UZB,2,2,2,6
+tokyo-2020,judo,3,Iran,IRI,2,0,0,2
+tokyo-2020,judo,4,Great Britain,GBR,1,1,0,2
+tokyo-2020,judo,5,Brazil,BRA,1,0,2,3
+tokyo-2020,judo,6,Algeria,ALG,1,0,0,1
+tokyo-2020,judo,7,Kazakhstan,KAZ,0,3,0,3
+tokyo-2020,judo,8,Georgia,GEO,0,2,0,2
+tokyo-2020,judo,9,Ukraine,UKR,0,1,4,5
+tokyo-2020,judo,10,France,FRA,0,1,1,2
+tokyo-2020,judo,11,Canada,CAN,0,1,0,1
+tokyo-2020,judo,11,Spain,ESP,0,1,0,1
+tokyo-2020,judo,11,United States,USA,0,1,0,1
+tokyo-2020,judo,12,RPC,RPC,0,0,3,3
+tokyo-2020,judo,13,Japan,JPN,0,0,2,2
+tokyo-2020,judo,13,South Korea,KOR,0,0,2,2
+tokyo-2020,judo,13,Mexico,MEX,0,0,2,2
+tokyo-2020,judo,13,Turkiye,TUR,0,0,2,2
+tokyo-2020,judo,14,China,CHN,0,0,1,1
+tokyo-2020,judo,14,Italy,ITA,0,0,1,1
+tokyo-2020,judo,14,Lithuania,LTU,0,0,1,1
+tokyo-2020,judo,14,Romania,ROU,0,0,1,1
+tokyo-2020,powerlifting,1,China,CHN,7,6,0,13
+tokyo-2020,powerlifting,2,Nigeria,NGR,3,1,2,6
+tokyo-2020,powerlifting,3,Jordan,JOR,3,0,0,3
+tokyo-2020,powerlifting,4,Iran,IRI,1,3,1,5
+tokyo-2020,powerlifting,5,Malaysia,MAS,1,1,0,2
+tokyo-2020,powerlifting,5,Ukraine,UKR,1,1,0,2
+tokyo-2020,powerlifting,6,Brazil,BRA,1,0,0,1
+tokyo-2020,powerlifting,6,Kazakhstan,KAZ,1,0,0,1
+tokyo-2020,powerlifting,6,Mexico,MEX,1,0,0,1
+tokyo-2020,powerlifting,6,Mongolia,MGL,1,0,0,1
+tokyo-2020,powerlifting,7,Egypt,EGY,0,4,2,6
+tokyo-2020,powerlifting,8,France,FRA,0,1,1,2
+tokyo-2020,powerlifting,9,Indonesia,INA,0,1,0,1
+tokyo-2020,powerlifting,9,Uzbekistan,UZB,0,1,0,1
+tokyo-2020,powerlifting,9,Vietnam,VIE,0,1,0,1
+tokyo-2020,powerlifting,10,Great Britain,GBR,0,0,3,3
+tokyo-2020,powerlifting,11,Poland,POL,0,0,2,2
+tokyo-2020,powerlifting,12,Algeria,ALG,0,0,1,1
+tokyo-2020,powerlifting,12,Azerbaijan,AZE,0,0,1,1
+tokyo-2020,powerlifting,12,Colombia,COL,0,0,1,1
+tokyo-2020,powerlifting,12,El Salvador,ESA,0,0,1,1
+tokyo-2020,powerlifting,12,Greece,GRE,0,0,1,1
+tokyo-2020,powerlifting,12,Iraq,IRQ,0,0,1,1
+tokyo-2020,powerlifting,12,RPC,RPC,0,0,1,1
+tokyo-2020,powerlifting,12,Turkiye,TUR,0,0,1,1
+tokyo-2020,powerlifting,12,Venezuela,VEN,0,0,1,1
+tokyo-2020,rowing,1,Great Britain,GBR,2,0,0,2
+tokyo-2020,rowing,2,Norway,NOR,1,0,0,1
+tokyo-2020,rowing,2,Ukraine,UKR,1,0,0,1
+tokyo-2020,rowing,3,Australia,AUS,0,1,0,1
+tokyo-2020,rowing,3,Israel,ISR,0,1,0,1
+tokyo-2020,rowing,3,Netherlands,NED,0,1,0,1
+tokyo-2020,rowing,3,United States,USA,0,1,0,1
+tokyo-2020,rowing,4,France,FRA,0,0,2,2
+tokyo-2020,rowing,5,Brazil,BRA,0,0,1,1
+tokyo-2020,rowing,5,China,CHN,0,0,1,1
+tokyo-2020,shooting,1,China,CHN,4,2,0,6
+tokyo-2020,shooting,2,Serbia,SRB,2,2,0,4
+tokyo-2020,shooting,3,India,IND,2,1,2,5
+tokyo-2020,shooting,4,Germany,GER,1,1,0,2
+tokyo-2020,shooting,4,Sweden,SWE,1,1,0,2
+tokyo-2020,shooting,5,Iran,IRI,1,0,0,1
+tokyo-2020,shooting,5,Slovakia,SVK,1,0,0,1
+tokyo-2020,shooting,5,United Arab Emirates,UAE,1,0,0,1
+tokyo-2020,shooting,6,Ukraine,UKR,0,2,4,6
+tokyo-2020,shooting,7,South Korea,KOR,0,1,2,3
+tokyo-2020,shooting,8,Slovenia,SLO,0,1,1,2
+tokyo-2020,shooting,9,Poland,POL,0,1,0,1
+tokyo-2020,shooting,9,Turkiye,TUR,0,1,0,1
+tokyo-2020,shooting,10,Hungary,HUN,0,0,1,1
+tokyo-2020,shooting,10,Italy,ITA,0,0,1,1
+tokyo-2020,shooting,10,RPC,RPC,0,0,1,1
+tokyo-2020,shooting,10,Spain,ESP,0,0,1,1
+tokyo-2020,swimming,1,China,CHN,19,19,18,56
+tokyo-2020,swimming,2,RPC,RPC,17,14,18,49
+tokyo-2020,swimming,3,United States,USA,15,10,10,35
+tokyo-2020,swimming,4,Ukraine,UKR,14,18,11,43
+tokyo-2020,swimming,5,Italy,ITA,11,16,12,39
+tokyo-2020,swimming,6,Australia,AUS,8,10,15,33
+tokyo-2020,swimming,7,Great Britain,GBR,8,9,9,26
+tokyo-2020,swimming,8,Brazil,BRA,8,5,10,23
+tokyo-2020,swimming,9,Israel,ISR,6,1,1,8
+tokyo-2020,swimming,10,Netherlands,NED,5,6,6,17
+tokyo-2020,swimming,11,Belarus,BLR,5,1,0,6
+tokyo-2020,swimming,12,Azerbaijan,AZE,4,0,0,4
+tokyo-2020,swimming,13,Japan,JPN,3,7,3,13
+tokyo-2020,swimming,14,Hungary,HUN,3,4,0,7
+tokyo-2020,swimming,15,Canada,CAN,3,3,2,8
+tokyo-2020,swimming,16,Mexico,MEX,3,1,6,10
+tokyo-2020,swimming,17,New Zealand,NZL,3,1,1,5
+tokyo-2020,swimming,18,Spain,ESP,2,9,3,14
+tokyo-2020,swimming,19,Colombia,COL,2,4,4,10
+tokyo-2020,swimming,20,Germany,GER,2,0,3,5
+tokyo-2020,swimming,21,Singapore,SGP,2,0,0,2
+tokyo-2020,swimming,22,Chile,CHI,1,2,0,3
+tokyo-2020,swimming,23,Ireland,IRL,1,1,0,2
+tokyo-2020,swimming,24,Cyprus,CYP,1,0,1,2
+tokyo-2020,swimming,25,France,FRA,0,2,3,5
+tokyo-2020,swimming,26,Argentina,ARG,0,2,0,2
+tokyo-2020,swimming,27,Czechia,CZE,0,1,0,1
+tokyo-2020,swimming,28,Greece,GRE,0,0,3,3
+tokyo-2020,swimming,29,Uzbekistan,UZB,0,0,2,2
+tokyo-2020,swimming,30,Croatia,CRO,0,0,1,1
+tokyo-2020,swimming,30,Kazakhstan,KAZ,0,0,1,1
+tokyo-2020,swimming,30,Lithuania,LTU,0,0,1,1
+tokyo-2020,swimming,30,Poland,POL,0,0,1,1
+tokyo-2020,swimming,30,Switzerland,SUI,0,0,1,1
+tokyo-2020,swimming,30,Turkiye,TUR,0,0,1,1
+tokyo-2020,taekwondo,1,Brazil,BRA,1,1,1,3
+tokyo-2020,taekwondo,2,Iran,IRI,1,1,0,2
+tokyo-2020,taekwondo,3,Denmark,DEN,1,0,0,1
+tokyo-2020,taekwondo,3,Mexico,MEX,1,0,0,1
+tokyo-2020,taekwondo,3,Peru,PER,1,0,0,1
+tokyo-2020,taekwondo,3,Uzbekistan,UZB,1,0,0,1
+tokyo-2020,taekwondo,4,Great Britain,GBR,0,1,1,2
+tokyo-2020,taekwondo,4,Turkiye,TUR,0,1,1,2
+tokyo-2020,taekwondo,5,Croatia,CRO,0,1,0,1
+tokyo-2020,taekwondo,5,Egypt,EGY,0,1,0,1
+tokyo-2020,taekwondo,6,RPC,RPC,0,0,3,3
+tokyo-2020,taekwondo,7,Argentina,ARG,0,0,1,1
+tokyo-2020,taekwondo,7,Australia,AUS,0,0,1,1
+tokyo-2020,taekwondo,7,China,CHN,0,0,1,1
+tokyo-2020,taekwondo,7,South Korea,KOR,0,0,1,1
+tokyo-2020,taekwondo,7,Thailand,THA,0,0,1,1
+tokyo-2020,taekwondo,7,United States,USA,0,0,1,1
+tokyo-2020,triathlon,1,United States,USA,3,2,0,5
+tokyo-2020,triathlon,2,Spain,ESP,1,1,2,4
+tokyo-2020,triathlon,3,Great Britain,GBR,1,1,1,3
+tokyo-2020,triathlon,4,France,FRA,1,0,1,2
+tokyo-2020,triathlon,5,Germany,GER,1,0,0,1
+tokyo-2020,triathlon,5,Netherlands,NED,1,0,0,1
+tokyo-2020,triathlon,6,Italy,ITA,0,1,2,3
+tokyo-2020,triathlon,7,Japan,JPN,0,1,1,2
+tokyo-2020,triathlon,8,Australia,AUS,0,1,0,1
+tokyo-2020,triathlon,8,Austria,AUT,0,1,0,1
+tokyo-2020,triathlon,9,Canada,CAN,0,0,1,1
+tokyo-2020,table-tennis,1,China,CHN,16,4,6,26
+tokyo-2020,table-tennis,2,Australia,AUS,2,4,0,6
+tokyo-2020,table-tennis,3,France,FRA,2,2,7,11
+tokyo-2020,table-tennis,4,Poland,POL,2,1,4,7
+tokyo-2020,table-tennis,5,South Korea,KOR,1,6,6,13
+tokyo-2020,table-tennis,6,RPC,RPC,1,2,4,7
+tokyo-2020,table-tennis,7,Ukraine,UKR,1,2,3,6
+tokyo-2020,table-tennis,8,Germany,GER,1,2,2,5
+tokyo-2020,table-tennis,9,Netherlands,NED,1,1,0,2
+tokyo-2020,table-tennis,10,Turkiye,TUR,1,0,3,4
+tokyo-2020,table-tennis,11,Belgium,BEL,1,0,1,2
+tokyo-2020,table-tennis,11,Hungary,HUN,1,0,1,2
+tokyo-2020,table-tennis,11,United States,USA,1,0,1,2
+tokyo-2020,table-tennis,12,Great Britain,GBR,0,2,5,7
+tokyo-2020,table-tennis,13,Brazil,BRA,0,1,2,3
+tokyo-2020,table-tennis,13,Slovakia,SVK,0,1,2,3
+tokyo-2020,table-tennis,14,Denmark,DEN,0,1,0,1
+tokyo-2020,table-tennis,14,India,IND,0,1,0,1
+tokyo-2020,table-tennis,14,Sweden,SWE,0,1,0,1
+tokyo-2020,table-tennis,15,Thailand,THA,0,0,2,2
+tokyo-2020,table-tennis,16,Chinese Taipei,TPE,0,0,1,1
+tokyo-2020,table-tennis,16,Croatia,CRO,0,0,1,1
+tokyo-2020,table-tennis,16,Czechia,CZE,0,0,1,1
+tokyo-2020,table-tennis,16,"Hong Kong, China",HKG,0,0,1,1
+tokyo-2020,table-tennis,16,Indonesia,INA,0,0,1,1
+tokyo-2020,table-tennis,16,Italy,ITA,0,0,1,1
+tokyo-2020,table-tennis,16,Japan,JPN,0,0,1,1
+tokyo-2020,table-tennis,16,Jordan,JOR,0,0,1,1
+tokyo-2020,table-tennis,16,Montenegro,MNE,0,0,1,1
+tokyo-2020,table-tennis,16,Nigeria,NGR,0,0,1,1
+tokyo-2020,table-tennis,16,Norway,NOR,0,0,1,1
+tokyo-2020,table-tennis,16,Serbia,SRB,0,0,1,1
+tokyo-2020,table-tennis,16,Spain,ESP,0,0,1,1
+tokyo-2020,wheelchair-basketball,1,United States,USA,1,0,1,2
+tokyo-2020,wheelchair-basketball,2,Netherlands,NED,1,0,0,1
+tokyo-2020,wheelchair-basketball,3,China,CHN,0,1,0,1
+tokyo-2020,wheelchair-basketball,3,Japan,JPN,0,1,0,1
+tokyo-2020,wheelchair-basketball,4,Great Britain,GBR,0,0,1,1
+tokyo-2020,wheelchair-fencing,1,China,CHN,11,4,5,20
+tokyo-2020,wheelchair-fencing,2,RPC,RPC,2,2,3,7
+tokyo-2020,wheelchair-fencing,3,Great Britain,GBR,1,1,3,5
+tokyo-2020,wheelchair-fencing,4,Hungary,HUN,1,1,1,3
+tokyo-2020,wheelchair-fencing,5,Italy,ITA,1,1,0,2
+tokyo-2020,wheelchair-fencing,6,Ukraine,UKR,0,4,1,5
+tokyo-2020,wheelchair-fencing,7,Brazil,BRA,0,1,0,1
+tokyo-2020,wheelchair-fencing,7,Georgia,GEO,0,1,0,1
+tokyo-2020,wheelchair-fencing,7,Poland,POL,0,1,0,1
+tokyo-2020,wheelchair-fencing,8,France,FRA,0,0,1,1
+tokyo-2020,wheelchair-fencing,8,Greece,GRE,0,0,1,1
+tokyo-2020,wheelchair-fencing,8,Thailand,THA,0,0,1,1
+tokyo-2020,wheelchair-rugby,1,Great Britain,GBR,1,0,0,1
+tokyo-2020,wheelchair-rugby,2,United States,USA,0,1,0,1
+tokyo-2020,wheelchair-rugby,3,Japan,JPN,0,0,1,1
+toronto-1976,volleyball,1,Israel,ISR,1,0,0,1
+toronto-1976,volleyball,3,Great Britain,GBR,0,1,0,1
+toronto-1976,volleyball,5,Finland,FIN,0,0,2,2
+toronto-1976,volleyball,1,Netherlands,NED,1,0,0,1
+toronto-1976,volleyball,3,West Germany,FRG,0,1,0,1
+arnhem-1980,volleyball,1,Israel,ISR,1,0,0,1
+arnhem-1980,volleyball,3,Poland,POL,0,1,0,1
+arnhem-1980,volleyball,5,West Germany,FRG,0,0,1,1
+arnhem-1980,volleyball,1,Netherlands,NED,1,0,0,1
+arnhem-1980,volleyball,3,Sweden,SWE,0,1,0,1
+arnhem-1980,volleyball,5,Yugoslavia,YUG,0,0,1,1
+stoke-mandeville-new-york-1984,volleyball,1,Israel,ISR,1,0,0,1
+stoke-mandeville-new-york-1984,volleyball,3,West Germany,FRG,0,2,0,2
+stoke-mandeville-new-york-1984,volleyball,4,France,FRA,0,0,1,1
+stoke-mandeville-new-york-1984,volleyball,1,Netherlands,NED,1,0,0,1
+stoke-mandeville-new-york-1984,volleyball,4,Sweden,SWE,0,0,1,1
+1988-seoul,volleyball,1,Iran,IRI,1,0,0,1
+1988-seoul,volleyball,3,Israel,ISR,0,1,0,1
+1988-seoul,volleyball,5,Norway,NOR,0,0,1,1
+1988-seoul,volleyball,1,West Germany,FRG,1,0,0,1
+1988-seoul,volleyball,3,Netherlands,NED,0,1,0,1
+1988-seoul,volleyball,5,Poland,POL,0,0,1,1
+1992-barcelona,volleyball,1,Germany,GER,1,0,1,2
+1992-barcelona,volleyball,3,Poland,POL,0,1,0,1
+1992-barcelona,volleyball,5,Czechoslovakia,TCH,0,0,1,1
+1992-barcelona,volleyball,2,Iran,IRI,1,0,0,1
+1992-barcelona,volleyball,3,Netherlands,NED,0,1,0,1
+1996-atlanta,volleyball,1,Germany,GER,1,0,0,1
+1996-atlanta,volleyball,3,Slovakia,SVK,0,1,0,1
+1996-atlanta,volleyball,5,Poland,POL,0,0,1,1
+1996-atlanta,volleyball,1,Iran,IRI,1,0,0,1
+1996-atlanta,volleyball,3,Norway,NOR,0,1,0,1
+1996-atlanta,volleyball,5,Finland,FIN,0,0,1,1
+2000-sydney,volleyball,1,Iran,IRI,1,0,0,1
+2000-sydney,volleyball,3,Bosnia and Herzegovina,BIH,0,1,0,1
+2000-sydney,volleyball,5,Finland,FIN,0,0,1,1
+2000-sydney,volleyball,1,Germany,GER,1,0,0,1
+2000-sydney,volleyball,3,Canada,CAN,0,1,0,1
+2000-sydney,volleyball,5,Slovakia,SVK,0,0,1,1
+2004-athens,volleyball,1,Bosnia and Herzegovina,BIH,1,0,0,1
+2004-athens,volleyball,3,Iran,IRI,0,1,0,1
+2004-athens,volleyball,5,Egypt,EGY,0,0,1,1
+2004-athens,volleyball,1,China,CHN,1,0,0,1
+2004-athens,volleyball,3,Netherlands,NED,0,1,0,1
+2004-athens,volleyball,5,United States,USA,0,0,1,1
+2008-beijing,volleyball,1,Iran,IRI,1,0,0,1
+2008-beijing,volleyball,3,Bosnia and Herzegovina,BIH,0,1,0,1
+2008-beijing,volleyball,5,Russia,RUS,0,0,1,1
+2008-beijing,volleyball,1,China,CHN,1,0,0,1
+2008-beijing,volleyball,3,United States,USA,0,1,0,1
+2008-beijing,volleyball,5,Netherlands,NED,0,0,1,1
+london-2012,volleyball,1,Bosnia and Herzegovina,BIH,1,0,0,1
+london-2012,volleyball,3,Iran,IRI,0,1,0,1
+london-2012,volleyball,5,Germany,GER,0,0,1,1
+london-2012,volleyball,1,China,CHN,1,0,0,1
+london-2012,volleyball,3,United States,USA,0,1,0,1
+london-2012,volleyball,5,Ukraine,UKR,0,0,1,1
+rio-2016,volleyball,1,Iran,IRI,1,0,0,1
+rio-2016,volleyball,3,Bosnia and Herzegovina,BIH,0,1,0,1
+rio-2016,volleyball,5,Egypt,EGY,0,0,1,1
+rio-2016,volleyball,1,United States,USA,1,0,0,1
+rio-2016,volleyball,3,China,CHN,0,1,0,1
+rio-2016,volleyball,5,Brazil,BRA,0,0,1,1
+tokyo-2020,volleyball,1,Iran,IRI,1,0,0,1
+tokyo-2020,volleyball,3,RPC,RPC,0,1,0,1
+tokyo-2020,volleyball,5,Bosnia and Herzegovina,BIH,0,0,1,1
+tokyo-2020,volleyball,1,United States,USA,1,0,0,1
+tokyo-2020,volleyball,3,China,CHN,0,1,0,1
+tokyo-2020,volleyball,5,Brazil,BRA,0,0,1,1
+stoke-mandeville-new-york-1984,cycling,1,Norway,NOR,3,1,0,4
+stoke-mandeville-new-york-1984,cycling,2,France,FRA,2,0,0,2
+stoke-mandeville-new-york-1984,cycling,3,Canada,CAN,1,2,0,3
+stoke-mandeville-new-york-1984,cycling,4,Netherlands,NED,1,0,2,3
+stoke-mandeville-new-york-1984,cycling,5,West Germany,FRG,0,1,2,3
+stoke-mandeville-new-york-1984,cycling,6,United States,USA,0,1,1,2
+stoke-mandeville-new-york-1984,cycling,6,Portugal,POR,0,1,1,2
+stoke-mandeville-new-york-1984,cycling,8,Finland,FIN,0,1,0,1
+1988-seoul,cycling,1,South Korea,KOR,2,3,2,7
+1988-seoul,cycling,2,Canada,CAN,2,1,0,3
+1988-seoul,cycling,3,France,FRA,2,0,1,3
+1988-seoul,cycling,4,Belgium,BEL,1,1,1,3
+1988-seoul,cycling,5,United States,USA,0,1,2,3
+1988-seoul,cycling,6,Czechoslovakia,TCH,0,1,0,1
+1988-seoul,cycling,7,Norway,NOR,0,0,1,1
+1992-barcelona,cycling,1,Germany,GER,2,0,1,3
+1992-barcelona,cycling,2,United States,USA,1,3,0,4
+1992-barcelona,cycling,3,Canada,CAN,1,2,1,4
+1992-barcelona,cycling,4,Austria,AUT,1,1,0,2
+1992-barcelona,cycling,4,Netherlands,NED,1,1,0,2
+1992-barcelona,cycling,6,Spain,ESP,1,0,3,4
+1992-barcelona,cycling,7,Belgium,BEL,1,0,1,2
+1992-barcelona,cycling,7,France,FRA,1,0,1,2
+1992-barcelona,cycling,9,Czechoslovakia,TCH,0,1,0,1
+1992-barcelona,cycling,9,Switzerland,SUI,0,1,0,1
+1992-barcelona,cycling,11,Italy,ITA,0,0,1,1
+1992-barcelona,cycling,11,South Korea,KOR,0,0,1,1
+1996-atlanta,cycling,1,Australia,AUS,5,5,0,10
+1996-atlanta,cycling,2,France,FRA,5,1,3,9
+1996-atlanta,cycling,3,Italy,ITA,3,2,1,6
+1996-atlanta,cycling,4,Canada,CAN,3,1,3,7
+1996-atlanta,cycling,5,United States,USA,2,5,6,13
+1996-atlanta,cycling,6,Spain,ESP,1,1,3,5
+1996-atlanta,cycling,7,Belgium,BEL,1,1,0,2
+1996-atlanta,cycling,8,Austria,AUT,1,0,2,3
+1996-atlanta,cycling,8,Japan,JPN,1,0,2,3
+1996-atlanta,cycling,10,Netherlands,NED,1,0,0,1
+1996-atlanta,cycling,11,Germany,GER,0,3,1,4
+1996-atlanta,cycling,12,Czech Republic,CZE,0,1,0,1
+1996-atlanta,cycling,12,Slovakia,SVK,0,1,0,1
+1996-atlanta,cycling,12,South Korea,KOR,0,1,0,1
+1996-atlanta,cycling,12,Switzerland,SUI,0,1,0,1
+1996-atlanta,cycling,16,Norway,NOR,0,0,2,2
+2000-sydney,cycling,1,Australia,AUS,10,3,8,21
+2000-sydney,cycling,2,United States,USA,3,4,2,9
+2000-sydney,cycling,3,Czech Republic,CZE,3,1,2,6
+2000-sydney,cycling,4,Belarus,BLR,2,0,0,2
+2000-sydney,cycling,5,Germany,GER,1,4,0,5
+2000-sydney,cycling,6,Spain,ESP,1,2,3,6
+2000-sydney,cycling,7,France,FRA,1,2,2,5
+2000-sydney,cycling,8,Italy,ITA,1,1,3,5
+2000-sydney,cycling,9,Japan,JPN,1,1,0,2
+2000-sydney,cycling,9,Netherlands,NED,1,1,0,2
+2000-sydney,cycling,11,Slovakia,SVK,1,0,1,2
+2000-sydney,cycling,11,South Korea,KOR,1,0,1,2
+2000-sydney,cycling,11,Switzerland,SUI,1,0,1,2
+2000-sydney,cycling,14,Canada,CAN,0,2,1,3
+2000-sydney,cycling,15,Austria,AUT,0,2,0,2
+2000-sydney,cycling,15,Great Britain,GBR,0,2,0,2
+2000-sydney,cycling,17,Norway,NOR,0,1,2,3
+2000-sydney,cycling,18,New Zealand,NZL,0,1,0,1
+2000-sydney,cycling,19,South Africa,RSA,0,0,1,1
+2004-athens,cycling,1,Australia,AUS,10,7,7,24
+2004-athens,cycling,2,Spain,ESP,3,4,0,7
+2004-athens,cycling,3,Austria,AUT,3,3,1,7
+2004-athens,cycling,4,Great Britain,GBR,3,2,2,7
+2004-athens,cycling,5,United States,USA,2,4,3,9
+2004-athens,cycling,6,Germany,GER,2,1,3,6
+2004-athens,cycling,7,Czech Republic,CZE,2,1,2,5
+2004-athens,cycling,8,France,FRA,1,3,2,6
+2004-athens,cycling,9,China,CHN,1,1,1,3
+2004-athens,cycling,10,Slovakia,SVK,1,1,0,2
+2004-athens,cycling,11,Belarus,BLR,1,0,0,1
+2004-athens,cycling,11,Belgium,BEL,1,0,0,1
+2004-athens,cycling,11,Denmark,DEN,1,0,0,1
+2004-athens,cycling,14,Switzerland,SUI,0,1,3,4
+2004-athens,cycling,15,Italy,ITA,0,1,2,3
+2004-athens,cycling,16,Japan,JPN,0,1,1,2
+2004-athens,cycling,16,Netherlands,NED,0,1,1,2
+2004-athens,cycling,18,Argentina,ARG,0,0,1,1
+2004-athens,cycling,18,New Zealand,NZL,0,0,1,1
+2004-athens,cycling,18,South Africa,RSA,0,0,1,1
+2008-beijing,cycling,1,Great Britain,GBR,17,3,0,20
+2008-beijing,cycling,2,United States,USA,5,4,4,13
+2008-beijing,cycling,3,Germany,GER,3,6,4,13
+2008-beijing,cycling,4,Australia,AUS,3,5,7,15
+2008-beijing,cycling,5,Spain,ESP,3,5,3,11
+2008-beijing,cycling,6,Czech Republic,CZE,2,2,4,8
+2008-beijing,cycling,7,Italy,ITA,2,1,3,6
+2008-beijing,cycling,8,Switzerland,SUI,2,0,0,2
+2008-beijing,cycling,9,Japan,JPN,1,3,2,6
+2008-beijing,cycling,10,France,FRA,1,1,2,4
+2008-beijing,cycling,11,South Africa,RSA,1,1,1,3
+2008-beijing,cycling,12,Austria,AUT,1,1,0,2
+2008-beijing,cycling,12,Belarus,BLR,1,1,0,2
+2008-beijing,cycling,14,New Zealand,NZL,1,0,3,4
+2008-beijing,cycling,15,Poland,POL,1,0,1,2
+2008-beijing,cycling,16,China,CHN,0,3,4,7
+2008-beijing,cycling,17,Netherlands,NED,0,3,0,3
+2008-beijing,cycling,18,South Korea,KOR,0,1,1,2
+2008-beijing,cycling,19,Finland,FIN,0,1,0,1
+2008-beijing,cycling,19,Romania,ROU,0,1,0,1
+2008-beijing,cycling,19,Slovakia,SVK,0,1,0,1
+2008-beijing,cycling,22,Canada,CAN,0,0,2,2
+2008-beijing,cycling,22,Lebanon,LIB,0,0,2,2
+2008-beijing,cycling,24,Belgium,BEL,0,0,1,1
+london-2012,cycling,1,Great Britain,GBR,8,9,5,22
+london-2012,cycling,2,United States,USA,6,5,6,17
+london-2012,cycling,3,China,CHN,6,4,5,15
+london-2012,cycling,4,Australia,AUS,6,4,4,14
+london-2012,cycling,5,Germany,GER,4,6,3,13
+london-2012,cycling,6,Italy,ITA,4,3,3,10
+london-2012,cycling,7,Poland,POL,3,4,0,7
+london-2012,cycling,8,Spain,ESP,2,2,3,7
+london-2012,cycling,9,Switzerland,SUI,2,2,2,6
+london-2012,cycling,10,Ireland,IRL,2,1,2,5
+london-2012,cycling,11,Ukraine,UKR,2,0,0,2
+london-2012,cycling,12,Czech Republic,CZE,1,2,2,5
+london-2012,cycling,13,Netherlands,NED,1,1,3,5
+london-2012,cycling,14,Austria,AUT,1,1,2,4
+london-2012,cycling,14,New Zealand,NZL,1,1,2,4
+london-2012,cycling,16,Romania,ROU,1,1,0,2
+london-2012,cycling,17,Canada,CAN,1,0,1,2
+london-2012,cycling,18,Israel,ISR,0,1,0,1
+london-2012,cycling,18,South Africa,RSA,0,1,0,1
+london-2012,cycling,20,Argentina,ARG,0,0,1,1
+london-2012,cycling,20,Belgium,BEL,0,0,1,1
+london-2012,cycling,20,France,FRA,0,0,1,1
+london-2012,cycling,20,Japan,JPN,0,0,1,1
+london-2012,cycling,20,Russia,RUS,0,0,1,1
+london-2012,cycling,20,Slovakia,SVK,0,0,1,1
+rio-2016,cycling,1,Great Britain,GBR,12,3,6,21
+rio-2016,cycling,2,Germany,GER,8,3,4,15
+rio-2016,cycling,3,Netherlands,NED,5,5,6,16
+rio-2016,cycling,4,Italy,ITA,5,2,5,12
+rio-2016,cycling,5,United States,USA,4,9,5,18
+rio-2016,cycling,6,Australia,AUS,3,7,3,13
+rio-2016,cycling,7,China,CHN,3,3,4,10
+rio-2016,cycling,8,Poland,POL,2,3,0,5
+rio-2016,cycling,9,Ireland,IRL,2,2,1,5
+rio-2016,cycling,10,Slovakia,SVK,2,1,1,4
+rio-2016,cycling,11,Ukraine,UKR,2,0,0,2
+rio-2016,cycling,12,Canada,CAN,1,3,5,9
+rio-2016,cycling,13,South Africa,RSA,1,0,0,1
+rio-2016,cycling,14,Austria,AUT,0,2,0,2
+rio-2016,cycling,14,Japan,JPN,0,2,0,2
+rio-2016,cycling,16,Spain,ESP,0,1,2,3
+rio-2016,cycling,17,Belgium,BEL,0,1,1,2
+rio-2016,cycling,17,Brazil,BRA,0,1,1,2
+rio-2016,cycling,17,New Zealand,NZL,0,1,1,2
+rio-2016,cycling,20,South Korea,KOR,0,1,0,1
+rio-2016,cycling,21,Colombia,COL,0,0,3,3
+rio-2016,cycling,22,France,FRA,0,0,1,1
+rio-2016,cycling,22,Switzerland,SUI,0,0,1,1
+tokyo-2020,cycling,1,Great Britain,GBR,10,11,3,24
+tokyo-2020,cycling,2,Netherlands,NED,9,3,4,16
+tokyo-2020,cycling,3,France,FRA,5,4,8,17
+tokyo-2020,cycling,4,Australia,AUS,4,4,5,13
+tokyo-2020,cycling,5,Germany,GER,3,4,5,12
+tokyo-2020,cycling,6,China,CHN,3,4,3,10
+tokyo-2020,cycling,7,United States,USA,3,2,3,8
+tokyo-2020,cycling,8,RPC,RPC,3,0,0,3
+tokyo-2020,cycling,9,Ireland,IRL,2,1,1,4
+tokyo-2020,cycling,9,Slovakia,SVK,2,1,1,4
+tokyo-2020,cycling,11,Spain,ESP,2,0,4,6
+tokyo-2020,cycling,12,Japan,JPN,2,0,0,2
+tokyo-2020,cycling,13,Italy,ITA,1,5,1,7
+tokyo-2020,cycling,14,Austria,AUT,1,2,3,6
+tokyo-2020,cycling,15,South Africa,RSA,1,0,0,1
+tokyo-2020,cycling,16,Belgium,BEL,0,2,3,5
+tokyo-2020,cycling,17,Sweden,SWE,0,2,2,4
+tokyo-2020,cycling,18,Canada,CAN,0,2,1,3
+tokyo-2020,cycling,18,Ukraine,UKR,0,2,1,3
+tokyo-2020,cycling,20,Romania,ROU,0,1,0,1
+tokyo-2020,cycling,20,Switzerland,SUI,0,1,0,1
+tokyo-2020,cycling,22,Colombia,COL,0,0,2,2
+tokyo-2020,cycling,23,Poland,POL,0,0,1,1
+1992-barcelona,wheelchair tennis,1,Netherlands,NED,2,1,0,3
+1992-barcelona,wheelchair tennis,1,United States,USA,2,1,0,3
+1992-barcelona,wheelchair tennis,3,France,FRA,0,1,2,3
+1992-barcelona,wheelchair tennis,3,Germany,GER,0,1,2,3
+1996-atlanta,wheelchair tennis,1,Netherlands,NED,3,1,2,5
+1996-atlanta,wheelchair tennis,2,United States,USA,1,2,0,3
+1996-atlanta,wheelchair tennis,3,Australia,AUS,0,1,1,2
+1996-atlanta,wheelchair tennis,4,France,FRA,0,0,1,1
+2000-sydney,wheelchair tennis,1,Netherlands,NED,3,1,1,5
+2000-sydney,wheelchair tennis,2,Australia,AUS,1,2,0,3
+2000-sydney,wheelchair tennis,3,United States,USA,0,1,1,2
+2000-sydney,wheelchair tennis,4,Germany,GER,0,0,2,2
+2004-athens,wheelchair tennis,1,Netherlands,NED,3,1,2,6
+2004-athens,wheelchair tennis,2,Great Britain,GBR,1,1,0,2
+2004-athens,wheelchair tennis,2,United States,USA,1,1,0,2
+2004-athens,wheelchair tennis,4,Japan,JPN,1,0,0,1
+2004-athens,wheelchair tennis,5,Australia,AUS,0,1,2,3
+2004-athens,wheelchair tennis,6,France,FRA,0,1,1,2
+2004-athens,wheelchair tennis,7,Thailand,THA,0,1,0,1
+2004-athens,wheelchair tennis,8,Switzerland,SUI,0,0,1,1
+2008-beijing,wheelchair tennis,1,Netherlands,NED,2,3,1,6
+2008-beijing,wheelchair tennis,2,France,FRA,1,0,2,3
+2008-beijing,wheelchair tennis,3,Great Britain,GBR,1,0,1,2
+2008-beijing,wheelchair tennis,3,Japan,JPN,1,0,1,2
+2008-beijing,wheelchair tennis,3,United States,USA,1,0,1,2
+2008-beijing,wheelchair tennis,6,Sweden,SWE,0,2,0,2
+2008-beijing,wheelchair tennis,7,Israel,ISR,0,1,0,1
+london-2012,wheelchair tennis,1,Netherlands,NED,2,2,2,6
+london-2012,wheelchair tennis,2,United States,USA,1,1,1,3
+london-2012,wheelchair tennis,3,Israel,ISR,1,0,1,2
+london-2012,wheelchair tennis,4,Japan,JPN,1,0,0,1
+london-2012,wheelchair tennis,4,Sweden,SWE,1,0,0,1
+london-2012,wheelchair tennis,6,France,FRA,0,2,1,3
+london-2012,wheelchair tennis,7,Great Britain,GBR,0,1,1,2
+rio-2016,wheelchair tennis,1,Netherlands,NED,2,2,0,4
+rio-2016,wheelchair tennis,2,Australia,AUS,2,0,0,2
+rio-2016,wheelchair tennis,3,Great Britain,GBR,1,3,2,6
+rio-2016,wheelchair tennis,4,France,FRA,1,0,0,1
+rio-2016,wheelchair tennis,5,United States,USA,0,1,1,2
+rio-2016,wheelchair tennis,6,Japan,JPN,0,0,2,2
+rio-2016,wheelchair tennis,7,Belgium,BEL,0,0,1,1
+tokyo-2020,wheelchair tennis,1,Netherlands,NED,3,2,2,7
+tokyo-2020,wheelchair tennis,2,Japan,JPN,1,1,2,4
+tokyo-2020,wheelchair tennis,3,Australia,AUS,1,1,0,2
+tokyo-2020,wheelchair tennis,4,France,FRA,1,0,0,1
+tokyo-2020,wheelchair tennis,5,Great Britain,GBR,0,2,2,4
+1996-atlanta,wheelchair rugby,1,United States,USA,1,0,0,1
+1996-atlanta,wheelchair rugby,2,New Zealand,NZL,0,1,0,1
+1996-atlanta,wheelchair rugby,3,Canada,CAN,0,0,1,1
+2000-sydney,wheelchair rugby,1,United States,USA,1,0,0,1
+2000-sydney,wheelchair rugby,2,Australia,AUS,0,1,0,1
+2000-sydney,wheelchair rugby,3,New Zealand,NZL,0,0,1,1
+2004-athens,wheelchair rugby,1,New Zealand,NZL,1,0,0,1
+2004-athens,wheelchair rugby,2,Canada,CAN,0,1,0,1
+2004-athens,wheelchair rugby,3,United States,USA,0,0,1,1
+2008-beijing,wheelchair rugby,1,United States,USA,1,0,0,1
+2008-beijing,wheelchair rugby,2,Australia,AUS,0,1,0,1
+2008-beijing,wheelchair rugby,3,Canada,CAN,0,0,1,1
+london-2012,wheelchair rugby,1,Australia,AUS,1,0,0,1
+london-2012,wheelchair rugby,2,Canada,CAN,0,1,0,1
+london-2012,wheelchair rugby,3,United States,USA,0,0,1,1
+rio-2016,wheelchair rugby,1,Australia,AUS,1,0,0,1
+rio-2016,wheelchair rugby,2,United States,USA,0,1,0,1
+rio-2016,wheelchair rugby,3,Japan,JPN,0,0,1,1
+tokyo-2020,wheelchair rugby,1,Great Britain,GBR,1,0,0,1
+tokyo-2020,wheelchair rugby,2,United States,USA,0,1,0,1
+tokyo-2020,wheelchair rugby,3,Japan,JPN,0,0,1,1
+rio-2016,canoeing,1,Great Britain,GBR,3,0,2,5
+rio-2016,canoeing,2,Australia,AUS,1,1,1,3
+rio-2016,canoeing,3,Ukraine,UKR,1,1,0,2
+rio-2016,canoeing,4,Poland,POL,1,0,1,2
+rio-2016,canoeing,5,Germany,GER,0,2,0,2
+rio-2016,canoeing,6,Austria,AUT,0,1,0,1
+rio-2016,canoeing,6,Hungary,HUN,0,1,0,1
+rio-2016,canoeing,8,Brazil,BRA,0,0,1,1
+rio-2016,canoeing,8,France,FRA,0,0,1,1
+tokyo-2020,canoeing,1,Great Britain,GBR,3,1,3,7
+tokyo-2020,canoeing,2,Australia,AUS,2,1,0,3
+tokyo-2020,canoeing,3,Brazil,BRA,1,2,0,3
+tokyo-2020,canoeing,3,Ukraine,UKR,1,2,0,3
+tokyo-2020,canoeing,5,Germany,GER,1,0,1,2
+tokyo-2020,canoeing,5,Hungary,HUN,1,0,1,2
+tokyo-2020,canoeing,7,France,FRA,0,1,1,2
+tokyo-2020,canoeing,8,RPC,RPC,0,1,0,1
+tokyo-2020,canoeing,8,United States,USA,0,1,0,1
+tokyo-2020,canoeing,10,Chile,CHI,0,0,1,1
+tokyo-2020,canoeing,10,Italy,ITA,0,0,1,1
+tokyo-2020,canoeing,10,Portugal,POR,0,0,1,1
+1996-atlanta,sailing,1,Great Britain,GBR,1,0,0,1
+1996-atlanta,sailing,2,Canada,CAN,0,1,0,1
+1996-atlanta,sailing,3,United States,USA,0,0,1,1
+2000-sydney,sailing,1,Germany,GER,1,1,0,2
+2000-sydney,sailing,2,Australia,AUS,1,0,0,1
+2000-sydney,sailing,3,Denmark,DEN,0,1,0,1
+2000-sydney,sailing,4,Canada,CAN,0,0,1,1
+2000-sydney,sailing,4,United States,USA,0,0,1,1
+2004-athens,sailing,1,France,FRA,1,0,0,1
+2004-athens,sailing,1,Israel,ISR,1,0,0,1
+2004-athens,sailing,3,Netherlands,NED,0,1,1,2
+2004-athens,sailing,3,United States,USA,0,1,1,2
+2008-beijing,sailing,1,Canada,CAN,1,0,1,2
+2008-beijing,sailing,1,United States,USA,1,0,1,2
+2008-beijing,sailing,3,Germany,GER,1,0,0,1
+2008-beijing,sailing,4,France,FRA,0,2,0,2
+2008-beijing,sailing,5,Australia,AUS,0,1,1,2
+london-2012,sailing,1,Great Britain,GBR,1,0,1,2
+london-2012,sailing,1,Netherlands,NED,1,0,1,2
+london-2012,sailing,3,Australia,AUS,1,0,0,1
+london-2012,sailing,4,Germany,GER,0,2,0,2
+london-2012,sailing,5,United States,USA,0,1,0,1
+london-2012,sailing,6,Norway,NOR,0,0,1,1
+rio-2016,sailing,1,Australia,AUS,2,1,0,3
+rio-2016,sailing,2,France,FRA,1,0,0,1
+rio-2016,sailing,3,Canada,CAN,0,1,1,2
+rio-2016,sailing,4,United States,USA,0,1,0,1
+rio-2016,sailing,5,Great Britain,GBR,0,0,2,2
